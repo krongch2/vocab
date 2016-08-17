@@ -77,6 +77,9 @@ Yukino Yukinoshita: How utterly deplorable (completely unpleasant).
 - the'atrics (plural)
 Count Bleck: Spare Count Bleck your theatrics (emotional and dramatic behavior). The Light Prognosticus is false.
 
+
+################################################################################### PART ONE ########################################################################################
+
 - ramifi'cation (plural)
 The ramifications behind this and the guide should be self-explanatory.
 Next a clear, detailed paragraph or more will analyze the idea in all its ramifications.
@@ -141,6 +144,9 @@ Bear in mind that everyone has an optimum rate of learning.
 
 - aboveboard (adj)
 Your attitude to life is simple, direct, and aboveboard (legitimate, honest, and open). Every you made is based on the answer to one question: "What's in it for me?"
+
+
+**CHAPTER 3**
 
 - ruthless (adj)
 If your selfishness, green, and ruthless (so determined to get what you want that you do not care if you have to hurt other people in order to get it) desire for self-advancement hurt other people, that's too bad.
@@ -291,16 +297,21 @@ You will be acquiting yourself creditably if you check the correct word five tim
 - in'credulous (adj)
 Don't sound so incredulous. What I am saying is absolutely true.
 
+
+**CHAPTER 4**
+
 - 'internist (cn)
 "What's wrong with you?"
 Aaron had a medical contact he could rely on, an internist he'd helped through a cancerous divorce.
 
 - obste'trician = midwife (cn)
-- ob'stetrics (un)
-- ob'stetric (adj)
 "Having a baby?"
 Family physicians and obstetricians need to be aware of this useful method of natural childbirth.
+
+- ob'stetrics (un)
 He was appointed a consultant in obstetrics and gynaecology at the Huddersfield Royal Infirmary in 1959.
+
+- ob'stetric (adj)
 The hospital and associated units provide obstetric care for a population of about 400 000 people.
 
 - pedia'trician (cn)
@@ -457,103 +468,158 @@ Sigmund Freud
 For example, Freud analysed his own daughter Anna over a period of several years, a flagrant (shocking) violation of psychoanalytic principles which most psychoanalysts would condemn.
 
 - 'osteopath (cn)
-- oste'opathy (un)
-- osteo'pathic (adj)
+ostéon (bone) + patho (suffering, feeling)
 Andrew Taylor Still
+Rachel was then referred to a cranial osteopath who reduced the twist.
+
+- oste'opathy (un)
 Massage
+But if you want to get rid of your headache today and stop it returning tomorrow and the day after, osteopathy could be the answer.
+
+- osteo'pathic (adj)
+In addition to chiropractors, many osteopathic doctors and some physical therapists have training in spinal manipulation.
 
 - 'chiropractor (cn)
-Manipulates articultions connected to the spinal column.
+The most popular alternative therapy for back pain is spinal manipulation, usually performed by chiropractors (a doctor who manipulates articultions connected to the spinal column).
 
-- gra'phologist
-- gra'phology
-- grapho'logical
-Analyzes handwriting.
+- gra'phologist (cn)
+On the other hand, I do think graphologists (specialist who analyzes handwriting) can come in handy when verifying authenticity of autographs.
 
-- geron'tologist
-- geron'tology
-- geronto'logical
-Deals with non-medical problems of aging.
+- gra'phology (un)
+In France, application letters are hand-written since graphology is used in the selection process.
+
+- grapho'logical (adj)
+In fact, similar tests of subjective validation, with identical results, have been done on astrological charts and graphological readings.
+
+- geron'tologist (cn)
+The participants in the study were accessed through the referrals of gerontologists known to the researcher.
+
+- geron'tology (un)
+The chair and professor of the department of gerontology (the scientific study of old age and its effect on the body) conducts research on the psychological aspects of aging, chronic illness and family caregiving.
+
+- geronto'logical (adj)
+Lynn had exceptional skills in her chosen field of gerontological nutrition.
 
 - psychoso'matic (adj)
-Caused by fear or anxiety rather than by a physical problem.
+Her doctor was convinced that most of Edith’s problems were psychosomatic (caused by fear or anxiety rather than by a physical problem).
 
 - psycho'genic (adj)
-Of psychic origin
 psychogenic disease
+Hormone therapy will bring about physical and perhaps psychogenic (of psychic origin) changes.
 
 - 'parlance (n)
 Instead, you "work out" (this is the term used in psychoanalytic parlance) early trauma in talk, in remembering, in exploring, in interpreting, in reliving childhood experiences.
+It is common parlance and part of our living language.
 
 - pedo'dontist (cn)
-- pedo'dontia, pedo'dontics (un)
-- pedo'dontic (adj)
 child + tooth
+A paedodontist is especially well-versed in the growth and development of children's teeth and jaws.
 
-- perio'dontist
-- perio'dontics
+- pedo'dontia, pedo'dontics (un)
+He specialized in pedodontics and orthodontia and was head of the orthodontic section of the Department of Dentistry of Westchester Medical Center.
+
+- pedo'dontic (adj)
+Our pediatric dental staff use our surgical facilities to provide comfortable and rapid pedodontic care in a secure environment.
+
+- perio'dontist (cn)
 surround + tooth = gum specialist
+If your gums bleed easily, see your dentist or periodontist.
 
-- endo'dontist
+- perio'dontics (un)
+Basic services such as fillings, oral surgery, periodontics (gum treatment) and endodontics (root canals) would be 70 per cent covered.
+
+- periodontal (adj)
+This phenomenon could have increased the severity of periodontal inflammation.
+
+- endo'dontist (cn)
 inner + tooth = pulp, root-canal
+After a root canal, the endodontist warned me that soda's ingredients eroded tooth enamel, making emergency procedures more likely.
 
-- exo'dontist
-- exo'dontia
-tooth extraction specialty
+- exo'dontist (cn)
+Dental anatomy, from the standpoint of the exodontist, should be studied in the light of mechanics.
 
-- chi'rography
-- chi'rographer
-- chiro'graphic
-'penmanship, handwriting, calligraphy
-Chirography is study of how handwriting has developed and its various aspects.
+- exo'dontia (un)
+The development of skill in inducing anesthesia has made it possible to perform the ofttimes (often) intricate phases of exodontia (tooth extraction specialty) in such a manner as to grant the patient freedom from the sensation of pain.
 
-- ca'lligraphy
-- ca'lligrapher
-- calli'graphic
-Calligraphy is the art of having a beautiful handwriting.
+- chi'rography (un)
+I will briefly touch upon that in this paper to establish a theoretical basis for the generated electronic chirography (penmanship, handwriting, calligraphy, study of how handwriting has developed and its various aspects) project.
 
-- ca'cography
-- ca'cographer
-- caco'graphic
-Bad + Handwriting
+- chi'rographer (cn)
+Willie, because of his proficiency as a chirographer, always wrote the date line in the register.
+
+- chiro'graphic (adj)
+That is, all knowledge is mediated via either typographic or chirographic words on a page, or even on a screen.
+
+- ca'lligraphy (un)
+kallos (beauty) + graphein (write) = the art of having a beautiful handwriting
+The inside message was written in red calligraphy by David's own hand.
+
+- ca'lligrapher, ca'lligraphist (cn)
+They reflect the works of well known calligraphers.
+
+- calli'graphic (adj)
+In compiling these texts, he developed a new calligraphic script.
+I'd used quills before, and would much rather use a ballpoint or even a modern calligraphic pen.
+
+- ca'cography (un)
+kakos (bad) + handwriting
+It is amusing to notice his lectures to Jeffrey, on his cacography, which may be attributed to a similar restlessness of mind.
+
+- ca'cographer (cn)
+I need to know if there are any cacographers strong enough to write the misspell that infected her.
+
+- caco'graphical (adj)
+A stupid series of cacographical errors.
 
 - sphygmoma'nometer
-blood-pressure apparatus
+All sphygmomanometers (blood-pressure apparatus) had calibrated mercury columns and were of standard size.
 
-- 'chiromancy
-- 'chiromancer
-- chiro'mantic
-Palm reader
+- 'chiromancy (un)
+These comparisons, like fortune-telling and chiromancy, or the interpretation of moral dispositions from the form of the hand, are to be classed among the aberrations of the human understanding.
 
-- advent ('ædvent)
+- 'chiromancer (cn)
+He claims that Thomas Becket consulted a chiromancer (palm reader) before setting out on an expedition against the inhabitants of North.
+
+- chiro'mantic (adj)
+The chiromantic feats
+
+- advent ('ædvent) (un)
 For centuries before the advent (first coming) of printing, calligraphy, or 'penmanship as an artistic expression, was practiced by monks.
+After the advent of Fire, the ancient Lords found the three souls.
 
 - a touch of something
-A ca'lligrapher is called upon to design and write announcements, place cards, et., as a touch of (a small amount of) elegance.
+A calligrapher is called upon to design and write announcements, place cards, et., as a touch of (a small amount of) elegance.
 
 - calli'pygian (adj)
-beauty + buttock
-Venus Callipyge
-Tight slacks are best worn by those of callipygian anatomy.
+Tight slacks are best worn by those of callipygian (beauty + buttock) anatomy.
+I'm in search of a callipygian woman.
 
-- pos'terior = 'buttock
+- pos'terior (cn)
+buttocks
+
+- posterior (adj)
+If our recognition of a Greek idiom in Ecclesiastes is valid, it points to a date posterior (coming after in time or order) to the conquest of Alexander the Great.
 
 - 'senile (adj)
-- se'nility (un)
 She worries about going senile.
 
-- se'nescent (adj)
-- se'nescence (un)
-Growing old
+- se'nility (un)
+People fear attenuated senility more than death.
 
-- a'ssiduous
+- se'nescent (adj)
+For leaf and stem samples, mature but not senescent (growing old, aging) tissues were taken.
+
+- se'nescence (un)
+Although it is characterized as being a deterioration process, senescence is considered to be a highly evolved genetic process.
+
+- a'ssiduous (adj)
 - 'counsel
-Perhaps, if you have been working as assiduously with this book as I have counseled, you have noticed an interesting phenomenon.
+Perhaps, if you have been working as assiduously (careful to make sure something is done properly and completely) with this book as I have counseled, you have noticed an interesting phenomenon.
 
 - un'canny (adj)
 - 'foresight (un)
 - inex'plicable (adj)
-Have I, with uncanny foresight, picked words which have suddenly and inexplicably become popular among writers?
+Have I, with uncanny (strange and difficult to explain) foresight, picked words which have suddenly and inexplicably (diificult to explain) become popular among writers?
 
 - unseeing (adj)
 - ungrasping (adj)
@@ -563,13 +629,12 @@ The same words occurred before and just as plentifully, but since they presented
 Correctness varies with the times and depends much more on geography, on social class, and on collective human caprice (tendency to change) than on the restrictions found in textbooks.
 
 - sus'ceptible (adj)
-In grammar, however, since the facts are highly susceptible (not immune)to change, we have to keep an eye peeled for trends.
+In grammar, however, since the facts are highly susceptible (not immune) to change, we have to keep an eye peeled for trends.
 
-- callis'thenics
-gymnastic exercises to achieve bodily fitness and grace of movement
-What is a safe substitude? Apparently none exists, so I suggest that you manage, by some linguistic callisthenics, to avoid having to make a choice.
+- calis'thenics
+What is a safe substitude? Apparently none exists, so I suggest that you manage, by some linguistic calisthenics (gymnastic exercises to achieve bodily fitness and grace of movement), to avoid having to make a choice.
 
-- Long-felt need
+- long-felt need
 A problem facing a particular technical area that has gone unsolved for a prolonged period
 
 - prissy (adj)
@@ -606,89 +671,98 @@ We have at last begun to fill in a few areas of ignorance.
 
 - whither (adv)
 Used to ask what future of something will be or how it will develop.
+Whither mankind? (What's the likely future of mankind)
 Whither socialism?
-Whither mankind?
 
-- anthro'pologist
-- anthro'pology
-- anthropo'logical
+- anthro'pologist (cn)
+- anthro'pology (un)
+- anthropo'logical (adj)
 
-- as'tronomer
-- as'tronomy
-- astro'nomical
+- as'tronomer (cn)
+- as'tronomy (un)
+- astro'nomical (adj)
 
-- as'trologer
-- as'trology
-- astro'logical
+- as'trologer (cn)
+- as'trology (un)
+- astro'logical (adj)
 
 - 'denizen (cn + of)
 Plant or animal, flesh or vegetable, denizen (an inhabitant or occupant of a particular place) of water, earth, or air if it lives and grows, this scientist [biologist] wants to know more about it.
 
 - flora and fauna (un)
-Plants and animals
+The sheer variety of marine flora and fauna (plants and animals) is enough to floor visitors.
 
-- ento'mologist
-- ento'mology
-- entomo'logical
+- ento'mologist (cn)
+- ento'mology (un)
+- entomo'logical (adj)
 
-- phi'lologist
-- phi'lology
-- philo'logical
+- phi'lologist (cn)
+- phi'lology (un)
+- philo'logical (adj)
 phil + logos = Love + word
 Linguistics
 
-- se'manticist
-- se'mantics
-- se'mantic, se'mantical
+- se'manticist (cn)
+- se'mantics (un)
+- se'mantic, se'mantical (adj)
 
-- soci'ologist
-- soci'ology
-- socio'logical
+- soci'ologist (cn)
+- soci'ology (un)
+- socio'logical (adj)
 
-- 'astronaut
-- 'cosmonaut
+- 'astronaut (cn)
+- 'cosmonaut (cn)
 
-- nausea
+- nausea (un)
+sickness
 
-- aster (ดอกเบญจมาศ)
-A star-shaped flower
+- aster (cn)
+The aster (a star-shaped flower, ดอกเบญจมาศ) is considered the other classic autumn flower.
 
-- astro'physics
+- astro'physics (un)
 
-- au'tonomy
-- au'tonomous
+- au'tonomy (un)
+It first took up arms in 1949 to demand autonomy from the military government.
 
-- ge'ologist
-- ge'ology
-- geo'logical
+- au'tonomous (adj)
+The arid (dry, no rain) land of this autonomous (having the freedom to govern itself) republic supports a nomadic lifestyle.
+Galicia is an autonomous region of Spain.
 
-- geome'trician
-- ge'ometry
-- geo'metric
+- ge'ologist (cn)
+- ge'ology (un)
+- geo'logical (adj)
 
-- ge'ographer
-- ge'ography
-- geo'graphic
+- geome'trician (cn)
+- ge'ometry (un)
+- geo'metric (adj)
 
-- 'biopsy
-Bio + Opsis = life + vision = medical examination
+- ge'ographer (cn)
+- ge'ography (un)
+- geo'graphic (adj)
 
-- ma'lignancy
-A small part of the tissue is cut from the affected area and under the microscope its cell can be investigated for evidence of malignancy.
+- 'biopsy (cn)
+bio (life) + opsis (vision) = medical examination
+The biopsies were immediately frozen at -70 degrees celsius.
 
-- zo'ologist
-- zo'ology
-- zoo'logical
+- zo'ologist (cn)
+- zo'ology (un)
+- zoo'logical (adj)
 
-- 'zodiac
-- zo'diacal
+- 'zodiac (n)
+The planets are evenly dispersed around the zodiac.
+
+- zo'diacal (adj)
+I didn't have the heart to point out the zodiacal error, that Leo is usually depicted as a lion.
 
 - maneuvers (military activities)
-Are nautical maneuvers carried on at sea?
-
+Nautical maneuvers are carried on at sea.
 
 - tonsillectomy (the tonsils)
+They can often be removed in the clinic, but tonsillectomy (a surgical operation to remove the tonsils) may be necessary.
+
 - appendectomy (the appendix)
+Only two years previously, I had undergone an emergency appendicectomy (a surgical operation to remove the appendix).
+
 - mastectomy (the breast)
 - hysterectomy (the uterus)
 - prostectomy (the prostate)
@@ -704,7 +778,7 @@ a + tome = non + cut = (used to be) smallest possible particle of an element, on
 
 - a'natomy
 - ana'tomical
-up + cut = the cutting up of a plant or animal to determine its structur
+up + cut = the cutting up of a plant or animal to determine its structure
 
 - tome
 (a part cut from the whole)
@@ -803,17 +877,10 @@ A person reaches the acme (the highest level of something) of perfection as an a
 - consum'mation (un)
 To make something complete, especially an agreement
 
-
-- im'pervious (adj)
-You are impervious to (not affected or influenced by) correction.
-Yet the scrub has constructed his own set of principles in his mind that state he should be totally impervious to all attacks while blocking.
-
 - in'corrigible (beyond reform) liar
 - incorrigi'bility, incorrigibleness
 An incorrigible optimist/romantic
 beyond redemption or salvation = too bad to be saved
-
-
 
 - in'veterate (deeply-habituated) liar
 - in'veteracy
@@ -1009,6 +1076,7 @@ There's no weaseling out of (to avoid doing something you should do by using cle
 Debate involves deception and boldness, risk-taking and conservatism (dislike of change and new ideas).
 
 - im'pervious (adj)
+You are impervious to (not affected or influenced by) correction.
 Yet the scrub has constructed his own set of principles in his mind that state he should be totally impervious (not affected) to all attacks while blocking.
 
 - su'perfluous (adj)
@@ -1249,6 +1317,7 @@ the maligh influence of his unconscious will to fail.
 - ma'lignancy (n)
 1. a malignant (cancerous) growth
 2. a malignant (hateful) glance
+A small part of the tissue is cut from the affected area and under the microscope its cell can be investigated for evidence of malignancy.
 
 - male'diction (cn)
 - male'dictory (adj)
@@ -1917,9 +1986,9 @@ soporific lecture, speaker, style of deliver, etc will put the audience to sleep
 - sopo'rific (cn)
 a sleeping pill
 
-- nary
-- murmur
-Such a hero has nary a murmur of Dark.
+- nary (adv)
+- murmur (cn)
+Such a hero has nary (not) a murmur (whisper) of Dark.
 
 - un'formed (adj)
 - shrouded (adj)
@@ -1927,10 +1996,10 @@ Such a hero has nary a murmur of Dark.
 In the Age of Ancients, the world was unformed (not yet developed), shrouded (covered by) by fog, a land of grey crags, archtrees, and everlasting dragons.
 
 - furtive (adj)
-And the Furtive Pygmy, so easily forgotten
+And the Furtive (secretive) Pygmy, so easily forgotten
 
 - miasma (singular)
-Nito unleashed a miasma of death and disease.
+Nito unleashed a miasma (dirty air) of death and disease.
 
 - accursed (adj)
 Even now, there are only embers, and man sees not light, but only endless nights. And amongst the living are seen, carriers of the accursed Darksign.
@@ -1944,52 +2013,53 @@ With such dangers, the crest can do more harm than good in the hands of the unin
 - exasperating (adj)
 - clump (cn)
 - afflicted (adj)
-Poison can be exasperting (annoying), so be certain to carry the needed quantity of these moss clumps (small mass of something) when destined for an afflicted (causing bad effect) area.
+Poison can be exasperating (annoying), so be certain to carry the needed quantity of these moss clumps (small mass of something) when destined for an afflicted (causing bad effect) area.
 
 - emboldened (vt)
 Emboldened (to give someone more courage) by the power of the Lord Souls, Gwyn decided to go to war.
 
 - usher in (v)
-Seath the Scaleless, one of the dragons, born without scales and therefore mortal, joined the Lords and helped to defeat his brethren, thus ushering in the Age of Fire.
+Seath the Scaleless, one of the dragons, born without scales and therefore mortal, joined the Lords and helped to defeat his brethren, thus ushering in (causing something to start) the Age of Fire.
 
 - murky (adj)
-After that, things start to get murky.
+After that, things start to get murky (dark and difficult to see, shady, obscure).
 
-- annals (plural)
+- 'annals (plural)
+- ex'punge (vt)
 The symbol represents Lord Gwyn's firstborn, who lost his deity status and was expunged (to remove a name from a list) from the annals (official records).
 
 - unkempt (adj)
-Ah, go down along the side to reach the depths of the Undead BurgOnly unkempt crooks and liars to be found there.
+Ah, go down along the side to reach the depths of the Undead Burg, only unkempt (untidy, disordered) crooks and liars to be found there.
 
 - surrogate (adj, cn)
-The Purging Stone does not dispel curses, but receives them as a surrogate.
+The Purging Stone does not dispel curses, but receives them as a surrogate (substitute).
 
 - coronation (cn)
-At the Vinheim Dragon School, the acquisition of this spell marks an apprentice's coronation as a sorcerer.
+At the Vinheim Dragon School, the acquisition of this spell marks an apprentice's coronation (a ceremony at which someone is promoted or made king of queen) as a sorcerer.
 
-- surreptitious (adj)
+- surrep'titious (adj)
 Sorcery developed by a certain surreptitious sorcerer at Vinheim Dragon School.
 
 - eke out a living/existence (v)
-Those banished from the Undead Burg eke out ther existence in the Depths, a damp lair with no trace of sunlight.
+Those banished from the Undead Burg eke out their existence (to manage to live with very little money or food) in the Depths, a damp lair with no trace of sunlight.
 
 - uncouth (adj)
 Who are you so uncouth (socially unacceptable) as to lack such judgment?
 
-- humdrum (adj)
+- 'humdrum (adj)
 What a humdrum (boring, tedious) lad you are.
 
 - scour (vt)
-I've scoured near and far but no sight of her.
+I've scoured (search) near and far but no sight of her.
 
 - stranded (adj)
-Maiden Thorolund and her followers recently arrived in this land, but she became stranded deep below the Catacombs.
+Maiden Thorolund and her followers recently arrived in this land, but she became stranded (stuck) deep below the Catacombs.
 
 - nubile (adj)
 A nubile cleric would be replete with humanity.
 
 - lass (cn)
-The lass weeps in solitude.
+The lass (a young woman) weeps in solitude.
 
 - purebred (adj)
 The poor little purebred is entirely helpless.
@@ -1998,19 +2068,19 @@ The poor little purebred is entirely helpless.
 Lauduable is thy dedication to sin.
 
 - apparition (cn)
-But don't blame me if he's just an apparition
+But don't blame me if he's just an apparition (something that you imagine you can see).
 
 - shackle (vt)
-This iron ring was used to shackle the guilty.
+This iron ring was used to shackle (chain) the guilty.
 
 - em'porium (cn)
-There was a pretty impressive set of video game emporiums in the local shopping district, Osu, that I used to visit a couple of times a week.
+There was a pretty impressive set of video game emporiums (a large shop) in the local shopping district, Osu, that I used to visit a couple of times a week.
 
 - eon, aeon (cn)
-Excessive power eats away the life force of its caster, and like all dangerous spells, Power Within was kept secret for eons.
+Excessive power eats away the life force of its caster, and like all dangerous spells, Power Within was kept secret for eons (extremely long period of time).
 
-- apostle (cn)
-A dragon is inseparable from its scales, and the transcendent apostles, who seek the perpetuity of the ancient dragons, have crossed the very end of the earth to seek this invaluable treasure.
+- a'postle (cn)
+A dragon is inseparable from its scales, and the transcendent apostles (strong believer), who seek the perpetuity of the ancient dragons, have crossed the very end of the earth to seek this invaluable treasure.
 
 - part and parcel of something
 The living are lured by flame, and this relationship is part and parcel (to be a necessary feature of something) to the art of pyromancy.
@@ -2036,5 +2106,11 @@ Sora: Don't lump me in with him!
 
 - shabby (adj)
 in bad condition (cloth)
+
 - not too shabby (adj)
 Asuma: Huh, this much power without using Chakra Blades. Not too shabby (not bad).
+
+- raunchy (adj)
+Yo that whiff punish on the focus at 55s was absolutely raunchy (sexy).
+
+
