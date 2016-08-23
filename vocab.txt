@@ -745,8 +745,13 @@ bio (life) + opsis (vision) = medical examination
 The biopsies were immediately frozen at -70 degrees celsius.
 
 - zo'ologist (cn)
+Knowing an opportunity to make a quick buck, he takes the thing to a zoologist who just happens to be visiting the area.
+
 - zo'ology (un)
+But the desire for a deeper understanding of the forest and its creatures led him back to Moscow to study zoology.
+
 - zoo'logical (adj)
+The four phyla discussed here have not found their established positions in the zoological system.
 
 - 'zodiac (n)
 The planets are evenly dispersed around the zodiac.
@@ -768,19 +773,22 @@ Only two years previously, I had undergone an emergency appendicectomy (a surgic
 - prostectomy (the prostate)
 ec (out) + tome (cut)
 
-- ec'centric
-- eccen'tricity
+- ec'centric (adj)
 ec (out) + kentron (center)
+His eccentric behavior lost him his job.
 
-- 'atom
-- a'tomic
+- eccen'tricity
+The important thing here isn't eccentricity; it's quality, and that's where this disk scores big.
+
+- 'atom (cn)
+- a'tomic (adj)
 a + tome = non + cut = (used to be) smallest possible particle of an element, one that could not be cut any further.
 
-- a'natomy
-- ana'tomical
+- a'natomy (un)
+- ana'tomical (adj)
 up + cut = the cutting up of a plant or animal to determine its structure
 
-- tome
+- tome (cn)
 (a part cut from the whole)
 A large heavy book
 
@@ -807,7 +815,7 @@ That one act epitomizes her philosophy of life.
 - phi'landerer (cn)
 To have sex with many women
 
-- phi'losophy
+- phi'losophy (un)
 philos + sophos = love + wisdom
 
 - Phila'delphia
@@ -828,11 +836,11 @@ A book collector
 - 'anglophile (cn)
 Anglus = English
 
-- detri'mental
+- detri'mental (adj)
 The antisocial person actively dislikes people, and often behaves in ways that are detrimental or destructive to society or the social order.
 
-- anti'social
-- a'social
+- anti'social (adj)
+- a'social (adj)
 Antisocial is a stronger term than asocial.
 
 - pique your interest/curiosity (to make you feel interested in something)
@@ -864,12 +872,12 @@ You have built a solid and unsavory (unpleasant or morally acceptable) reputatio
 A notorious philanderer/criminal
 
 - the highest summit of artistry
-- top-drawer
+- top-drawer (adj)
 - con'summate (highly-skilled, adj) liar
 - the acme ('ækmi) of something
 - con'summateness, con'summacy
 - the acme of something
-Your ability is top-drawer. Rarely does anyone lie as convincingly or as artistically as you do.
+Your ability is top-drawer (of the highest quality). Rarely does anyone lie as convincingly or as artistically as you do.
 Consummate artistry at the keyboard
 A person reaches the acme (the highest level of something) of perfection as an actress or actor. (a consummate performer)
 
@@ -891,8 +899,8 @@ too old to learn new tricks
 A veteran at swimming, tennis, police work, diplomacy
 A veteran actor, teacher, political reformer
 
-- an early start
 - con'genital (happening at or during birth) liar
+"an early start"
 A congenital deformtiy
 
 - chronic (going on for a long time) liar
@@ -943,13 +951,13 @@ Perhaps, its former wearer was maimed to prevent escape.
 - imbibe (vt, vi)
 Inveterate drinkers have been imbibing for so long
 
-- ge'neticist
-- ge'netics
-- ge'netic
+- ge'neticist (cn)
+- ge'netics (un)
+- ge'netic (adj)
 
-- gene'alogist
-- gene'alogy
-- genea'logical
+- gene'alogist (cn)
+- gene'alogy (un)
+- genea'logical (adj)
 Study of family trees
 
 - ges'tation (singular, uc)
@@ -963,11 +971,12 @@ Let us examine ten personality types that results from the way culture, growth, 
 Hereditary characteristics, on the other hand, are acquired at the moment of conception (a process by which a woman or female animal becomes pragnant).
 
 - tha'lidomide (un)
+[trademark] harmful drug
 
 - a'nachronism (cn)
 - a'nachronous, anachro'nistic
 Something or someone out of time
-Surrounded by twentieth-century motorcars and modern skyscrapers, these romantic vehicles of a bygone era are anachronous.
+Surrounded by twentieth-century motorcars and modern skyscrapers, these romantic vehicles of a bygone (period of time in the past) era are anachronous.
 
 - 'vestige (cn)
 Wander along Fifty-ninth Street and Central Park in Manhattan some Sunday. You will see horse-drawn carriages with top-hatted coachmen, a vestige of the 1800s.
@@ -977,23 +986,23 @@ Wander along Fifty-ninth Street and Central Park in Manhattan some Sunday. You w
 Something out of place
 It is incongruous to wear a sweater and slacks to a formal wedding; it is anachronous to wear the wasp waist, conspicuous bustle, or powdered wig of the eighteenth century.
 
-- chrono'logical
+- chrono'logical (adj)
 
-- chro'nology
-- chro'nologist
+- chro'nology (un)
+- chro'nologist (cn)
 The science of time order and the accurate dating of events
 
-- chro'nometer
-- chro'nometry
-- chrono'metric
+- chro'nometer (cn)
+- chro'nometry (un)
+- chrono'metric (adj)
 a very exact clock
 
-- 'synchronize
-- 'synchronous
-- synchroni'zation
+- 'synchronize (vt)
+- 'synchronous (adj)
+- synchroni'zation (un)
 
-- sympa'thetic
-- 'sympathy
+- sympa'thetic (adj)
+- 'sympathy (un)
 syn + pathos = together + feeling/suffer = caring and feeling sorry about someone's problems
 
 - an'tipathy (un)
@@ -1001,19 +1010,19 @@ syn + pathos = together + feeling/suffer = caring and feeling sorry about someon
 If you experience antipathy to people or things, you feel against them.
 An antipathetic reaction to an authority figure.
 
-- apa'thetic
-- 'apathy
+- apa'thetic (adj)
+- 'apathy (un)
 
-- 'empathize
-- 'empathy
-- empa'thetic, em'pathic
+- 'empathize (vt)
+- 'empathy (un)
+- empa'thetic, em'pathic (adj)
 Stronger than sympathy
 Empathy = understand; sympathy = feel sorry.
 
-- pa'thetic
+- pa'thetic (adj)
 
-- te'lepathy
-- tele'pathic
+- te'lepathy (un)
+- tele'pathic (adj)
 
 - com'placent (adj)
 - com'placence, com'placency (un)
@@ -1022,11 +1031,11 @@ Empathy = understand; sympathy = feel sorry.
 The problem is that we need the right attitude to be able to improve, by taking away our personal responsibility for our loses, we become complacent we close off to the possibility that there's room to grow.
 
 - sunk (adj)
-- bilk
+- bilk (vt)
 I'd be sunk (to be in trouble) if a client decided to bilk (cheat) on me.
 
 - wry (adj)
-You know, even I have to give a wry chuckle at the sight.
+You know, even I have to give a wry (pretending that the situation is not bad) chuckle at the sight.
 
 - rekindle (v)
 If you have finished rekindling old friendships, please step over here.
@@ -1034,7 +1043,7 @@ If you have finished rekindling old friendships, please step over here.
 - dicey (adj)
 The atmosphere is getting kind of dicey (dangerous and uncertain).
 
-- 'adament (adj)
+- 'adamant (adj)
 - pluck (vt)
 I adamantly (determined not to change your opinion) refuse to let all my potential be plucked (taken away) out simply for that reason.
 
@@ -1064,10 +1073,10 @@ Doing one move or sequence over and over and over is a tactic close to my heart 
 The dispositions of the enemy are ascertainable through spies and spies alone.
 
 - 'chasm (cn)
-They got stuck in a chasm at the mountain’s base, a land of scrubdom.
+They got stuck in a chasm at the mountain's base, a land of scrubdom.
 
-- 'immediacy (un) (when something is important and urgent)
-Competitive games require military virtues: immediacy, emergency tactics, and the end (winning) justifies the means (as long as it’s through moves the game defines as legal).
+- 'immediacy (un)
+Competitive games require military virtues: immediacy (when something is important and urgent), emergency tactics, and the end (winning) justifies the means (as long as it’s through moves the game defines as legal).
 
 - weasel out of (v)
 There's no weaseling out of (to avoid doing something you should do by using clever or dishonest excuses) defeat by redefining what the game is.
@@ -1085,10 +1094,14 @@ Of course, the rules of the game itself dictate which moves a player can and can
 
 - vile (adj)
 - outcast (cn)
-He will almost always assume the entire world agrees on his Code and that only the most vile social outcasts would ever break his rules.
+He will almost always assume the entire world agrees on his Code and that only the most vile (unpleasant, bad, evil) social outcasts would ever break his rules.
+But I'm no different from those vile creatures... I was driven by conceit.
+
+- ex'tol (vt)
+Countless Knights of Berenike, once extolled (praise someone very much) as the mightiest of mighty, became Undead and ventured to Lordran.
 
 - 'fervor (un)
-It can be difficult to even reason with the kind of religious fervor (a very strong belief) some players have toward their Code.
+It can be difficult to even reason with the kind of religious fervor (a very strong belief or feeling) some players have toward their Code.
 
 - displace (vt)
 - deprive somebody of something (v)
@@ -1183,7 +1196,7 @@ a scientific instrument for measuring time
 
 - reign (vi)
 - triumphant (adj)
-This time I shall reign triumphant.
+Dr. Neo Cortex: This time I shall reign triumphant.
 
 - stow (vt)
 Dangerous daggers are stowed beneath their cloaks.
@@ -1216,7 +1229,7 @@ They were disparaging Truman's achievement.
 Why do you always make disparaging remarks about me?
 
 - 'aspirant (cn)
-As the Republican aspirant, he [Dewey] had to take a stand on the controversial Taft-Hartley Act.
+As the Republican aspirant (candidate), he [Dewey] had to take a stand on the controversial Taft-Hartley Act.
 
 - e'quivocate (vi)
 - e'quivocal (adj)
@@ -1227,11 +1240,10 @@ He was for that part of the Act which was good. Naturally, he was against any of
 You've been asked to take a stand on a certain issue, but you don't have the courage to be either definitely for or against.
 Professional politicians are professionals of equivocation.
 
-
 - une'quivocal (adj)
 completely clear
 
-- 'flavor (v)
+- 'flavor (vt)
 - 'flaky (adj)
 - 'gustatory (adj)
 Perhaps you have had a portion of pumpkin chiffon pie, light and airy and mildly flavored (to give something a particular taste), and with a flaky (tending to break into small thin pieces), delicious crust, that was the last word in gustatory (concerned with tasting or the sense of taste) enjoyment.
@@ -1274,7 +1286,7 @@ Your morale dropping lower and lower as each favorite goody is placed on the for
 - 'obviate (vt)
 - obvi'ation (un)
 "accentuating the affirmative"
-Need you have any fears about making friends? Obviously not. Your characeristics and temperament obviate (to prevent or avoid a problem) such fears.
+Need you have any fears about making friends? Obviously not. Your characeristics and temperament (emotional part of someone's character) obviate (to prevent or avoid a problem) such fears.
 You have run out of cash and plan to go to the bank to make a withdrawal; then unexpectedly you discover a twenty-dollar bill you secreted in your desk drawer months ago. Your find obviates a trip to the bank.
 If you review your work daily in some college subject, frenzied cramming at the end of the semester will be obviated.
 
@@ -1305,60 +1317,93 @@ Paul? He's a child molester.
 
 - ma'lign (vt)
 "playing it dirty"
-What is character doing? He's maligning everyone.
+What is this character doing? He's maligning everyone.
 You spread around an unpleasant story that you know will blacken someone's reputation. You malign that person.
+Don’t you dare malign her in my presence.
 
 - ma'lign (adj)
+She had a strong and malign (evil, harmful) influence.
+The malign influence of his unconscious will to fail.
+
 - ma'lignity (n)
-harmful
-the maligh influence of his unconscious will to fail.
+He is laughing, with a touch of anger in his laughter, but no triumph, no malignity.
 
 - ma'lignant (adj)
-- ma'lignancy (n)
-1. a malignant (cancerous) growth
-2. a malignant (hateful) glance
+But a series of malignant (evil, harmful) twists of fate sour his life.
+But neither of these processes is suitable for patients with infection or malignant (cancerous) disease.
+
+- ma'lignance, ma'lignancy (n)
+Mattie, with an expression of deep malignance, departed.
 A small part of the tissue is cut from the affected area and under the microscope its cell can be investigated for evidence of malignancy.
 
 - male'diction (cn)
-- male'dictory (adj)
 malus (bad) + dico, dictus (say, tell) = a curse
+I screamed the malediction over and over again.
+
+- male'dictory (adj)
+Crumlin, in particular, made the most maledictory speeches then.
 
 - ma'levolent (adj)
-- ma'levolence (un)
 malus (bad) + volo (to wish) = wishing evil
 a malevolent glance, attitude, feeling, etc.
+He has the fierce, malevolent eyes of a demon, deep, red, and sharklike.
+
+- ma'levolence (un)
+They have malevolence (hostility) in their darkest thoughts.
 
 - ma'leficent (adj)
-- ma'leficence (un)
 malus (bad) + facio, factus (to do) = doing harm
 maleficent acts, deeds, behavior
+Can you see the maleficent glint in this ones eyes?
+
+- ma'leficence (un)
+At your age it [being gay] would have really drastic maleficences and you can easily end up on yourself, without friends, without parents and even without your beloved one.
 
 - 'malefactor (cn)
 a wrongdoer, a criminal
+The cure for crime is locking up malefactors and doing so with equal and impartial enthusiasm regardless of skin colour.
 
 - male'faction (cn)
 a malefactor commits a malefaction, a crime, an evil deed.
+I mean, this is malefaction, unimaginable violence against young women.
 
 - mala'droit (adj)
-- mala'droitness (un)
 malus (bad) + adriot (right hand) = clumsy, bungling, awkward, unskillful
+This has been an extremely clumsy maladroit approach on the part of the US economic team.
+
+- mala'droitness (un)
+Unfortunately it appears that Mr. Rahman's maladroitness precedes him.
 
 - ma'laise (singular)
 malus (bad) + aise (comfort) = an indefinite feeling of bodily discomfort, a mild illness.
+The disease has an insidious onset and presents with fever, malaise and weakness.
 
 - disease (n)
 dis (lack) + aise (comfort)
 
 - ma'licious (adj)
+Two people are facing possible prosecutions for malicious or criminal damage.
+
 - 'malice (un)
+Very often I was motivated by malice, but that is not the point.
+
 - 'malady (cn)
+Cancer has become the most threatening malady next to cardiovascular diseases.
+
 - malad'justed (adj)
+They are socially maladjusted (failing to cope with the demands of a normal social environment), and attention and dependence seeking.
+
 - 'malcontent (cn)
+Many junior officers became naysayers and malcontents (a person who is dissatisfied and rebellious).
+
 - mal'practice (un)
+Her doctor was found guilty of malpractice.
+
 - malnu'trition (un)
+Food shortages and malnutrition had their biggest impact on Afghan girl children.
 
 - defame (vt)
-to slander
+This means that he must show that he was defamed (to slander) by a statement that was published with "actual malice."
 
 - con'done (vt), condo'nation (un) (forgiveness)
 "giving the benefit of any doubt"
@@ -1388,56 +1433,69 @@ unyielding
 very determined to continue opposing someone or harsh, relentless
 
 - 'clemency (adj)
-The governor was implacable in his refusal to grant clemency.
+The governor was implacable in his refusal to grant clemency (forgiveness or less punishment for a crime).
 
 - 'placable (adj)
+Her feelings were warm and impetuous, but she was placable (can be soothed, whose hostility can be changed to friendliness), tender and constant.
+
 - placa'bility (un)
-one who can be soothed, whose hostility can be changed to friendliness
+Here is described the expression on the face of the equestrian statue of Domitian, which blends bellicosity with placability.
 
 - 'placid (adj)
+She sat still, placid (calm) and waiting.
+
 - pla'cidity (un)
-calm
+Second, there was the placidity of the creatures.
 
 - com'placent (adj)
-If you're complacent, you're pleased with yourself
+If you're complacent, you're pleased with yourself.
+Plus, decades of access to cheap oil has made us lazy and complacent about energy.
 
 - parity (un)
-the state of being equal
+He feels Australian wines have a long way to go in reaching parity (the state of being equal) with France.
 
 - disparity (cn, un)
-the state of not being equal
-The disparity between the rate of vocabulary growth of a child and of an adult
+The disparity (the state of not being equal) between the rate of vocabulary growth of a child and of an adult.
+But then there was Fire And with Fire came Disparity. Heat and cold, life and death, and of course... Light and Dark.
 
 - disparate (adj)
-complete difference or inequality
-Our philosophies are so disparate that we can never come to any agreement on action.
+Our philosophies are so disparate (complete difference or inequality) that we can never come to any agreement on action.
 
-- compare (v)
-- comparable (adj)
+- com'pare (v)
+- 'comparable (adj)
 com (together) + par (equal)
 
 - be coughed in something (v)
-to express in a particular way
-An ambiguous statement is accidentally couched in such language.
+An ambiguous statement is accidentally couched (to express in a particular way) in such language.
 
 - 'double en'tendre (cn)
+In the title piece, readers are thrown from one double entendre to the next.
 
 - 'equity (un)
 1. justice, fairness, equal treatment.
+The focus here has rarely been on equity or on a fair deal for the poor.
+
 2. stocks in financial markets.
+The company has the option to convert 65 per cent of its equity into company shares.
+
 3. the value of your property over the amount of the mortgage you owe.
+The equity in the properties appears to be in the region of £9 million.
 
 - 'equitable (adj)
-fair
+Economic growth was important, but so too was the equitable (fair) distribution of wealth.
 
 - in'equity (un)
+Whichever way you look at it there is inequity (injustice, unfairness) between men and women.
+
 - in'equitable (adj)
-injustice, unfairness
+The present taxes are inequitable.
 
 - in'iquity (un)
-- in'iquitous
-wickedness, sinfulness
+Wash me thoroughly from my iniquity (wickedness, sinfulness), and cleanse me from my sin!
 a den of iniquity
+
+- in'iquitous (adj)
+These awards remain an iniquitous (grossly unfair and morally wrong) system.
 
 - 'equinox (cn)
 - equi'noctial (adj)
@@ -1450,12 +1508,12 @@ active at night
 a composition or painting
 
 - equa'nimity (un)
-equal + mind
-calmness
+She accepted both the good and the bad with equanimity.
 
 - equa'bility (un)
+
 - 'equable (adj)
-a person of equable temperament is calm, unflappable
+Her sound was more beautiful, her stage presence more serene, her personality more equable (a person of equable temperament is calm, unflappable).
 
 - e'quilibrist (cn)
 an acrobat who performs balancing feats, especially a tightrope walker.
@@ -1465,100 +1523,141 @@ aequus (equal) + latus, lateris (side)
 equilateral triangle
 
 - e'questrian (adj)
-relating to horse-riding
-equestrian statue
+equus (horse)
+Here is described the expression on the face of the equestrian (relating to horse-riding) statue of Domitian, which blends bellicosity with placability.
 
 - e'questrian (cn)
-equus (horse)
-someone on a horse
+Be prepared to meet fellow equestrians (someone riding a horse) on these popular trails.
 
 - equestri'enne (iˌkwestrēˈen)
-a woman on a horse
+Fanny was, by all accounts, a fine equestrienne (a woman riding a horse) smartly turned out as she sought every opportunity to ride.
 
 - equine (adj)
-relating to horses, or looking like a horse
+Her face, which had always been long, was now positively equine (relating to horses, or looking like a horse).
 
 - equine (cn)
-a horse
+They were by far the fastest equines (a horse) in all the lands.
 
 - vo'ciferous (adj)
-- vo'ciferousness (un)
-- vo'ciferation (un)
 vox, vocis (voice) + fero (carry) = loud, noisy, clamorous
+He was a vociferous (expressing your opinions strongly and loudly) opponent of the takeover.
+
+- vo'ciferousness (un)
+I'm not saying there aren't theological issues, and so on, but I do think that may have something to do with the vociferousness of the debate.
+
+- vo'ciferation (un)
+Fines can be levied for shouting and other vociferations, including abuse of bells or other noisemaking instruments.
 
 - vo'ciferate (v)
-to shout vehemently
+Because he's singing love songs, he doesn't need to vociferate (to shout vehemently) or complain.
 
 - vehement (adj)
-- vehemence (un)
-showing strong feeling
+Her voice was low but vehement (showing strong feelings or opinions).
 
-- describe (v)
+- vehemence (un)
+Even Bernhard was taken aback by the vehemence of the response.
+
+- des'cribe (v)
 de (down) + scribo, scriptus (to write) = "to write down" about
 
-- manuscript
+- 'manuscript (cn)
 manus (hand) = something handwritten [the word was coined before the invention of the typewriter]
 
-- The Scriptures
+- The S'criptures (un)
 holy writings
 
-- subscribe
+- subs'cribe
 sub (under) = to write one's name under the statement of a philosophy or a principle
 
-- inscribe (vt)
-engrave
+- ins'cribe (vt)
+Inside the cover, someone had inscribed the words "To Thomas, with Love"
 
 - postscript (cn)
 post (after) = a message written at the end of a letter after you have signed your name = P.S.
+There's an interesting postscript to this tale.
 
 - 'circumscribe (vt)
 1. to limit power, rights, or abilities (restrict)
+The President's power is circumscribed by Congress and the Supreme Court.
+
 2. to literally draw a line around something
+If a hexagon is circumscribed about a circle, the lines joining opposite vertices meet in one point
 
 - trivial (adj)
 tri (three) + via (ways) = three roads intersect, a fairly public place, so you're not going to talk of important or confidential matter. You will instead talk of trivial things
 
 - trivia (plural)
 
-- be'nign (adj), benignity (un)
-- be'nignant (adj), benignancy (un)
+- be'nign, be'nignant (adj)
 1. kind and gentle
-2. benign tumour
+He had a warm, benign nature and offered himself to you as a friend and ally.
+The expression of his face was kind and benignant, and denoted goodness of heart.
+
+2. tumour
+In the brain, both malignant and benign tumours can be harmful because they increase pressure in the skull.
+
+- be'nignity, be'nignancy (un)
+There was a wonderful air of benignity and patronage in his manner.
 
 - scoundrel (cn)
-a bad or dishonest man
+Why let yourself be led away with that kind of scoundrel (a bad or dishonest man)?
 
 - bene'diction (n)
+I give these children my benediction.
+
 - bene'dictory (adj)
-blessing
+Our thanks, yet again, to Shirley for arranging another highly successful outing, and to Richard for rounding off the day with such a benedictory and appropriate poetry recital.
 
 - be'neficent (adj)
+Many beneficent projects have to be foregone (to not do or have something pleasant or enjoyable) if sufficient funds are lacking.
+
 - be'neficence (un)
-doing good
+Victims live in fear while repeat violators enjoy the benefits of parole under the beneficence (doing good) of liberal magistrates.
 
 - 'benefactor (cn)
+An anonymous benefactor (donor) donated $2 million.
+
 - 'benefactress (cn)
-a person who does good
+They may never through life hear her name, but she is not the less their benefactress (a female benefactor).
 
 - bene'ficiary (cn)
-someone receiving the benefaction
+1. someone who gets advantages from an action or change
+The rich were the main beneficiaries of the tax cuts.
+
+2. someone who receives money or property from someone else who has died
+He was the chief beneficiary of his father's will.
+
+- bene'faction (n)
+We have been lucky to have two majors benefactions (a donation or gift).
 
 - be'nevolent (adj)
+A benevolent (well-disposed, kind, or generous) uncle paid for her to have music lessons.
+
 - be'nevolence (un)
-well-disposed
+As Confucius saw long ago, benevolence (kindness) or concern for humanity is the indispensable root of it all.
 
 - 'bona fide (adj)
-bonus (good) + fides (faith, trust) = in good faith
+bonus (good) + fides (faith, trust) = in good faith, real, true, and not intended to deceive anyone.
 a bona fide offer
 a bona fide effort to negotiate differences
+Only bona fide members are allowed to use the club pool.
 
 - fi'delity (un)
+1. being loyal to your husband, wife
+Kip was beginning to doubt Jessica's fidelity.
+
+2. being loyal to a person, an organization, or something that you believe in
+First and last he sought only the strictest fidelity to justice, rectitude and truth.
+
+3. how much a movie remains unchanged from an earlier piece of work.
+The sound fidelity of CDs is much better than that of records.
+The 1949 recording provides reasonable fidelity
 
 - 'infidel (cn)
-someone who has different religion from you
+Churches were running out of room, and infidels (someone who has different religion from you) begged the religious community to pray to their God to save them.
 
 - infi'delity (un)
-unfaithfulness
+Her infidelity continued after her marriage
 
 - dictate, dictator, dictation, dicta'torial (domineering)
 tell others what to do
@@ -1566,7 +1665,7 @@ tell others what to do
 - pre'dict
 pre (before) + dico, dictus (say)
 
-- 'contra'dict
+- contra'dict
 contra (against) + dico, dictus (say)
 
 - 'addiction (n)
@@ -1594,27 +1693,28 @@ artificial flowers
 - voluntary, volunteer
 volo (wish, will, willing)
 
-- vo'lition
-the act or power of willing or wishing
-of her volition
-against her volition
+- vo'lition (cn)
+Helena left the company of her own volition (free will).
 
 - confection (cn)
-sweet food
+com (together) + facio, factus (do, make)
+1. An elaborate sweet dish
+But then again, such creations as eel ice cream are a revelation to the world of seafood and confections.
+
+2. The action of mixing or compounding something
+They tend also to entail independent research and the confection of term papers of varying lengths.
 
 - confetioner (cn)
+Commercial chocolates also add more sugar than do local confectioners (a person whose trade is making or selling confectionery).
 
 - puckish (adj)
-playful
-Consider also this puckish remark by the late Clarance Darrow: "Even if you do learn how to speak correct English, who are you going to speak it to?"
+Consider also this puckish (playful) remark by the late Clarance Darrow: "Even if you do learn how to speak correct English, who are you going to speak it to?"
 
 - healthful (adj)
-likely to make you healthy
-Californians boast of the healthy (healthful is formal grammar but obsolete) climate of their state.
+Californians boast of the healthy (likely to make you healthy, healthful is formal grammar but obsolete) climate of their state.
 
 - tally (cn)
-a record
-The tally of this use of as showed seventy-four for, only eight against.
+The tally (a record) of this use of as showed seventy-four for, only eight against.
 
 *This is she. [right]
 *This is her. [wrong]
@@ -1623,21 +1723,19 @@ The tally of this use of as showed seventy-four for, only eight against.
 *This is me. [right]
 
 - grunt (v)
-- affable (adj)
-I wonder how it would be if you just grunted affably.
+- 'affable (adj)
+I wonder how it would be if you just grunted affably (friendly).
 
 - abortive (adj)
-This use of whom [Whom would you like t o be if you weren't yourself?] probably comes from an abortive attempt to sound elegant.
-
+This use of whom [Whom would you like to be if you weren't yourself?] probably comes from an abortive attempt to sound elegant.
 
 **CHAPTER 10**
 
 - aptly (adv)
-In this chapter we start by examining ten types, discovering the adjective that aptly describes each one.
+In this chapter we start by examining ten types, discovering the adjective that aptly (suitably, appropriately) describes each one.
 
-- noncommittal (adj)
-deliberately not expressing your opinion or intentions clearly
-Try to angage them, and the best you may expect for your efforts is a vacant stare, a noncommittal grunt, or an impatient silence.
+- noncom'mittal (adj)
+Try to angage them, and the best you may expect for your efforts is a vacant stare, a noncommittal (deliberately not expressing your opinion or intentions clearly) grunt, or an impatient silence.
 
 - 'taciturn (adj)
 - taci'turnity (un)
@@ -1646,43 +1744,65 @@ taceo (to be silent)
 speaking very little, so that you seem unfriendly.
 
 - 'mischievous (adj)
-A young newspaperwoman was sitting next to him [Calvin Coolidge] at a banquet, so the story goes, and turned to him mischievously.
+A young newspaperwoman was sitting next to him [Calvin Coolidge] at a banquet, so the story goes, and turned to him mischievously (likes to have fun, causing trouble).
 
 - la'conic (adj)
 "saying little, meaning much"
-with characteristic la'conicness
-her usual laco'nicity
-his habitual 'laconism
-with, for him, unusual la'conicism
+His laconic reply suggested a lack of interest in the topic.
+
+- 'laconism (un)
+his habitual laconism
+The principal hallmarks of Echenoz's style are his laconism, his dry wit, and the precision with which he chooses words and images.
+
+- la'conicness (un)
+with characteristic laconicness
+
+- la'conicism (un)
+with, for him, unusual laconicism
+His peculiar mix of laconicism and loquaciousness means that when he talks you tend to listen closely.
+
+- laco'nicity (un)
+her usual laconicity
 
 - ar'ticulate (adj)
-- ar'ticulation (un)
-verbal, vocal, and possibly voluble
+She said that he was a coherent, intelligent and articulate (verbal, vocal, and possibly voluble) man but one with a tendency to ramble on.
 
 - ar'ticulate (v)
 Please articulate more clearly.
 
-- in'articulate (adj)
-- inar'ticulateness (un)
-in (no) + articulus (joint)
+- ar'ticulation, ar'ticulateness (un)
+Impaired breathing can make speech and articulation difficult.
+
+- inar'ticulate (adj)
 "when the words won't come"
+in (no) + articulus (joint)
 The inarticulate person has trouble joining words together coherently.
+He becomes completely inarticulate and unable to close the deal, as it were, because he loves her too much!
+
+- inar'ticulateness, inar'ticulacy (un)
+Her inarticulateness made us believe we were eloquent.
 
 - 'garrulous (adj)
-- gar'rulity (un)
-garrio (to chatter)
 "talk much, little sense"
+garrio (to chatter)
 Miss Bates, a character in Emma, a novel by Jane Austen
 A garrulous talker chatters away like a monkey.
+Having a topic of conversation banned must be a particular strain for someone as garrulous as him.
+
+- gar'rulity, 'garrulousness (un)
+Their garrulousness surprised him, although he thought that this, too, could have a certain pathological quality.
 
 - 'trite (adj)
 - 'hackneyed (adj)
 - 'commonplace (adj)
 Everything they say is trite (boring, not new, and insincere), hackneyed (boring and does not have much meaning because it has been used so often), commonplace (not special), humorless.
 
-- 'banal (adj)
-- ba'nality, 'banalness (n)
+- ba'nal (adj)
 "unoriginal"
+This outcome has become a banal tautology repeated in every pharmaceutical marketing article.
+
+- ba'nality, 'banalness (n)
+There is an essential banality to the story he tells.
 
 - ver'bose (adj)
 - ver'bosity (un)
@@ -1691,10 +1811,13 @@ verbum (word)
 The verbose person is wordy.
 
 - 'voluble (adj)
-- volu'bility (un)
-volvo, volutus (to roll)
 "words in quick succession"
+volvo, volutus (to roll)
 Words effortlessly roll off the voluble speaker's tongue.
+The meetings were voluble and at times fierce.
+
+- volu'bility, 'volubleness (un)
+
 
 - 'cogent (adj)
 - 'cogency (cn)
@@ -2113,4 +2236,39 @@ Asuma: Huh, this much power without using Chakra Blades. Not too shabby (not bad
 - raunchy (adj)
 Yo that whiff punish on the focus at 55s was absolutely raunchy (sexy).
 
+- feign (vt)
+Now I roam these parts feigning ablution and pretending to seek answers
 
+- impart (vt)
+We can tell him no and not impart that information.
+Speak with me there [Firelink Shrine], so that I may impart my sorcery.
+
+- elucidate (v)
+I wish to elucidate your fate.
+
+- unparalleled (adj)
+- ma'chete (cn)
+This unparalleled (bigger, better) weapon cuts like a Katana but is heavier than a Nata machete.
+
+- undulating
+This greatsword with an undulating blade is the choice weapon of the slithering serpent men of Sen's Fortress.
+
+- flay (vt)
+This weapon is designed to flay the skin and causes heavy bleeding.
+
+- be in a pickle
+I'm afraid I'm a bit too plump to be outrunning those things. So, here I sit, in quite a pickle.
+
+- impunity (n)
+This blessed talisman blocks Undead recovery, allowing the knights to fight with impunity (with no punishment).
+
+- lucid (adj)
+Mm, you seem quite lucid (sane). A rare thing in these times.
+
+- fried (adj)
+Coco Bandicoot: Crash, Crash, my battery is fried (exhausted), make yourself useful big brother and bring an extra battery for me.
+
+- invigorating (adj)
+You really are very diligent. I quite understand. Study is invigorating.
+
+-
