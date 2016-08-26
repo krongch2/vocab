@@ -1539,7 +1539,8 @@ Her face, which had always been long, was now positively equine (relating to hor
 They were by far the fastest equines (a horse) in all the lands.
 
 - vo'ciferous (adj)
-vox, vocis (voice) + fero (carry) = loud, noisy, clamorous
+"the sound and the fury"
+vox, vocis (voice) + fero (to carry) = loud, noisy, clamorous
 He was a vociferous (expressing your opinions strongly and loudly) opponent of the takeover.
 
 - vo'ciferousness (un)
@@ -1816,68 +1817,90 @@ volvo, volutus (to roll)
 Words effortlessly roll off the voluble speaker's tongue.
 The meetings were voluble and at times fierce.
 
-- volu'bility, 'volubleness (un)
+- volu'bility (un)
+Her legendary volubility deserted her.
 
+- 'volubleness (un)
+In general there is a certain volubleness among the ministers, and forgetfulness to give the laymen a chance to speak.
 
 - 'cogent (adj)
+They put forward cogent arguments for British membership.
+
 - 'cogency (cn)
 cogo (to drive together, to compel force)
 "words that convince"
 A cogent argument compels acceptance because of its logic, persuasiveness, its appeal to one's sense of reason.
-
-- vo'ciferous (adj)
-vox, vocis (voice) + fero (to carry)
-"the sound and the fury"
+If this post lacks my usual cogency and clarity, let me know.
 
 - lo'quacious (adj)
-- lo'quacity, lo'quacityness (un)
 loquor (to speak)
 "quantity"
 They maybe voluble, vociferous, garrulous, verbose, but never inarticulate, taciturn, or laconic.
+Never loquacious, Sarah was now totally lost for words.
+
+- lo'quacity (un)
+He was renowned for loquacity.
+
+- lo'quacityness (un)
+There are times when a peculiar social awkwardness seizes me and I detach from a group forsaking my usual loquaciousness.
 
 - mo'rose (adj), moroseness (un)
 - sullen (adj)
-If you let your mind play over some of the taciturn people you know, you will realize that their abnormal disinclination to conversation makes them seem morose, sullen, and unfriendly.
+If you let your mind play over some of the taciturn people you know, you will realize that their abnormal disinclination to conversation makes them seem morose (bad-tempered, silent), sullen (angry and silent), and unfriendly.
 
 - 'reticent (adj)
-- 'reticence (un), 'reticency (un)
 taceo (to be silent)
-unwilling to talk
+She was extremely reticent (not revealing one’s thoughts or feelings) about her personal affairs.
+
+- 'reticence, 'reticency (un)
+Yet there was continual evidence of reticence among even supposed supporters.
 
 - so'liloquy (n)
-- so'liloquist (cn)
-- so'liloquize (vi)
 solus (alone) + loquor (to speak) = monologue
-A soliloguist expresses his thought aloud.
+Edmund ends the scene as he had begun it, with a soliloquy.
+He did most of his thinking by soliloquy.
+
+- so'liloquist (cn)
+That narrative voice begins to speak again after the direct speech of the soliloquist has concluded.
+I believe it would be great fun were we all to become individually a practiced soliloquist.
+
+- so'liloquize (vi)
+"Ever till now," he soliloquizes, "When men were fond, I smiled and wondered how."
 
 - ven'triloquist (cn)
-- ventrilo'quistic (adj)
-- ven'triloquize (v)
 venter, ventris (belly) + loquor (to speak) = the art of speaking from the belly
 Dan Horn
 
+- ventrilo'quistic (adj)
+
+- ven'triloquize (v)
+In this letter, Belford ventriloquizes Clarissa's voice perfectly.
+
 - col'loquial (adj)
 con (together) + loquor (to speak)
+The language is often colloquial and vigorous.
 
 - col'loquialism (cn)
-an expression or word used in informal conversation
+Good conversation features colloquialisms (an expression or word used in informal conversation), colour and the natural rhythm of speech.
 
 - circumlo'cution (n)
-- circum'locutory (adj)
 circum (around) + loquor (to speak) = talking around, using too many words to express an idea
-a circumlocutory reply
+His admission came after years of circumlocution.
+He used a number of poetic circumlocutions.
+
+- circum'locutory (adj)
+He has a meandering, circumlocutory speaking style.
 
 - hard-bitten (adj)
 - stoical (adj)
-In ancient Sparta, orginally known as Laconia, the citizens were long-suffering, hard-bitten (not easily shocked because you have a lot of experience), stoical (not showing emotion when bad things happen), and military-minded, and were even more noted for their economy of speech than Vermonters, if that is possible.
+In ancient Sparta, orginally known as Laconia, the citizens were long-suffering, hard-bitten (tough, not easily shocked because you have a lot of experience), stoical (not showing emotion when bad things happen), and military-minded, and were even more noted for their economy of speech than Vermonters, if that is possible.
 
 - pithy (adj)
 - curt (adj), curtness (un)
-It is from the name Laconia that we derive our word laconic--pithy (concisely and intelligently stated), concise, economical in the use of words almost to the point of curtness (using very few words in a way that seem rude); precisely the opposite of verbose.
+It is from the name Laconia that we derive our word laconic: pithy (concisely and intelligently stated), concise, economical in the use of words almost to the point of curtness (using very few words in a way that seem rude); precisely the opposite of verbose.
 
 - lush (cn)
-an alcoholic
-Or like the woman who was watching a lush imbibing dry martinis at a Third Avenue bar in New York City.
+Or like the woman who was watching a lush (an alcoholic) imbibing dry martinis at a Third Avenue bar in New York City.
 
 - down (vt)
 - dainty (adj)
@@ -1893,14 +1916,17 @@ He suddenly turned to the lady and asked belligerently (unfriendly, aggressive),
 - 'eloquent (adj)
 ex (out) + loquor (to speak) = expressive, fluent, forceful, persuasive
 Similar meaning to cogent, but cogent is more logic, and eloquent is more artistic expressoin, strong emotional appeal.
+The member who spoke before me gave us a very interesting and eloquent speech.
 
 - mag'niloquent (adj)
+Mrs. Samuel Smith, an American lady, known to my cousin, asked for my accompaniment to a magniloquent (using high-flown or bombastic language) lecture the other evening.
+
 - gran'diloquent (adj)
-using high-flown or bombastic language
+He duplicates the editors' preface in a rather grandiloquent manner.
 
 - mag'nanimous (adj)
-magnus (large) + animus (mind)
-big-hearted, generous, forgiving
+magnus (large) + animus (mind) = big-hearted, generous, forgiving, especially towards a rival or less powerful person
+She should be magnanimous in victory.
 
 - 'magnate (cn)
 a tycoon
@@ -1909,16 +1935,17 @@ a tycoon
 
 - mag'nificent (adj)
 magnus (large) + facio, factus (to do)
+It was a beautiful warm and calm day, and the view of mountains and lakes were magnificent.
 
-- 'magitude
+- 'magitude (n)
 
 - 'magnum (cn)
 1. a bottle of 1.5 liters of wine
 2. a gun
 
 - 'magnum 'opus (singular)
-magnus (large) + opus (work)
-the masterpiece of an artist
+magnus (large) + opus (work) = the masterpiece of an artist
+The comic version may well turn out to be the writer Alan Moore's magnum opus.
 
 - opera
 plural form of opus
@@ -1930,24 +1957,35 @@ opero (to work)
 
 - modus operandi (sigular)
 "method of working" that is typical of a particular person or group
+Every killer has his own special modus operandi.
+That's not my usual modus operandi, but maybe I can make an exception.
 
 - modus vivendi (singular)
 "method of living" between people with different opinions that allows them to live or work together without querrelling
+Why could not a modus vivendi have been struck between Britain and Germany?
 
 - verb (cn)
 verbum (word)
-A verb is the important word in a sentence
+A verb is the important word in a sentence.
 
 - ver'batim (adj)
-word-for-word
-a verbatim account, quote, report
+But their notes are a resume of proceedings, not a verbatim account.
+
+- ver'batim (adv)
+Subjects were instructed to recall the passage verbatim (word for word)
 
 - verbal (adj)
+
 - verbalize (v)
+Many of my students were too stressed to verbalize (express in words) their feelings.
 
 - 'verbiage (un)
 1. an excess of words ("Such verbiage!")
+There is plenty of irrelevant verbiage.
+
 2. a style or manner of using words (medical verbiage, military verbiage)
+We need to look at how the rule should be applied, based on the verbiage.
+In that same tradition Walsh provides them with some witty, juicy verbiage.
 
 - re'volve (v)
 keep turning round
@@ -1970,22 +2008,31 @@ TV was responsible for a revolution in the entertainment industry.
 
 - 'dabble (vi)
 For example, if your focus is on a particular first-person shooter game, you might dabble (to be casually involved in) with or even be expert at other games in that genre.
+He dabbled in left-wing politics
 
 - 'coddle (vt)
 I know that taking the first step can be the hardest part of the journey, so I wanted to coddle you a little just to get you going.
 
 - ventral (adj)
-relating to belly
+venter, ventris (belly)
+The nervous system consists of a lobed dorsal brain and ventral (relating to belly) nerve cord with fused paired ganglia.
 
 - ventricle (cn)
+As the impulse travels down the bundles, the ventricles (one of the two lower chambers of the heart that receive from the auricles) contract and the cycle repeats itself.
+
 - ventricular (adj)
-venter, ventris (belly)
-one of the two lower chambers of the heart that receive from the auricles.
+In addition, the right coronary artery occasionally supplies a sizeable portion of left ventricular myocardium.
 
 - auricle (cn)
+auris (ear)
+1. a structure resembling an ear
+The new species differs from it in being narrower and higher at a comparable growth stage and in having less oblique auricles.
+
+2. another term for atrium (of the heart)
+Blood passes downward from the auricle (a cavity that receives blood from the veins) to the ventricle.
+
 - auricular (adj)
-auris (ear) because it is somewhat ear-shaped
-receives blood from the veins
+Blood was drawn from the central auricular artery.
 
 - aurist (cn)
 an ear specialist = otologist
@@ -1994,7 +2041,7 @@ an ear specialist = otologist
 referring to ears and ability to understand sounds
 
 - mo'naural (adj)
-involving one ear
+They found that patients who were fitted binaurally after a monaural (involving one ear) trial perceived their hearing aids to have a higher value.
 Monaural reproduction has only one source of sound and technically should be called monophonic.
 
 - bi'naural (adj)
@@ -2003,78 +2050,115 @@ stereophonic
 stereos (deep, solid) + phone (sound)
 
 - o'tologist (cn)
-- o'tology (un)
-- oto'logical (adj)
 [Greek] otos (ear)
+I tell you, we have a future otologist on our hands.
 
-- cuticle (cn)
-- cuticular (adj)
-the area of hard skin around the base of your nails
+- o'tology (un)
+There are three common types of lasers used in otology (the study of the anatomy and diseases of the ear).
 
-- clavicle (cn)
-- clavicular (adj)
-collar bones
+- oto'logical (adj)
+He travelled overseas extensively gaining the necessary knowledge to carry out these new otological operations.
+
+- 'cuticle (cn)
+You've been gnawing at your cuticles (the area of hard skin around the base of your nails).
+
+- cu'ticular (adj)
+On the ventral side of each segment are denticle belts and other cuticular structures characteristic of each segment.
+
+- 'clavicle (cn)
+The clavicle (collarbones) and scapula together form the shoulder girdle.
+
+- cla'vicular (adj)
+Supernumerary clavicular muscles are numerous but uncommon.
 
 - 'vesicle (cn)
-- 'vesicular (adj)
-a sac
+They are united by the presence of small vesicles (a sac) in, or just under, the plasma membrane.
+
+- ve'sicular (adj)
+A three-year-old boy presented with a vesicular rash on the right flank and right buttock.
 
 - 'testicle (cn)
 - 'testicular (adj)
 
 - 'uncle (cn)
 - a'vuncular (adj)
-referring to an uncle
+His friendly avuncular (referring to an uncle, kind and friendly towards a younger or less experienced person) bearded figure was recognised throughout the town.
 
-- dorsal (adj)
+- 'dorsal (adj)
 dorsum (back)
 relating to the back of an animal.
 
-- endorse (vt)
+- en'dorse (vt)
 dorsum (back)
-1. If you endorse a check, you sign it on the back side.
-2. If you endorse a plan, an idea, etc., you back it.
-3. If you endorse a product or service, you say in an advertisement that you use and like it.
+1. If you endorse a check, you sign it on the back side
+The cheque was endorsed by Conroy and then given to him.
+
+2. If you endorse a plan, an idea, etc., you back it
+But we've never endorsed a candidate for public office.
+
+3. If you endorse a product or service, you say in an advertisement that you use and like it
+He earns more money endorsing sports clothes than playing football.
 
 - som'niferous (adj)
 somnus (sleep) + fero (to carry)
 A somniferous lecture is so dull and boring that it is sleep-inducing.
+Lifeless actors made the experience even more somniferous for the audiences
 
 - som'nific (adj)
 somnus (sleep) + fic (to make)
-someniferous, soporific
+He should not stigmatize the world for being sleepy, when he himself has given a somnific (someniferous, soporific) influence to all his readers.
 
 - 'somnolent (adj)
-- 'somnolence, 'somnolency (un)
 1. sleepy
+It would be frenetic in the day, somnolent at night.
+
 2. make you sleepy (soporific)
+By her somnolent expression he could see she was still tired.
+
+- 'somnolence, 'somnolency (un)
+He must anticipate the sun in rising, or be whipped severely for his somnolency.
 
 - in'somnia (un)
+He suffered from insomnia and was taking sleeping pills each night.
+
 - in'somniac (adj), (cn)
 The unfortunate victim of this ability is insomniac.
+I'm an incurable insomniac, so I get a lot of my work done while the world sleeps.
 
 - in'somnious (adj)
-unable to fall asleep
+Nurses lull to sleep an insomnious (unable to fall asleep) child by swinging him about in their arms.
 
-- som'nambulism (un) = sleepwalking
-- som'nambulist (cn) = sleepwalker
-- somnambu'listic (adj) = pertaining to sleepwalking
+- som'nambulism (un)
 somnus (sleep) + ambulo (to walk)
+She would have liked to wake up from her somnambulism (sleepwalking) to find herself back in bed.
+
+- som'nambulist (cn)
+The husband agreed that he had been bewitched (being controlled by a magic spell); he spoke like a somnambulist (sleepwalker), in tones of grief.
+
+- somnambu'listic (adj)
+The central character, a Woman who works in a convenience store (played with somnambulistic perfection by Maureen Gammelseter) is the the film's central focus.
 
 - som'niloquist (cn)
-- som'niloquent (adj)
-- som'niloquence (un)
 somnus (sleep) + loquor (to speak)
+We may even be prompted to the action of the somnambulist, or somniloquist (a sleeptalker), without waking.
+
+- som'niloquent (adj)
+
+- som'niloquence (un)
+True somniloquence is often preceded by a cataleptic state.
 
 - noc'tambulist (cn)
+For nearly two years I had been going about my life a virtual somnambulist (noctambulist [a sleepwalkter], if you prefer).
+
 - noctambulism (un)
 nox, noctis (night) + ambulo (to walk)
-someone who walks at night
+Curatives for noctambulism can incorporate medication, luminance treatment, lasting positive air passage pressure level gear, plus, in addition, routine sleep times or a much better durability mattress.
 
 - conva'lescent (cn)
-someone who is spending time getting well after an illness
+Recall the case of the convalescents (someone who is spending time getting well after an illness) in the hospital ward.
 
 - conve'lescent (adj)
+As I'm still convalescent, we are not planning to act on this until early 2005.
 
 - 'ambulatory (adj)
 ambulo (to walk)
@@ -2085,14 +2169,17 @@ per (through) + ambulo (to walk) = a vehicle for walking an infant through the s
 a baby carriage, buggy
 
 - per'ambulate (v)
-- perambu'lation (cn)
 "to walk through" = to stroll around
+Over the weekend I had a chance to perambulate properly in cyberspace.
 
-- circumambulate (v)
-"to walk around"
+- perambu'lation (cn)
+But he noticed it was missing one day during one of his many perambulations around the city.
+
+- circum'ambulate (v)
+They used to circumambulate (to walk around) the perimeter wall
 
 - 'amble (vi)
-to walk aimlessly
+An old man came out and ambled (to walk aimlessly) over for a chat.
 
 - 'ambulance (cn)
 An ambulance is so called because originally it was composed of two stretcher-bearers who walked off the battlefield with a wound soldier.
@@ -2105,9 +2192,10 @@ An increase in inflationary factors in the economy is often a preamble to a drop
 - sopo'rific (adj)
 sopor (sleep) + fic (make, do)
 soporific lecture, speaker, style of deliver, etc will put the audience to sleep.
+His voice had an almost soporific effect.
 
 - sopo'rific (cn)
-a sleeping pill
+My plan is to reserve soporifics (sleeping pills) for the bathroom and put all the invigorating stuff in the kitchen.
 
 - nary (adv)
 - murmur (cn)
@@ -2166,7 +2254,7 @@ Sorcery developed by a certain surreptitious sorcerer at Vinheim Dragon School.
 - eke out a living/existence (v)
 Those banished from the Undead Burg eke out their existence (to manage to live with very little money or food) in the Depths, a damp lair with no trace of sunlight.
 
-- uncouth (adj)
+- un'couth (adj)
 Who are you so uncouth (socially unacceptable) as to lack such judgment?
 
 - 'humdrum (adj)
@@ -2187,11 +2275,13 @@ The lass (a young woman) weeps in solitude.
 - purebred (adj)
 The poor little purebred is entirely helpless.
 
-- lauduable (adj)
-Lauduable is thy dedication to sin.
+- 'laudable (adj)
+Laudable (deserving praise, praiseworthy) is thy dedication to sin.
+Laudable though the aim might be, the results have been criticized.
 
-- apparition (cn)
-But don't blame me if he's just an apparition (something that you imagine you can see).
+- appa'rition (cn)
+But don't blame me if he's just an apparition (something that you imagine you can see, a ghost or ghostlike image of a person).
+He stared at the strange apparition before him.
 
 - shackle (vt)
 This iron ring was used to shackle (chain) the guilty.
@@ -2237,14 +2327,15 @@ Asuma: Huh, this much power without using Chakra Blades. Not too shabby (not bad
 Yo that whiff punish on the focus at 55s was absolutely raunchy (sexy).
 
 - feign (vt)
-Now I roam these parts feigning ablution and pretending to seek answers
+Now I roam these parts feigning ablution (forgiveness) and pretending to seek answers.
+Feigning a headache, I went upstairs to my room.
 
 - impart (vt)
 We can tell him no and not impart that information.
 Speak with me there [Firelink Shrine], so that I may impart my sorcery.
 
 - elucidate (v)
-I wish to elucidate your fate.
+Frampt: I wish to elucidate your fate.
 
 - unparalleled (adj)
 - ma'chete (cn)
@@ -2257,7 +2348,7 @@ This greatsword with an undulating blade is the choice weapon of the slithering 
 This weapon is designed to flay the skin and causes heavy bleeding.
 
 - be in a pickle
-I'm afraid I'm a bit too plump to be outrunning those things. So, here I sit, in quite a pickle.
+I'm afraid I'm a bit too plump to be outrunning those things. So, here I sit, in quite a pickle (to be in a difficult situation).
 
 - impunity (n)
 This blessed talisman blocks Undead recovery, allowing the knights to fight with impunity (with no punishment).
@@ -2269,6 +2360,4 @@ Mm, you seem quite lucid (sane). A rare thing in these times.
 Coco Bandicoot: Crash, Crash, my battery is fried (exhausted), make yourself useful big brother and bring an extra battery for me.
 
 - invigorating (adj)
-You really are very diligent. I quite understand. Study is invigorating.
-
--
+You really are very diligent. I quite understand. Study is invigorating (making you feel healthy).
