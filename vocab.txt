@@ -317,7 +317,7 @@ The hospital and associated units provide obstetric care for a population of abo
 - pedia'trician (cn)
 "Is your baby ill?"
 
-- malady ('mælədi) (cn)
+- 'malady (cn)
 You know the common childhood maladies: mumps, whooping cough, chicken pox, measles, german measles.
 
 - inoculate (vt)
@@ -411,18 +411,19 @@ Emotional disturbance
 Unreasonably anxious
 
 - psy'chosis (un)
-Serious mental illness
-He had psychosis.
+He had psychosis (serious mental illness).
 
-- psy'chotic (adj, cn)
-Mentally unbalanced
-He was psychotic.
-He was a psychotic.
+- psy'chotic (adj)
+He was psychotic (mentally unbalanced, suffering from psychosis).
+
+- psy'chotic (cn)
+He was a psychotic (a person suffering from psychosis).
 
 - po'diatrist (cn)
+feet + doctor = doctor who treats foot diseases
+
 - po'diatry (un)
 - podi'atric (adj)
-feet + doctor
 
 - chi'ropodist (cn)
 - chi'ropody (un)
@@ -501,10 +502,9 @@ The chair and professor of the department of gerontology (the scientific study o
 Lynn had exceptional skills in her chosen field of gerontological nutrition.
 
 - psychoso'matic (adj)
-Her doctor was convinced that most of Edith’s problems were psychosomatic (caused by fear or anxiety rather than by a physical problem).
+Her doctor was convinced that most of Edith's problems were psychosomatic (caused by fear or anxiety rather than by a physical problem).
 
 - psycho'genic (adj)
-psychogenic disease
 Hormone therapy will bring about physical and perhaps psychogenic (of psychic origin) changes.
 
 - 'parlance (n)
@@ -650,10 +650,10 @@ Educated people avoid "ain't I?" as if it were catching.
 - poll (v)
 The teachers I've polled on this point are about evenly divided in preference.
 
-- plaugue (vt)
+- 'plaugue (vt)
 If you feel guilty when you say "mad," even though you don't mean "insane," it's time you stopped plaguing your conscience with trivialities.
 
-- prophesy (vt) ['profəsai]
+- prophesy (vt)
 Do you prophesy another world war?
 
 - bugbear (cn)
@@ -717,7 +717,7 @@ Linguistics
 sickness
 
 - aster (cn)
-The aster (a star-shaped flower, ดอกเบญจมาศ) is considered the other classic autumn flower.
+The aster (a star-shaped flower) is considered the other classic autumn flower.
 
 - astro'physics (un)
 
@@ -854,6 +854,7 @@ To increase their sense of importance, to escape punishment, ..., out of long-st
 
 - falsifi'cation (un)
 These are the common reasons for falsification.
+The levels of falsifications by job applicants in the industry are alarming.
 
 - im'pel somebody to do something
 No doubt there are other, fairly unique, motives that impel (make somebody feel very strongly to do it) people to distort the truth.
@@ -904,9 +905,9 @@ A veteran actor, teacher, political reformer
 A congenital deformtiy
 
 - chronic (going on for a long time) liar
-Chronic appendicitis (əpendɪ'saɪtəs) / alco'holic
+Chronic appendicitis / alco'holic
 - chro'nicity
-no letup = no stop
+"no letup (no stop)"
 
 - a strange disease
 - patho'logical (diseased) liar
@@ -993,9 +994,16 @@ It is incongruous to wear a sweater and slacks to a formal wedding; it is anachr
 The science of time order and the accurate dating of events
 
 - chro'nometer (cn)
-- chro'nometry (un)
-- chrono'metric (adj)
 a very exact clock
+
+- chro'nometry (un)
+The reversible timelessness of the imagination distinguishes it from the irreversible chronometry (the science of accurate time measurement) of memory and bends it toward the creation of art.
+
+- chrono'metric (adj)
+- chrono'metrical (adj)
+The usual reason given for the use of a chronometric system is that we don't have enough biological activity or geochemical change to find useful markers.
+
+
 
 - 'synchronize (vt)
 - 'synchronous (adj)
@@ -1047,7 +1055,7 @@ The atmosphere is getting kind of dicey (dangerous and uncertain).
 - pluck (vt)
 I adamantly (determined not to change your opinion) refuse to let all my potential be plucked (taken away) out simply for that reason.
 
-- chivalry (adj) ('ʃɪvəlri)
+- chivalry (adj)
 He insulted us, the knights, before the candidates to be our future ruler, and he mocked the chivalry we practice.
 
 - ad'minister (vt)
@@ -1059,7 +1067,8 @@ I hereby administer the death penalty to this insubordinate man, who sullied the
 Normally, it wouldn't be unusual for you to be slain for insolence.
 
 - axio'matic (adj)
-Footsies 101 begins with three universal concepts axiomatic to all Street Fighter games, and the fighting genre in general.
+Footsies 101 begins with three universal concepts axiomatic (not needed to be proved, self-evident) to all Street Fighter games, and the fighting genre in general.
+This law has been axiomatic in the evolution of sciences.
 
 - fore'knowledge (un)
 - sovereign (cn) (ruler)
@@ -1076,7 +1085,7 @@ The dispositions of the enemy are ascertainable through spies and spies alone.
 They got stuck in a chasm at the mountain's base, a land of scrubdom.
 
 - 'immediacy (un)
-Competitive games require military virtues: immediacy (when something is important and urgent), emergency tactics, and the end (winning) justifies the means (as long as it’s through moves the game defines as legal).
+Competitive games require military virtues: immediacy (when something is important and urgent), emergency tactics, and the end (winning) justifies the means (as long as it's through moves the game defines as legal).
 
 - weasel out of (v)
 There's no weaseling out of (to avoid doing something you should do by using clever or dishonest excuses) defeat by redefining what the game is.
@@ -1321,7 +1330,7 @@ Paul? He's a child molester.
 "playing it dirty"
 What is this character doing? He's maligning everyone.
 You spread around an unpleasant story that you know will blacken someone's reputation. You malign that person.
-Don’t you dare malign her in my presence.
+Don't you dare malign her in my presence.
 
 - ma'lign (adj)
 She had a strong and malign (evil, harmful) influence.
@@ -1362,8 +1371,7 @@ Can you see the maleficent glint in this ones eyes?
 At your age it [being gay] would have really drastic maleficences and you can easily end up on yourself, without friends, without parents and even without your beloved one.
 
 - 'malefactor (cn)
-a wrongdoer, a criminal
-The cure for crime is locking up malefactors and doing so with equal and impartial enthusiasm regardless of skin colour.
+The cure for crime is locking up malefactors (a wrongdoer, a criminal) and doing so with equal and impartial enthusiasm regardless of skin colour.
 
 - male'faction (cn)
 a malefactor commits a malefaction, a crime, an evil deed.
@@ -1531,7 +1539,7 @@ Here is described the expression on the face of the equestrian (relating to hors
 - e'questrian (cn)
 Be prepared to meet fellow equestrians (someone riding a horse) on these popular trails.
 
-- equestri'enne (iˌkwestrēˈen)
+- equestri'enne
 Fanny was, by all accounts, a fine equestrienne (a woman riding a horse) smartly turned out as she sought every opportunity to ride.
 
 - equine (adj)
@@ -1671,7 +1679,7 @@ pre (before) + dico, dictus (say)
 - contra'dict
 contra (against) + dico, dictus (say)
 
-- 'addiction (n)
+- ad'diction (n)
 ad (toward) + dico, dictus (say) = "a saying to or toward" or the compulsion to say "yes" to a habit
 
 - 'factory
@@ -1754,7 +1762,6 @@ A young newspaperwoman was sitting next to him [Calvin Coolidge] at a banquet, s
 His laconic reply suggested a lack of interest in the topic.
 
 - 'laconism (un)
-his habitual laconism
 The principal hallmarks of Echenoz's style are his laconism, his dry wit, and the precision with which he chooses words and images.
 
 - la'conicness (un)
@@ -1852,7 +1859,7 @@ If you let your mind play over some of the taciturn people you know, you will re
 
 - 'reticent (adj)
 taceo (to be silent)
-She was extremely reticent (not revealing one’s thoughts or feelings) about her personal affairs.
+She was extremely reticent (not revealing one's thoughts or feelings) about her personal affairs.
 
 - 'reticence, 'reticency (un)
 Yet there was continual evidence of reticence among even supposed supporters.
@@ -1900,8 +1907,11 @@ In ancient Sparta, orginally known as Laconia, the citizens were long-suffering,
 - to wit = namely
 Centuries ago, in ancient Greece, the philosopher Zeno lectured on a topic that still piques the human mind, to wit: "How to Live a Happy Life."
 
+- porch (cn)
+Zeno would stand on a porch (the Greek word for which is "stoa") and hold forth somewhat as follows: people should free themselves from intense emotion, be unmoved by both joy and sorrow, and submit without complaint to unavoidable necessity.
+
 - expound (v)
-Zeno would stand on a porch (the Greek word for which is "stoa") and hold forth somewhat as follows: people should free themselves from intense emotion, be unmoved by both joy and sorrow, and submit without complaint to unavoidable necessity. Today, psychologists suggest pretty much the exact opposite, let your emotions flow freely, express your love or animosity, don't bottle up your feelings. But in the fourth century B.C., when Zeno was expounding (to explain or talk about something in detail) his credo, his philosophy of control of the passions fell on receptive ears.
+Today, psychologists suggest pretty much the exact opposite, let your emotions flow freely, express your love or animosity, don't bottle up your feelings. But in the fourth century B.C., when Zeno was expounding (to explain or talk about something in detail) his credo, his philosophy of control of the passions fell on receptive ears.
 
 - 'stoical (adj)
 His followers were called Stoics, after the "stoa," or porch, from which the master lectured. If we call people stoical, we mean that they bear their pain or sorrow without complaint, they meet adversity with unflinching fortitude.
@@ -2085,9 +2095,12 @@ They found that patients who were fitted binaurally after a monaural (involving 
 Monaural reproduction has only one source of sound and technically should be called monophonic.
 
 - bi'naural (adj)
-involving two ears
-stereophonic
+1. involving two ears
+Human hearing is binaural.
+
+2. stereophonic
 stereos (deep, solid) + phone (sound)
+I'm going to do some more investigation into binaural recording.
 
 - o'tologist (cn)
 [Greek] otos (ear)
@@ -2417,7 +2430,7 @@ The woman in charge was a martinet who treated us like children.
 - marti'netism (un)
 
 - fig (cn)
-a soft sweet fruit with a lot of small seeds (มะเดื่อ)
+a soft sweet fruit with a lot of small seeds
 
 - beacon (cn)
 If not for me, what beacon would there be in this lost city?
@@ -2737,7 +2750,7 @@ uxor (wife) [Latin] + cide (to kill)
 
 - ma'riticide (un)
 maritus (husband) [Latin] + cide (to kill)
-Jean Kincaid (1579–1600) was a Scottish woman who was convicted of mariticide.
+Jean Kincaid (1579-1600) was a Scottish woman who was convicted of mariticide.
 
 - mariti'cidal (adj)
 
@@ -2768,7 +2781,7 @@ The artist enjoyed fraternizing with thieves, drug addicts, prostitutes, and pim
 - fra'ternity (n)
 
 - u'xorious (adj)
-He had always impressed me as home-loving and uxorious (having or showing a great or excessive fondness for one’s wife).
+He had always impressed me as home-loving and uxorious (having or showing a great or excessive fondness for one's wife).
 
 - henpecked (adj)
 In some polygamous species, such as the patas monkey, the males become henpecked (dominated by his wife, perhaps because of his own fear or weakness, while the uxorious husband is dominated only by his neurosis, and quite likely the wife finds his uxoriousness comical or a pain in the neck).
@@ -2833,7 +2846,7 @@ The pyromaniac sets fire for the thrill; the incendiary for revenge; the arsonis
 - 'arson (un)
 
 - 'ardent (adj)
-burning with zeal, ambition, love, etc.
+Even his most ardent (burning with zeal, ambition, love, showing strong active feelings) supporters disagreed with his move.
 
 - 'ardor, 'ardency (un)
 
@@ -3105,7 +3118,7 @@ An interurban bus travels between cities.
 An intraurban bus travels within a single city.
 
 - 'exurb (cn)
-The exurbs (a prosperous area beyond a city’s suburbs) have certainly grown faster than the inner-ring suburbs.
+The exurbs (a prosperous area beyond a city's suburbs) have certainly grown faster than the inner-ring suburbs.
 
 - e'xurban (adj)
 It's really a service that will only be useful in rural areas or exurban areas.
@@ -3172,11 +3185,13 @@ We asked our effervescent (happy, excited, active) typist what she might have be
 
 - joie de 'vivre (un)
 Literally joy of living, the phrase describes an immense delight in being alive, an effervescent keenness for all the daily activities that human beings indulge in.
+Still, I catch glimpses of the same atomic energy she has always had, the same joie devivre.
 
 - ennui (un)
 
-- lassitude (un)
-The candidates have been trying to lift ovters out of their lassitude.
+- 'lassitude (un)
+lassus (tired) [Latin]
+The candidates have been trying to lift voters out of their lassitude (tiredness, lack of energy and interest).
 
 - bon vi'vant (cn)
 He created a skirt-chasing bon vivant persona for himself.
@@ -3209,4 +3224,3 @@ Someone who has a voracious, insatiable appetite for money, sex, punishment, etc
 - pe'jorative (adj)
 pejor (worse) [Latin]
 For hard-line Republicans, the word "liberal" had become a pejorative (word with negative or derogatory connotation, describing such a word or words) term.
-
