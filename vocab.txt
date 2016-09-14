@@ -438,11 +438,13 @@ nerve + pain
 Inflamation of the nerves
 
 - neu'rosis (un)
-Mental illness
-Emotional disturbance
+Expressions of pain as the examination takes place rouse irritation or accusations of neurosis (mental illness that makes someone unreasonably worried or frightened, emotional disturbance).
 
-- neu'rotic (adj, cn)
-Unreasonably anxious
+- neu'rotic (adj)
+He seemed a neurotic (unreasonably anxious or afraid), self-obsessed man.
+
+- neu'rotic (cn)
+She accused him of being a neurotic (someone who suffers neurosis).
 
 - psy'chosis (un)
 He had psychosis (serious mental illness).
@@ -932,39 +934,66 @@ A person reaches the acme (the highest level of something) of perfection as an a
 - consum'mation (un)
 To make something complete, especially an agreement
 
-- in'corrigible (beyond reform) liar
-- incorrigi'bility, incorrigibleness
-An incorrigible optimist/romantic
-beyond redemption or salvation = too bad to be saved
+- buy into something (phrasal verb)
+1. to accept that an idea is right and allow it to influence you
+I never bought into this idea that you have to be thin to be attractive.
+2. to buy part of a business or organization, especially because you want to control it
+Investors were invited to buy into state-owned enterprises.
 
-- in'veterate (deeply-habituated) liar
-- in'veteracy
-An inveterate smoker/gambler
-too old to learn new tricks
+- in'corrigible (adj)
+Peter, you are an incorrigible (beyond reform, redemption, or salvation, too bad to be saved) flirt!
+He was an incorrigible liar too.
+And even Cotton Fitzsimmons, an incorrigible optimist by nature, seemed to buy into (believe) that at least a little bit.
+
+- incorrigi'bility, in'corrigibleness (un)
+Girls' average age of entry was fifteen, and the overwhelming majority were incarcerated (imprisoned) for incorrigibility, immorality, truancy, desertion, and petty theft.
+
+- in'veterate (adj)
+1. inveterate liar/smoker/womanizer = someone who lies a lot, smokes a lot, etc., and cannot stop
+Being an inveterate (deeply-habituated) gambler, the fourth son was only too glad to accept the offer.
+2. inveterate fondness/distrust/hatred = an attitude or feeling that you have had for a long time and cannot change
+The three have a lot in common with each other in their inveterate hatred of that ethnic group.
+
+- in'veteracy (un)
+The inveteracy (firmness produced by long use or continuance, the state of being inveterate) of her pursuit is unfathomable for she is completely deprived of pity and compassion.
 
 - 'veteran (cn, adj)
 A veteran at swimming, tennis, police work, diplomacy
 A veteran actor, teacher, political reformer
 
-- con'genital (happening at or during birth) liar
-"an early start"
-A congenital deformtiy
+- con'genital (adj)
+"an early start" = happening at or during birth
+1. a congenital medical condition or disease has affected someone since they were born
+Now her congenital hip problem left the number two guard spot wide open for next year.
+2. a congenital quality is one that has always been part of your character and is unlikely to change.
+He's a congenital liar.
 
 - chronic (going on for a long time) liar
-Chronic appendicitis / alco'holic
-- chro'nicity
 "no letup (no stop)"
+1. a chronic disease is one that continues for a long time and cannot be cured
+He suffers from chronic asthma/appendicitis.
+2. someone who has behaved in a particular way for a long time and cannot stop
+He was a chronic alcoholic and unable to hold down a job.
 
-- a strange disease
-- patho'logical (diseased) liar
-A pathological condition
+- chro'nicity (un)
+What I would like to see more research on is the chronicity of these illnesses.
 
-- pa'thology
-1. The science of disease
-2. Disease
+
+- patho'logical (adj)
+"a strange disease"
+1. a mental or physical condition that is pathological is caused by disease
+I knew perfectly well that I had anorexia, but I did not see it as something pathological (diseased).
+2. pathological behavior or feelings happen regularly, and are strong, unreasonable, and impossible to control
+The essential problem with compulsive gamblers, however, is their blindness to this pathological desire to lose.
+
+- pa'thology (un)
+1. the science of disease
+Formaldehyde is used widely as a tissue preservative in pathology laboratories and embalming services.
+2. disease
 This case involves so many kinds of pathology that several different specialists are working on it.
 
-- pa'thologist
+- pa'thologist (cn)
+A pathologist carried out a post-mortem (autopsy) examination.
 
 - unconscionable (adj)
 The war caused an unconscionable (much more than is reasonable or acceptable) amount of suffering.
@@ -977,30 +1006,35 @@ I felt a twinge of pain in my back.
 2. a twinge of guilt/envy/sadness = a sudden feeling of guilt etc.
 He felt a sharp twinge of guilt for not taking the trouble to visit her.
 
-- unscrupulous
+- un'scrupulous (adj)
 Totally unscrupulous (behaving in an unfair and dishonest way), you are a dangerous person to get mixed up with.
 
-- smooth!
-- glib (suspiciously fluent) liar
-- glibness (un)
-[old english] slippery
-A glib witness
-Glib responses
+- 'glib (suspiciously fluent) liar
+glib (slippery) [Old English] = "smooth!"
+I know this will sound glib, but don't pretend you aren't feeling what you feel.
 "Let me be perfectly frank with you" and then they promptly and glibly lie through their teeth.
 
-- outstanding!
-- e'gregious (outstandingly vicious and hurtful) liar
+- 'glibness (un)
+It happens, of course, but the glibness (a kind of fluent easy superficiality) with which it's used to build up the character bothers me.
+
+- e'gregious
+He is notorious for being an egregious (outstandingly vicious and hurtful) liar
+The situation at Zefco was one of the most egregious examples of discrimination we have seen.
+That is an egregious (extremely bad and noticeable) violation of the responsibility a scholar has.
+
 - e'gregiousness (un)
-An egregious mistake is extremely bad and 'noticeable
-An egregious error/blunder (a careless or stupid mistake)
+We hardly recognize the egregiousness of insults like this when they most urgently need to be remembered.
 
 - maim (vt)
-- compunction (un)
-An invading army kills, maims (to kill or injure someone permanently), and tortures without mercy, compunction (guilt), or regret.
+Landmines still kill or maim (to kill or injure someone permanently) about 300 people every month.
 Perhaps, its former wearer was maimed to prevent escape.
 
-- imbibe (vt, vi)
-Inveterate drinkers have been imbibing for so long
+- compunction (un)
+He had no compunction (guilt) about interfering in her private affairs.
+An invading army kills, maims, and tortures without mercy, compunction, or regret.
+
+- im'bibe (vt, vi)
+Inveterate drinkers have been imbibing for so long.
 
 - ge'neticist (cn)
 - ge'netics (un)
@@ -1011,7 +1045,7 @@ Inveterate drinkers have been imbibing for so long
 - genea'logical (adj)
 Study of family trees
 
-- ges'tation (singular, uc)
+- ges'tation (singular, un)
 So a congenital defect, deformity, condition, etc. occurs during the nine-month process (or period of gestation, to become technical).
 
 - he'redity (un)
@@ -1075,7 +1109,7 @@ An antipathetic reaction to an authority figure.
 - 'empathy (un)
 - empa'thetic, em'pathic (adj)
 Stronger than sympathy
-Empathy = understand; sympathy = feel sorry.
+Empathy = understand. Sympathy = feel sorry.
 
 - pa'thetic (adj)
 
@@ -1167,30 +1201,39 @@ It can be difficult to even reason with the kind of religious fervor (a very str
 - deprive somebody of something (v)
 This need to displace the blame is probably motivated by pride, but it deprives you of a chance to learn from your mistakes (and it alienates other players, a point which you may or may not care about).
 
-- debilitate (vt) (to make someone weak)
-A low self-esteem can be debilitating .
+- de'bilitate (vt)
+A low self-esteem can be debilitating (to make someone or something weak and less effective).
+He was debilitated by his illness.
+The state is debilitated by inefficiency and corruption.
 
 - 'avalanche (cn) (a large number of things that arrive at the same time)
+1. a large mass of snow
+Two skiers were killed in the avalanche.
+2. a very large amount
 It also usually leads to an avalanche of bans in order to be consistent with the first.
 
 - 'tacit (adj)
-- 'tacitness (un)
 taceo (to be silent)
 There seems to be a tacit (understood or implied without being stated) agreement amongst top players in Japan, a soft ban, on playing Old Sagat.
 Here is a man dying of cancer. He suspects what his disease is, and everyone else, of course, knows. Yet he never mentions the dread word, and no one who visits him ever breathes a syllable of it in his hearing. It is tacitly understood by all concerned that the word will remain forever unspoken.
+
+- 'tacitness (un)
 
 - de'corum (un)
 He was disciplined for breaching the Senate's rules of decorum (behavior that shows respect and is correct for a particular situation, especially a formal occasion).
 An executive is engaging in extracurricular activities with her secretary. Yet during office time they are as formal and distant as any two human beings can well be. Neither of them ever said to the other, "Now, look here, we may be lovers after five o'clock, but between nine and five we must preserve the utmost decorum, okay?" Such speech, such a verbal arrangement, is considered unnecessary. So we may say that the two have a tacit agreement (i.e., nothing was actually said) to maintain a complete employer-employee relationshiop during office hours.
 
-- gloat (vi)
-There is always the tendency to gloat (show in an annoying way that you're proud of your own success), but being polite and reserved is the way to positively influence other people.
+- 'gloat (vi)
+The fans are still gloating (show in an annoying way that you're proud of your own success) over Scotland's victory.
+There is always the tendency to gloat, but being polite and reserved is the way to positively influence other people.
 
 - 'leeway (un)
 There is usually leeway (freedom to do things the way you want) in a tournament to be physically intimidating and say mean and scary things just short of actually violating any rules.
 
-- rile (v)
-If you wish to rile (to make someone angry) your opponent up, there are plenty of ways to do this within most games.
+- 'rile (v)
+He was the calmest guy I ever knew. Nothing ever riled (to make someone angry) him.
+That class gets me so riled up.
+If you wish to rile your opponent up, there are plenty of ways to do this within most games.
 
 - give someone the benefit of the doubt
 With the fear aura, he is able to get away with gambits and maneuvers no ordinary player could ever pull off, just because the opponent gives him the extreme benefit of the doubt on everything that occurs in the game.
@@ -1198,8 +1241,9 @@ With the fear aura, he is able to get away with gambits and maneuvers no ordinar
 - banished (adj)
 You are as good as banished, but when your mission is over, you're dead.
 
-- maroon (vt)
+- ma'roon (vt)
 Spock maroons (to leave in a place where there are no other people and you cannot escape) Kirk on Delta Vega after Kirk attempts mutiny.
+The car broke down and left us marooned in the middle of nowhere.
 
 - round-robin (adj)
 The main event? An eight-player Ultra Street Fighter IV round-robin featuring all previous Canada Cup Street Fighter IV champions as well as a few other invitations.
@@ -1322,6 +1366,7 @@ I have detailed rather mental or physical stimuli that excite enjoyably but not 
 
 - 'centerfold (cn)
 The centerfold of Playboy or Playgirl provides a mild and agreeable stimulation. The centerfold titilates you.
+Considering one of the postcards she's sent contains an image worthy of a Penthouse centrefold, I'm amazed they weren't censored by Australia Post too.
 
 - 'servile (adj)
 All your servile (very eager to obey someone) attentions and unceasing adulation spring from your own selfish desires to get ahead, not out of any sincere admiration.
@@ -1361,12 +1406,13 @@ Environmental factors militate against building the power station in this area.
 You are the soul of honesty, but unfortunately, you have a sneaky, thievish, sinister look, and no one ever trusts you. Your appearance militates against you.
 Your timidity may militate against your keeping your friends.
 
-- militant (adj, cn)
+- 'militant (adj, cn)
 A militant reformer is one who fights for reforms.
 A militant campaign is one waged aggressively and with determination.
 Sally is a militant in the Women's Liberation movement.
 
-- militancy (un)
+- 'militancy (un)
+There are signs of growing militancy (the use of confrontational or violent methods in support of a political or social cause) among workers.
 
 - closet (adj)
 Harry? He's a closet alcoholic. (he doesn't want to admit he's an alcoholic)
@@ -1472,6 +1518,9 @@ This means that he must show that he was defamed (to slander) by a statement tha
 com (together) + dono (give, as in donor, donate, donation)
 
 - trans'gress (v)
+Orton's plays transgress (to do something that is against the rule sof social behavior or against a moral principle) accepted social norms.
+
+- trans'gression (n)
 If your answers are in the affirmative, how are you reacting to such legal or ethical transgressions? You condone them (to accept or forgive morally wrong behavior).
 
 - s'crupulous (adj)
@@ -1530,7 +1579,7 @@ com (together) + par (equal)
 - be coughed in something (v)
 An ambiguous statement is accidentally couched (to express in a particular way) in such language.
 
-- 'double en'tendre (cn)
+- double en'tendre (cn)
 In the title piece, readers are thrown from one double entendre to the next.
 
 - 'equity (un)
@@ -1561,6 +1610,7 @@ These awards remain an iniquitous (grossly unfair and morally wrong) system.
 - 'equinox (cn)
 - equi'noctial (adj)
 equal + night = when day and night are of equal length = March 21, September 21 or 22
+The equinox had surely passed already, and perhaps the solstice was approaching.
 
 - noc'turnal (adj)
 active at night
@@ -2008,6 +2058,7 @@ Both sides will have to show magnanimity.
 - pusil'lanimous (adj)
 pusillus (tiny) [Latin]
 The comfort and security you are chasing can only be temporary with pusillanimous (petty, frightened of taking even small risks) people like you prancing around.
+Others would see the acceptance of this bounded walking environment as timid and pusillanimous.
 
 - pusilla'nimity (un)
 Of course, poor Neville does conjure nasty associations with cowardice and pusillanimity (petty-mindedness, pettiness).
@@ -2249,9 +2300,11 @@ somnus (sleep) + loquor (to speak)
 We may even be prompted to the action of the somnambulist, or somniloquist (a sleeptalker), without waking.
 
 - som'niloquent (adj)
+talking in sleep
 
-- som'niloquence (un)
+- som'niloquence, som'niloquy, som'niloquism (un)
 True somniloquence is often preceded by a cataleptic state.
+The somniloquism of the prophetesses under the coercion of the Scandinavian enchanters.
 
 - noc'tambulist (cn)
 For nearly two years I had been going about my life a virtual somnambulist (noctambulist [a sleepwalkter], if you prefer).
@@ -2316,8 +2369,13 @@ In the Age of Ancients, the world was unformed (not yet developed), shrouded (co
 - furtive (adj)
 And the Furtive (secretive) Pygmy, so easily forgotten
 
-- miasma (singular)
-Nito unleashed a miasma (dirty air) of death and disease.
+- hang over something/somebody (phrasal verb)
+The threat of redundancy was still hanging over (if something bad is hanging over you, you are worried or anxious about it) us.
+
+- mi'asma (singular)
+Nito unleashed a miasma (dirty air, influence) of death and disease.
+A foul miasma lay over the town.
+The miasma of defeat hung over them.
 
 - accursed (adj)
 Even now, there are only embers, and man sees not light, but only endless nights. And amongst the living are seen, carriers of the accursed Darksign.
@@ -2350,10 +2408,14 @@ The symbol represents Lord Gwyn's firstborn, who lost his deity status and was e
 She used to dress so neatly, but now her hair and cloths had become unkempt and dirty (untidy, disordered).
 Ah, go down along the side to reach the depths of the Undead Burg, only unkempt crooks and liars to be found there.
 
-- surrogate (adj, cn)
-The Purging Stone does not dispel curses, but receives them as a surrogate (substitute).
+- 'surrogate (adj)
+William was acting as a surrogate father for his brother's son.
 
-- coronation (cn)
+- 'surrogate (cn)
+The Purging Stone does not dispel curses, but receives them as a surrogate (substitute).
+The President's surrogates have been campaigning for him nonstop.
+
+- coro'nation (cn)
 At the Vinheim Dragon School, the acquisition of this spell marks an apprentice's coronation (a ceremony at which someone is promoted or made king of queen) as a sorcerer.
 
 - surrep'titious (adj)
@@ -2681,7 +2743,7 @@ prurio (to itch, to long for) [Latin]
 I have suffered for more than ten years with pruritis.
 
 - pru'ritic (adj)
-Multiple skin scrapings should be part of the minimum data base for any pruritic dog or cat.
+Multiple skin scrapings should be part of the minimum data base for any pruritic (related to itching) dog or cat.
 
 - palpi'tations (plural)
 If you have palpitations, your heart beats quickly in an irregular way.
@@ -2735,7 +2797,7 @@ A homonym is more accurately called a homophone.
 The paternity of the child is in dispute.
 
 - pa'ternal (adj)
-Dan took a paternal interest in my work.
+Dan took a paternal (fatherly) interest in my work.
 
 - pa'ternalism (un)
 Paternalism is the philosophy or system of governing a country, or of managing a business or institution, so that the citizens, employees, or staff are treated in a manner suggesting a father-children relationship. Such a system sounds, and often is, benign and protective, but play havoc with the initiative, independence, and creativity of those in subordinate roles.
@@ -2796,8 +2858,10 @@ Through her bold, farsighted and innovative leadership there came an end to the 
 
 - so'roricide (un)
 soror (sister) + cide (to kill)
+Alonso eloquently regrets the sororicide and uxoricide he committed before he is beheaded.
 
 - sorori'cidal (adj)
+
 
 - 'homicide (un)
 homo (person) + cide (to kill)
@@ -2972,6 +3036,7 @@ If you have acrophobia (morbid dread of high places), I'd recommend keeping your
 - 'monothiestic (adj)
 
 - 'polytheism (un)
+In many circles of the Qawwal, tribute is paid to the mystic in words that entail transgression in terms of polytheism.
 
 - 'polytheist (cn)
 
@@ -3321,6 +3386,8 @@ Is urbanity a characteristic of boorish people?
 
 ################################### PART THREE #################################
 
+**CHAPTER 14**
+
 - 'frailty (n)
 Since comedy ridicules the frailties of man, it professes a moral aim.
 
@@ -3343,3 +3410,4 @@ Hug your children and lavish them with love.
 - vi'carious (adj) [only before noun]
 The vicarious (experienced by watching or reading about someone else doing something, rather than by doing it yourself) pleasure that parents get from their children's success.
 If no one loves them, and if they can find no one on whom to lavish their own love, they may often satisfy their emotional longings and needs by getting their feelings second hand, through reading love stories, attending motion pictures, watching soap operas, etc. These are vicarious feelings.
+
