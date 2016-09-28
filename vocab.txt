@@ -485,8 +485,11 @@ The group estimates 36,000 geriatricians will be needed by 2030 to treat the gro
 What makes English grammar doubly confounding is that it is slowly but continually changing.
 
 - out'moded (adj)
+* The views of many of the senior professors reflect outmoded (no longer fashionable or useful, outdated) concepts and ideas.
+
 - 'stuffy (adj)
-Following such outmoded (outdated) principles, you may think you are speaking "perfect" English, and instead you may sound stuffy (too formal, old-fashioned) and pedantic.
+* Their wedding was stuffy (too formal, old-fashioned) and formal.
+* Following such outmoded principles, you may think you are speaking "perfect" English, and instead you may sound stuffy and pedantic.
 
 - 'dowager (cn)
 - 'seedy (adj)
@@ -494,10 +497,11 @@ Following such outmoded (outdated) principles, you may think you are speaking "p
 As in the case of the charitable-looking dowager (a woman from a high social class) who was approached by a seedy (poor, dirty, illegal) character seeking a handout (money or food that are given to someone because they are poor).
 
 - at sb's dis'posal
-He [Infiltration]'s got so many characters at his disposal (available for him to use).
+* Tanner had a lot of cash at his disposal (available for someone to use).
+* Infiltration has got so many characters at his disposal.
 
 - 'muse (vt, vi)
-An ancient Greek mused (to thoughtfully say) about the meaning of life, and philosophy was born.
+* An ancient Greek mused (to thoughtfully say) about the meaning of life, and philosophy was born.
 
 - 'gainful (adj)
 - 'mite (cn)
@@ -1452,24 +1456,24 @@ There is also a proscription against any form of harassment.
 I think it's very regrettable that we should become so proscriptive as to do away with a tradition such as this.
 
 - 'temperament (n)
-Jill has such a lovely relaxed temperament.
-Tolkien was, by temperament, a very different man from Lewis.
+* Jill has such a lovely relaxed temperament (the emotional part of someone's character, especially how likely they are to be happy, angry, etc.).
+* Tolkien was, by temperament, a very different man from Lewis.
 
 - 'obviate (vt)
-Need you have any fears about making friends? Obviously not. Your characeristics and temperament (emotional part of someone's character) obviate (to prevent or avoid a problem) such fears.
-You have run out of cash and plan to go to the bank to make a withdrawal. Then unexpectedly you discover a twenty-dollar bill you secreted in your desk drawer months ago. Your find obviates a trip to the bank.
-If you review your work daily in some college subject, frenzied cramming at the end of the semester will be obviated.
+* Need you have any fears about making friends? Obviously not. Your characeristics and temperament (emotional part of someone's character) obviate (to prevent or avoid a problem) such fears.
+* You have run out of cash and plan to go to the bank to make a withdrawal. Then unexpectedly you discover a twenty-dollar bill you secreted in your desk drawer months ago. Your find obviates a trip to the bank.
+* If you review your work daily in some college subject, frenzied cramming at the end of the semester will be obviated.
 
 - obvi'ation (un)
-They emphasize that the obviation of these figures is a form of patriarchy.
+* They emphasize that the obviation of these figures is a form of patriarchy.
 
 - 'militate against something (v)
 militis (soldier, fighting man)
-If something militates against you, it fights against you, works to your disadvantage.
-What effect does such a neurotic tendency have? It militates (act to disadvantage of, work against) against success.
-Environmental factors militate against building the power station in this area.
-You are the soul of honesty, but unfortunately, you have a sneaky, thievish, sinister look, and no one ever trusts you. Your appearance militates against you.
-Your timidity may militate against your keeping your friends.
+* If something militates against you, it fights against you, works to your disadvantage.
+* What effect does such a neurotic tendency have? It militates (act to disadvantage of, work against) against success.
+* Environmental factors militate against building the power station in this area.
+* You are the soul of honesty, but unfortunately, you have a sneaky, thievish, sinister look, and no one ever trusts you. Your appearance militates against you.
+* Your timidity may militate against your keeping your friends.
 
 - 'militant (adj, cn)
 A militant reformer is one who fights for reforms.
@@ -1931,6 +1935,7 @@ speaking very little, so that you seem unfriendly.
 A young newspaperwoman was sitting next to him [Calvin Coolidge] at a banquet, so the story goes, and turned to him mischievously (likes to have fun, causing trouble).
 
 - la'conic (adj)
+Laconia (Sparta)
 His laconic (saying little, meaning much) reply suggested a lack of interest in the topic.
 
 - 'laconism (un)
@@ -2025,9 +2030,20 @@ He was renowned for loquacity.
 - lo'quacityness (un)
 There are times when a peculiar social awkwardness seizes me and I detach from a group forsaking my usual loquaciousness.
 
-- mo'rose (adj), moroseness (un)
-- sullen (adj)
-If you let your mind play over some of the taciturn people you know, you will realize that their abnormal disinclination to conversation makes them seem morose (bad-tempered, silent), sullen (angry and silent), and unfriendly.
+- mo'rose (adj)
+* Daniel seemsvery morose (bad-tempered, unhappy, silent) and gloomy.
+* He stared morosely at the floor.
+* To no avail, of course, you stare at the traffic ticket morosely as the police cruiser pulls away.
+
+- pull away (phrasal verb)
+* He waved as he pulled away (to start to drive away from a place where you had stopped).
+
+- 'sullen (adj)
+* Bill sat in sullen (angry and silent) silence and refused to eat his lunch.
+* If you let your mind play over some of the taciturn people you know, you will realize that their abnormal disinclination to conversation makes them seem morose, sullen, and unfriendly.
+
+- mo'roseness (un)
+I've progressively grown to abhor her habitual moroseness.
 
 - 'reticent (adj)
 taceo (to be silent)
@@ -2066,9 +2082,9 @@ The language is often colloquial and vigorous.
 Good conversation features colloquialisms (an expression or word used in informal conversation), colour and the natural rhythm of speech.
 
 - circumlo'cution (n)
-circum (around) + loquor (to speak) = talking around, using too many words to express an idea
-His admission came after years of circumlocution (the practice of using too many words to express an idea, instead of saying it directly).
-He used a number of poetic circumlocutions.
+circum (around) + loquor (to speak)
+* His admission came after years of circumlocution (the practice of using too many words to express an idea, instead of saying it directly).
+* He used a number of poetic circumlocutions.
 
 - circum'locutory (adj)
 He has a meandering, circumlocutory speaking style.
@@ -3032,7 +3048,7 @@ The artist enjoyed fraternizing with thieves, drug addicts, prostitutes, and pim
 - u'xorious (adj)
 He had always impressed me as home-loving and uxorious (having or showing a great or excessive fondness for one's wife).
 
-- henpecked (adj)
+- 'henpecked (adj)
 In some polygamous species, such as the patas monkey, the males become henpecked (dominated by his wife, perhaps because of his own fear or weakness, while the uxorious husband is dominated only by his neurosis, and quite likely the wife finds his uxoriousness comical or a pain in the neck).
 
 - u'xorial (adj)
@@ -3400,7 +3416,7 @@ He was considered a rustic (roughhewn, farmlike, unsophisticated, uncultured) by
 After rusticating (to spend time in the country, away from the turmoil and tensions of big-city life) in Kigezi from 1978 to 1981, he migrated to Nairobi for professional reasons.
 
 - enervated (adj)
-He seems at first laconic and enervated, loathe to put a sentence together aloud.
+He seems at first laconic and enervated (tired), loathe to put a sentence together aloud.
 
 - 'vanguard (n)
 1. in the most advanced position of development
@@ -3413,7 +3429,7 @@ Two hundred and four warriors formed the vanguard of the army.
 - com'mend (vt)
 This knight of Catarina hereby commends you!
 
-- vi'vacious (adj)
+- vi'vacious (adj)f
 She was under five feet five inches tall, but strikingly good-looking, with dark hair and eyes and vivacious (peppy, has a lot of energy and a happy attractive manner) manner.
 
 - vi'vaciousness (un)
@@ -3590,7 +3606,7 @@ Smokies are made of coarsely ground beef and pork. They are similar to frankfurt
 **CHAPTER 14**
 
 - 'frailty (n)
-Since comedy ridicules the frailties of man, it professes a moral aim.
+Since comedy ridicules the frailties (weakness) of man, it professes a moral aim.
 
 - be de'void of something (adj)
 You praise her in such excessive terms that she appears devoid (to be completely lacking in something) of all human frailty (weakness). You adulate her.
@@ -4000,3 +4016,308 @@ clam (secretly) [Lain]
 
 **CHAPTER 15**
 
+- 'while (v)
+* The evenings were whiled (to spend time in a pleasant and lazy way) away in endless games of cards.
+* You have stayed up all night. And what were you doing? Playing pokwer, a very pleasant way of whiling away time? No.
+
+- 'vigil (n)
+* Eva and Paul kept a constant vigil (a period of time, especially during the night, when you stay awake in order to pray, remain with someone who is ill, or watch for danger) by their daughter's hospital bedside.
+* You can see how this long vigil contains all the elements of frustration that contribute to mental, physical, and nervous fatigue.
+
+- 'bushed (adj, not before noun)
+* She was more bushed (very tired) than I was.
+* And so you are bushed, but completely bushed. Your exhaustion is mental, it is physiological, it is emotional.
+
+- 'enervate (vt)
+ex (out) + nervus (nerve) [Latin]
+* When you are enervated, you feel as if your nerves have been ripped out, or so the etymology of the word indicates.
+* What verb expresses the effect of the night's frustrations on you? [to enervate]
+* The hot sun enervated (exhaust) her to the point of collapse.
+
+- ener'vation (un)
+total fatigue
+
+- 'energy (n)
+en (in) + ergon (work) [Greek]
+
+- 'synergism, 'synergy (n)
+syn (together) + ergon (work) [Greek]
+The interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects
+* The benefits cost savings, greater efficiency and synergy are being realized.
+
+- syner'gistic (adj)
+* Alcohol and barbiturates work synergistically (working together for greater effect).
+
+- 'lash out (phrasal verb)
+* Olson lashed out (to suddenly speak angrily to someone or criticize someone angrily) at the media.
+
+- 'well (vi)
+1. if a liquid wells up, it comes to the surface of something and starts to flow out
+* I felt tears well up in my eyes.
+2. if a feeling wells up in you, you start to feel it strongly
+* Anger welled up within him.
+
+- vitupe'ration (un)
+* You lash out at the officer with all the verbal vituperation welling up in you from your self-anger.
+
+- 'castigate (vt)
+castigate (to punish) [Latin]
+He castigated (to criticize or punish someone severely, censure, scold) those who had become wealthy by exploiting their political standing for private gain.
+
+- casti'gation (un)
+strong censure
+
+- self-'abnegate (v)
+ab (away) + nego (to deny)
+* To be self-abnegating is to say "No!" to what you want.
+* Phyllis is selfless and self-sacrificing. Her husband's needs and desires come first, even when they conflict with her own. Clothes for her two daughters are her main concern, even if she has to wear a seven-year-old coat and outmoded dresses so that Paula and Evelyn can look smart and trim. At the dinner table, she heaps everyone's plate while she herself often goes without. Phyllis will deny herself, will scrimp and save, all to the end that she may offer her husband and children the luxuries that her low self-esteem does not permit her to give herself.
+
+- ne'gate (vt)
+* The atheist negates (to deny the truth or existence of) God.
+* His indulgence in expensive hobbies negates (to destroy by working against) all his wife's attempts to keep the family solvent.
+
+- negation (un)
+He shook his head in silent negation (when someone says no or disagrees).
+
+- 'solvent (adj)
+I don't know how we managed to remain solvent (having enough moeny to pay your debt).
+
+- reca'pitulate (v)
+re (again) + capitulum (little head)
+* To recapitulate (summarize), all development rights and values were vested in the state.
+
+- reca'pitulatory (adj)
+
+- recapitu'lation (un)
+
+- ca'pitulate (vi)
+1. to accept defeat by your enemies in a war (surrender)
+* When you capitulate, etymologically you arrange in headings, or, as the meaning of the verb naturally evolved, you arrange conditions of surrender, as when an army capitulates to the enemy forces under prearranged conditions.
+2. to accept or agree to something that you have been opposing for a long time (give in)
+* Or by further natural extension, you stop resisting and give up, as in, "He realized there was no longer any point in resisting her advances, so he reluctantly capitulated."
+
+- capitu'lation (n)
+
+- 'captain (cn)
+caput, capitis (head) [Latin] = The captain is the head of any group
+
+- 'capital (n)
+caput, capitis (head) [Latin] = The capital is the "head city" of a state or nation
+
+- de'capitate (vt)
+
+- decapi'tation (n)
+
+- dreary (adj)
+* Cooking for one person can be a dreary (dull and making you feel sad or bored) business, as many elderly people find.
+* Economically, things are no better, same old debts to meet, same old hundred dollars in the bank, same old job, same old routine of the eight-to-five workdays, the tuna fish or chicken salad sandwich for lunch, the same dreary ride home.
+
+- 'vegetate (vi)
+* I was determined when I retired that I wasn't just going to vegetate (stagnate, to live without doing much physical or mental activity and to feel bored as a result).
+
+- vege'tation (un)
+dull, passive, stagnant existence, or any plant life
+
+- 'vegetable (cn)
+vegeto (to live and grow) [Latin] = which is what vegetables do, but what's all they do
+
+- 'simulate (vt)
+simulo (to copy) [Latin]
+1. to make or produce something that is not real
+* Interviews can be simulated in the classroom.
+2. to pretend to have a feeling
+* He found it impossible to simulate grief.
+
+- simu'lation (n)
+pretense
+
+- 'similar (adj)
+similis (like, similar) [Latin]
+
+- dis'simulate (v)
+to hide real feelings by pretending opposite feelings
+
+- dissimu'lation (n)
+pretense, concealment of one's thoughts, feelings, or character
+
+- dissimu'lator (cn)
+* Sycophants are great dissimulators. They may feel contempt but show admiration. They may feel negative, but express absolutely positive agreement.
+
+- dis'semble (v)
+pretend, to hide your true feelings, thoughts, etc.
+
+- dis'semblance (n)
+pretense
+
+- 'rapt (adj)
+* They listened with rapt (so interested in something that you do not notice anything else) attention.
+* So, you pretend rapt attention, nodding wisely at what you hope are the right places.
+
+- 'intimate (vt)
+intimus (innermost) [Latin]
+* He intimated (suggest, hint, to make people understand what you mean without saying it directly), politely but firmly, that we were not welcome.
+* She had already intimated to me her wish to leave.
+
+- inti'mation (un)
+hint
+
+- con'strue (vt, usually in passive)
+* The term can be construed (to understand a remark or action in a particular way) in two different ways.
+* At one point in the conversation, the editor makes several statements which might or might not be construed to mean that the company is going to promote the book heavily.
+
+- a'lleviate (vt)
+ad (to) + levis (light, not heavy)
+* If something alleviates your pain, it makes your pain lighter for you.
+* If I alleviate your sadness, I make it lighter to bear
+* Heavy rains in March alleviated (lessen, lighten, to make something less painful or difficult to deal with) the drought conditions.
+
+- allevi'ation (un)
+* If you need some alleviation of your problems, you need them made lighter and less burdensome.
+
+- a'lleviative (adj)
+Aspirin is an alleviative drug.
+
+- re'lieve (vt)
+re (again) + levis (light, not heavy)
+
+- 'elevate
+ex (out) + levis (light, not heavy)
+
+- levitation (n)
+levis (light, not heavy)
+
+- levitate (v)
+rise in the air as by magic or illusion
+
+- 'levity (un)
+* Okay, enough levity (frivolity, flippancy, joking, lack of seriousness when seriousness is required). Now, let's get down to business!
+* Levity is out of place at a funeral, in a house of worship, at the swearing-in ceremonies of a President or Supreme Court Justice.
+
+- be'reavement (n)
+* Certain life events, such as bereavement (when someone loses a close friend or relative because they have died) or other loss, can produce the same discouraged state of mind.
+* When people have suffered a bereavement (as through death); when they have been wounded by life or by friends; then is the time thye most need to feel that they are not alone, that you share their misery with them even if you cannot directly alleviate their sorrow.
+
+- co'mmiserate (vi + with)
+con (together) + miser (wretched) [Latin]
+* When he failed his driving test, I called him up and commiserated (sympathize, to express your sympathy for someone who is unhappy about something) with him.
+
+- commise'ration (n)
+a sharing of grief
+
+- miser
+
+- miserly
+
+- miserable
+
+- misery
+
+- 'virile (adj)
+* The girls were all gazing adoringly at his muscular, virile (having or showing traditionally male qualities such as strength, courage, etc.) young body.
+* John is handsome, virile, tender; George is stable, reliable, dependable, always there when you need him.
+
+- 'vacillate (vi)
+vacillo (to swing back and forth)
+* Her parents vacillated (waver, to continue to change your opinions, decisions, ideas, etc.) between different approaches to discipline.
+
+- 'vacillatory (adj)
+
+- vacil'lation (n)
+a swinging back and forth in indecision
+
+- am'bivalent (adj)
+having simultaneous and contrary feelings
+
+- am'bivalence (singular, un)
+* Ambivalence has best been defined (perhaps by Henny Youngman if he didn't say it first, he should have) as watching your mother-in-law drive over a cliff in your new Cadillac.
+conflicted and contrary feelings
+
+- 'oscillate (v)
+oscillum (a swing) [Latin]
+
+- oscil'lation (n)
+
+- symphony
+syn (together) + phone (sound)
+
+- synagogue
+syn (together) + agogus (leading)
+
+- symbi'osis
+syn (together) + bios (life)
+
+- symbi'otic
+
+- 'symmetry
+syn (together) + metron (mesurement)
+
+- sym'metrical, sym'metric
+
+- 'syndrome
+syn (together) + dromos (a running) = a group of symptoms that occur (i.e., run) together in certain diseases
+
+- 'hippodrome
+hippos (horse) [Greek] + dromos (a running) = a place in ancient Greece in which horse and chariot races were run.
+
+- 'hippopotamus
+hippos (horse) [Greek] + potamos (river)
+
+- come away (phrasal verb)
+1. to become separated from the main part of something
+* One of the wires in the plug had come away.
+* I turned some of the pages and they came away in my hand.
+2. to leave a place with a particular feeling or idea
+* We came away thinking that we had done quite well.
+* I came away with the impression that the school was very well run.
+
+- 'paydirt (un)
+hit/strike paydirt = to make a valuable and useful discovery
+* And, if your friends have fairly good vocabularies, you may strike a rich vein of pay dirt and come away with a large number of words to add to your vocabulary.
+
+- 'dividend (cn)
+1. a part of a company's profit that is divided among the people with shares in the company
+2. a number that is to be divided by another number
+3. pay/bring dividends = to be very useful and bring a lot of advantages, especially later in the future.
+* Good eating habits will pay dividends later on in life.
+* But, since giving to others is one of the greaetest sources of a feeling of self-worth, you can hardly complain about this extra dividend.
+
+- painstaking (adj, usually before noun)
+* The work had been done with painstaking (very careful, thorough, meticulous) attention to detail.
+* The old painting was painstakingly restored.
+* Even in the most painstakingly edited of magazines, a silly little misspelling of a perfectly common word will occasionally appear.
+
+- in'dignant (adj)
+* Liz was indignant (angry and surprised because you feel insulted or unfairly treated) at the way her child had been treated.
+* "Of course, I didn't tell her!" Sasha said indignantly.
+* Practically every reader of the magazine spots it [silly mistake] at once and writes an indignant letter, beginning: "Didn't you ever go to school...?"
+
+- corre'spondence (un)
+1. official letters
+* A secretary came in twice a week to deal with his correspondence.
+2. the process of sending and receiving letters
+* The magazine is unable to enter into any correspondence on medical matters.
+* Al correspondence between us must cease.
+* On the contrary, every word will be of the common or garden variety that you might use every day in your social or business correspondence.
+
+**CHAPTER 16**
+
+- ob'sequious (adj)
+sequor (to follow) [Latin]
+* All this obsequious praise for his actions is enough to make most normal people sick.
+* The waiter was polite and efficient, but not obsequious.
+
+- 'menial (adj)
+* Those who follow rather than lead are usually in a menial (boring, not important, needs no skill), subordinate, or inferior position.
+
+- sub'servient (adj)
+1. always obeying another person
+* Don remained entirely subservient to his father.
+* People who engage in certain fields of endeavor: waiters, clerks, and servants, for example, are forced, often contrary to their natural temperaments, to act excessively courteous, pleasant, obliging, even subservient and humble.
+2. less important than something else
+* The rights of the individual are made subservient to the interested of the state.
+
+- cor'tege (cn)
+
+- 'obsequies (plural)
+sequor (to follow) [Latin]
+* In a funeral cortege, the mourners follow after the corpse. Hence, obsequies are the burial ceremonies, the funeral rites.
