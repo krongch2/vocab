@@ -1047,12 +1047,9 @@ We hardly recognize the egregiousness of insults like this when they most urgent
 Landmines still kill or maim (to kill or injure someone permanently) about 300 people every month.
 Perhaps, its former wearer was maimed to prevent escape.
 
-- compunction (un)
+- com'punction (un)
 He had no compunction (guilt) about interfering in her private affairs.
 An invading army kills, maims, and tortures without mercy, compunction, or regret.
-
-- im'bibe (vt, vi)
-Inveterate drinkers have been imbibing for so long.
 
 - ge'neticist (cn)
 - ge'netics (un)
@@ -1157,9 +1154,6 @@ The atmosphere is getting kind of dicey (slightly dangerous and uncertain).
 - 'adamant (adj)
 - pluck (vt)
 I adamantly (determined not to change your opinion) refuse to let all my potential be plucked (taken away) out simply for that reason.
-
-- chivalry (adj)
-He insulted us, the knights, before the candidates to be our future ruler, and he mocked the chivalry we practice.
 
 - ad'minister (vt)
 - insub'ordinate (adj)
@@ -1434,9 +1428,11 @@ Considering one of the postcards she's sent contains an image worthy of a Pentho
 - 'servile (adj)
 All your servile (very eager to obey someone) attentions and unceasing adulation spring from your own selfish desires to get ahead, not out of any sincere admiration.
 
-- in'gratiating (adj)
 - 'fulsome (adj)
-They show celebrities ingratiating (trying too hard to get someone's approval), almost servile attention, worship and flatter them fulsomely (insincere praise).
+The book contains a fulsome (insincerely praising) dedication to his wife.
+
+- in'gratiating (adj)
+They show celebrities ingratiating (trying too hard to get someone's approval), almost servile attention, worship and flatter them fulsomely.
 
 - 'adulate (vt)
 - 'adulatory (adj)
@@ -1588,7 +1584,7 @@ This means that he must show that he was defamed (to slander) by a statement tha
 - con'done (vt), condo'nation (un) (forgiveness)
 "giving the benefit of any doubt"
 com (together) + dono (give, as in donor, donate, donation)
-I cannot condone the use of violence under any circumstances.
+* I cannot condone the use of violence under any circumstances.
 
 - trans'gress (v)
 Orton's plays transgress (to do something that is against the rule sof social behavior or against a moral principle) accepted social norms.
@@ -2612,7 +2608,7 @@ Yo that whiff punish on the focus at 55s was absolutely raunchy (sexy).
 Now I roam these parts feigning ablution (forgiveness) and pretending to seek answers.
 Feigning a headache, I went upstairs to my room.
 
-- impart (vt)
+- im'part (vt)
 We can tell him no and not impart that information.
 Speak with me there [Firelink Shrine], so that I may impart my sorcery.
 
@@ -4303,8 +4299,14 @@ hit/strike paydirt = to make a valuable and useful discovery
 
 - ob'sequious (adj)
 sequor (to follow) [Latin]
-* All this obsequious praise for his actions is enough to make most normal people sick.
+* All this obsequious (fawning, ingratiatingly polite) praise for his actions is enough to make most normal people sick.
 * The waiter was polite and efficient, but not obsequious.
+
+- 'fawn (vi)
+I refused to fawn (to praise someone and briendly to them in an insincere way, because you want them to like you or give you something) over her or flatter her.
+
+- 'fawning (adj)
+Everyone crowded round, fawning at him and readily taking up his offer of free drinks.
 
 - 'menial (adj)
 * Those who follow rather than lead are usually in a menial (boring, not important, needs no skill), subordinate, or inferior position.
@@ -4317,7 +4319,163 @@ sequor (to follow) [Latin]
 * The rights of the individual are made subservient to the interested of the state.
 
 - cor'tege (cn)
+* He took off his cap as the cortege passed.
 
 - 'obsequies (plural)
 sequor (to follow) [Latin]
 * In a funeral cortege, the mourners follow after the corpse. Hence, obsequies are the burial ceremonies, the funeral rites.
+
+- 'subsequent (adj)
+* These skills were passed on to subsequent generations.
+
+- 'sequel (n)
+* Just wait until you hear the equel to the story.
+
+- 'sequence (n)
+* The sequence of events of the net few days left him breathless.
+
+- 'fretful (adj)
+* The child was tired and fretful (anxious and complaining, and unable to relax).
+
+- 'petulant (adj)
+* "Which one?" he demanded petulantly (behaving in an unreasonably impatient and angry way, like a child).
+* Alexis walked out with a petulant look, and slammed the door.
+
+- 'querulous (adj)
+queror (to complain) [Latin]
+* "But why can't I go?" he said in a querulous (complaining) voice.
+* Anyone full of complaints, constantly nagging, harping, fretful, petulant, whining, never satisfied, may accordingly be called querulous.
+
+- 'snobbish, 'snobby (adj)
+* Her family seems snobbish (behaving in a way that shows you think you are better than other people because you are from a higher social class or know more than they do).
+
+- super'cilious (adj)
+super (above) + cilium (eyelid) = eyebrows
+* Now there are certain obnoxious people who go around raising their eyebrows in contempt, disdain, and sneering arrogance at ordinary mortals like you and me. Such contemptuous, sneering, over-bearingly conceited people are called supercilious.
+* This viewpoint seems to have prevented him from doing more than cast a supercilious (snobbish, behaving as if you think that other people are less important than you) eye over the book.
+
+- un'ruly (adj)
+1. violent or difficult to control
+* A family attempts to cope with the eruption into their lives of an unruly aunt.
+2. untidy
+* You can spot her by her unruly hair and her shocking-pink work suit.
+
+- 'boisterous (adj)
+* During his speech, police in riot gear watched over a boisterous (someone, especially a child, who is boisterous makes a lot of noise and has a lot of energy) crowd.
+
+- ob'streperous (adj)
+strepo (to make a noise) [Latin]
+* Anyone who is unruly, boisterous, resistant to authority, unmanageable and in a noisy, troublesome manner is obstreperous.
+* Some children placed on the drug became more subdued, less obstreperous (unmanageable).
+
+- impe'cunious (adj)
+pecus (cattle) [Latin]
+* At one time in human history, a person's wealth was measured not by stocks and bonds but by stocks of domestic animals, which was a lot more logical, since you get milk and leather and meat from cattle, true wealth, and all you get from the stock market is a headache.
+* This word is not a synonym of indigent, destitute, or poverty-stricken. It does not necessarily imply living in reduced circumstances or want, but quite simply being short of cash, habitually.
+* He came from a respectable if impecunious (short of funds, having very little money, especially over a long period) family.
+
+- pe'cuniary (adj)
+pecus (cattle) [Latin]
+* He was trying to get a pecuniary (financial, relating to or consisting of money) advantange for himself.
+
+- 'chivalrous, 'chivalric (adj)
+cheval (horse) [French]
+* In medieval times, only gentlemen and knights rode on horses. Common people walked. Traditionally, knights were courteous to women, attentive to female desires, and elf-sacrificing when their own interests came in conflict with those of their fair sex. Hence, we call a modern man who has a knightly attitude to women chivalrous.
+* Only Richard Burton, her first lover, seems like the chivalrous (behaving in a polite, kind, generous, and honorable way, especially towards women) romantic ideal.
+
+- 'chivalry (un)
+1. behavior that is honorable, kind, generous, and brave, especially men's behavior towards women (noun form of chivalrous)
+2. a system of religious beliefs and honorable behavior that knights in the Middle Ages were expected to follow
+* He insulted us, the knights, before the candidates to be our future ruler, and he mocked the chivalry we practice.
+
+- caval'cade (n)
+* The great cavalcade was on the move (a parade, a line of people on horses or in cars or carriages moving along as part of a ceremony).
+
+- 'haughty (adj)
+* Jessica turned away with a haughty (behaving in a proud unfriendly way) look on her face.
+
+- off'hand (adj)
+* I didn't like his offhand (said or done without thinking or planning) manner.
+* The store manager was rather offhand with us at first.
+
+- cava'lier (adj, usually before noun)
+* As a noun, a cavalier was once as mounted soldier. As an adjective, cavalier describes actions and attitudes that are haughty, unmindful of others' feelings, too offhand, such attributes often being associated with people in power (the military being one of the powers-that-be).
+* He answered in a cavalier manner.
+* After the cavalier treatment I received, I never wished to return.
+* After her cavalier refusal, I'll never invite her to another party.
+
+- high-handed (adj)
+She resented his high-handed (using your authority in an unreasonable way) manner.
+
+- 'cavalry (plural, un)
+The Black Prince led a cavalry (mounted soldiers) charge against them.
+
+- in'nocuous (adj)
+noceo (to injure) [Latin]
+* He's a perfectly innocuous (harmless) young man.
+
+- 'innocent (adj)
+not guilty of crime or injury
+
+- 'noxious (adj)
+harmful, poisonous, unwholesome
+
+- 'tipple (v)
+* Which is why I do most of my tippling (drinking alcohol) at home, these days.
+
+- so'briety (un)
+* John had periods of sobriety, but always went back to drinking.
+
+- 'teetotaler (cn)
+someone who never drinks alcohol.
+
+- 'bibulous (adj)
+bibo (to drink) [Latin]
+* One who is generally found with one foot up on the brass rail, who likes to tipple beyond the point of sobriety, who, in short, has an overfondness for drinks with a pronounced alcoholic content, is called, usually humorously bibulous.
+* She evokes a broadcasting company that was different from that of today, full of stuffed shirts and bibulous (addicted to drink) eccentrics.
+
+- im'bibe (v)
+bibo (to drink) [Latin]
+* Inveterate drinkers have been imbibing for so long.
+* He likes to imbibe. (the implication is always liquor.)
+* In early infancy, she imbibed a respect for her parents.
+
+- 'bib (cn)
+bibo (to drink) [Latin]
+* The bib prevents what is drunk (or eaten) from spilling over, or dribbling down, on the wearer's clothing.
+
+- ca'daverous (adj)
+cado (to fall) [Latin]
+* One's final fall is of course always in death, an so someone who looks like a corpse (figuratively speaking), who is pale, gaunt, thin, haggard, eyes deep-sunk, limbs wasted, in other words the extreme opposite of the picture of glowing health, is called cadaverous.
+* He was also gaunt and cadaverous (gaunt, looking extremely thin, pale, and unhealthy), and as dark as the Semitic people of the Holy Land.
+
+- ca'daver (cn)
+
+- 'decadent (adj)
+de (down) + cado (to fall) [Latin]
+* If something is in a decadent state, it is deteriorating, becoming corrupt or demoralized.
+* Pop music was condemned as decadent and crude.
+* We spent the whole summer drinking, smoking and lying around. It must sound totally decadent.
+
+- 'decadence (n)
+* Our age is not an age of decadence (moral or spiritual decay, behavior that shows that someone has low moral standards and is more concerned with pleasure than serious matters).
+
+- 'dolorous (adj)
+doleo (to suffer or grieve) [Latin]
+* One who is mournful and sad, whose melancholy comes from physical pain or mental distress, who seems to be suffering or grieving, is called dolorous.
+* A gently dolorous (feeling or expressing great sorrow or distress) Bulgarian folk-tune unfolds as a duet.
+
+- 'dolor (un)
+doleo (to suffer or grieve) [Latin]
+sorrow
+
+- 'doleful (adj)
+doleo (to suffer or grieve) [Latin]
+* Yet the reading appeared to bring Emilia a kind of doleful (very sad) peace.
+
+- con'dole (vi + with)
+con (together) + doleo (to suffer or grieve) [Latin]
+* The priest came to condole (commiserate) with Madeleine.
+
+- con'dolence (plural, un)
+* Let me offer you my condolences.
