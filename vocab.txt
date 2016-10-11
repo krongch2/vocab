@@ -24,8 +24,6 @@ A: It means he never lets his emotions cloud his judgement. He never panics.
 
 A: Pick up the pace, slackers.
 
-Sasuke: Why me? Why are you so fixated on me?
-
 Orochimaru: The best medicines are always bitter.
 
 Dan Kato: I was thinking... it's getting late. Would you like me to see you home?
@@ -38,7 +36,9 @@ Jiraya: It's a lovely night. You wanna quench your thirst?
 
 Jiraya: Could it be that the loss of those two has clouded her judgement?
 
-Orochimaru: A child mastering a Jutsu like that. It's unheard of.
+- 'unheard of (adj)
+* Orochimaru: A child mastering a Jutsu like that. It's unheard of (so unusual that it has not happened or been known before).
+* Travel for pleasure was almost unheard of until the 19th century.
 
 Orochimaru: Well, if you're really willing to throw your life away for the sake of one insignificant brat, I'm happy to accommodate you!
 
@@ -107,8 +107,8 @@ I don't think even the Final Fight Streetwise statements get that gratuitous, th
 - ety'mology (un)
 When you do the review of etymology exercises, make sure to fill in the English word containing the prefix, root, or suffix required.
 
-- respell (vt)
-Every word taught is respelled (to spell the word again differently especially phonetically in order to indicate its pronunciation) to show its pronunciation, so pay close attention to how the phonetic symbols work.
+- re'spell (vt)
+* Every word taught is respelled (to spell the word again differently especially phonetically in order to indicate its pronunciation) to show its pronunciation, so pay close attention to how the phonetic symbols work.
 
 - 'rank (adj)
 - 'bumbling (adj)
@@ -404,8 +404,8 @@ My dictionary defines a pedagogue (a teacher, especially a strict or pedantic on
 - 'oratory (un)
 A demagogue today is actually one who attempts, in essence, to mislead the people, a politician who foments (cause trouble, sitr up) among the masses, rousing them to fever pitch (a state of extreme excitement) by wild oratory (the art of public speaking).
 
-- dema'goguery, demagogy (un)
-The opening and closing arguments of a trial, in which lawyers speak directly to jurors, are particularly susceptible to demagoguery.
+- dema'goguery, 'demagogy (un)
+* The opening and closing arguments of a trial, in which lawyers speak directly to jurors, are particularly susceptible to demagoguery.
 
 - dema'gogic (adj)
 If they do vote, it is only for the most demagogic of reasons.
@@ -690,7 +690,8 @@ As with many other puzzles, the caprices (tendency to change) of politics have r
 Correctness varies with the times and depends much more on geography, on social class, and on collective human caprice than on the restrictions found in textbooks.
 
 - sus'ceptible (adj)
-In grammar, however, since the facts are highly susceptible (not immune) to change, we have to keep an eye peeled for trends.
+* In grammar, however, since the facts are highly susceptible (not immune) to change, we have to keep an eye peeled for trends.
+* Early studies often concluded that the public was susceptible to the propagandistic influence of mass communications, but one recent study indicates that, on the contrary, mass communications seldom produce marked changes in social attitudes or actions.
 
 - calis'thenics
 What is a safe substitude? Apparently none exists, so I suggest that you manage, by some linguistic calisthenics (gymnastic exercises to achieve bodily fitness and grace of movement), to avoid having to make a choice.
@@ -1483,8 +1484,8 @@ Sally is a militant in the Women's Liberation movement.
 There are signs of growing militancy (the use of confrontational or violent methods in support of a political or social cause) among workers.
 
 - 'closet (adj)
-Harry? He's a closet alcoholic. (he doesn't want to admit he's an alcoholic)
-He fianlly came out in 1998, after years as a closet homosexual.
+* Harry? He's a closet alcoholic. (he doesn't want to admit he's an alcoholic)
+* He finally came out in 1998, after years as a closet homosexual.
 
 - em'bezzle (v)
 Bill? He's embezzling from his own company.
@@ -1714,7 +1715,7 @@ Here is described the expression on the face of the equestrian (relating to hors
 - e'questrian (cn)
 Be prepared to meet fellow equestrians (someone riding a horse) on these popular trails.
 
-- equestri'enne
+- equestri'enne (cn)
 Fanny was, by all accounts, a fine equestrienne (a woman riding a horse) smartly turned out as she sought every opportunity to ride.
 
 - 'equine (adj)
@@ -1881,20 +1882,20 @@ artificial flowers
 volo (wish, will, willing)
 
 - vo'lition (cn)
-Helena left the company of her own volition (free will).
+* Helena left the company of her own volition (free will).
 
-- confection (cn)
+- con'fection (cn)
 com (together) + facio, factus (do, make)
 1. An elaborate sweet dish
-But then again, such creations as eel ice cream are a revelation to the world of seafood and confections.
+* But then again, such creations as eel ice cream are a revelation to the world of seafood and confections.
 2. The action of mixing or compounding something
-They tend also to entail independent research and the confection of term papers of varying lengths.
+* They tend also to entail independent research and the confection of term papers of varying lengths.
 
-- confetioner (cn)
-Commercial chocolates also add more sugar than do local confectioners (a person whose trade is making or selling confectionery).
+- con'fetioner (cn)
+* Commercial chocolates also add more sugar than do local confectioners (someone who makes or sells sweets, cakes, etc.).
 
-- puckish (adj)
-Consider also this puckish (playful) remark by the late Clarance Darrow: "Even if you do learn how to speak correct English, who are you going to speak it to?"
+- 'puckish (adj)
+* Consider also this puckish (playful) remark by the late Clarance Darrow: "Even if you do learn how to speak correct English, who are you going to speak it to?"
 
 - healthful (adj)
 Californians boast of the healthy (likely to make you healthy, healthful is formal grammar but obsolete) climate of their state.
@@ -1913,12 +1914,12 @@ The tally (a record) of this use of as showed seventy-four for, only eight again
 - 'affable (adj)
 I wonder how it would be if you just grunted affably (friendly).
 
-- abortive (adj)
-This use of whom [Whom would you like to be if you weren't yourself?] probably comes from an abortive attempt to sound elegant.
+- a'bortive (adj)
+This use of whom [Whom would you like to be if you weren't yourself?] probably comes from an abortive (failed) attempt to sound elegant.
 
 **CHAPTER 10**
 
-- aptly (adv)
+- 'aptly (adv)
 In this chapter we start by examining ten types, discovering the adjective that aptly (suitably, appropriately) describes each one.
 
 - noncom'mittal (adj)
@@ -1930,12 +1931,15 @@ taceo (to be silent)
 "saying little"
 speaking very little, so that you seem unfriendly.
 
+- 'banquet (cn)
+* A huge banquet (a formal dinner, a large impressive meal) was planned to celebrate the city's millennium.
+
 - 'mischievous (adj)
-A young newspaperwoman was sitting next to him [Calvin Coolidge] at a banquet, so the story goes, and turned to him mischievously (likes to have fun, causing trouble).
+* A young newspaperwoman was sitting next to him [Calvin Coolidge] at a banquet, so the story goes, and turned to him mischievously (likes to have fun, causing trouble).
 
 - la'conic (adj)
 Laconia (Sparta)
-His laconic (saying little, meaning much) reply suggested a lack of interest in the topic.
+* His laconic (saying little, meaning much) reply suggested a lack of interest in the topic.
 
 - 'laconism (un)
 The principal hallmarks of Echenoz's style are his laconism, his dry wit, and the precision with which he chooses words and images.
@@ -2473,12 +2477,13 @@ The miasma of defeat hung over them.
 Even now, there are only embers, and man sees not light, but only endless nights. And amongst the living are seen, carriers of the accursed Darksign.
 He must also save the last surviving member of an accursed royal family.
 
-- corral (adj)
-And in this land, the Undead are corralled (controlled) and led to the north, where they are locked away, to await the end of the world.
+- cor'ral (adj)
+* And in this land, the Undead are corralled (controlled) and led to the north, where they are locked away, to await the end of the world.
+* Once at the airport, we were herded to the gate and corraled into a small room.
 
 - uni'nitiated (adj)
-With such dangers, the crest can do more harm than good in the hands of the uninitiated (noobs).
-To the uninitiated, this will make little sense.
+* With such dangers, the crest can do more harm than good in the hands of the uninitiated (noobs).
+* To the uninitiated, this will make little sense.
 
 - e'xasperating (adj)
 Marsha has this exasperating (annoying) way of talking to me like a child.
@@ -2599,64 +2604,89 @@ Asuma: I mean, for starters, Naruto doesn't really think before he acts, and Sor
 Sora: Don't lump me in with him!
 
 - 'shabby (adj)
-in bad condition (cloth)
+* Hugh's jacket was old and shabby (in bad condition).
 
 - not too shabby (adj)
-Asuma: Huh, this much power without using Chakra Blades. Not too shabby (not bad).
+* Asuma: Huh, this much power without using Chakra Blades. Not too shabby (not bad).
 
 - 'raunchy (adj)
-Yo that whiff punish on the focus at 55s was absolutely raunchy (sexy).
+Yo that whiff punish on the focus at 0:55 [in the video] was absolutely raunchy (sexy).
 
-- feign (vt)
-Now I roam these parts feigning ablution (forgiveness) and pretending to seek answers.
-Feigning a headache, I went upstairs to my room.
+- 'feign (vt)
+* Feigning (to pretend to have a particular feeling or to be ill, asleep, etc.) a headache, I went upstairs to my room.
+* Now I roam these parts feigning ablution and pretending to seek answers.
 
 - im'part (vt)
-We can tell him no and not impart that information.
-Speak with me there [Firelink Shrine], so that I may impart my sorcery.
+* We can tell him "no" and not impart that information.
+* Speak with me there [Firelink Shrine], so that I may impart my sorcery.
+* Teachers accordingly made students' needs, not textual and historical accuracy, their supreme interest, chopping dangerous texts into short phrases, and using these to impart lessons extemporaneously on a variety of subjects, from syntax to science.
+
+- extempo'raneous (adj)
+* She also has a distaste for policy debates, interviews, extemporaneous (impromptu) speeches and many other traditional obligations of a national leader.
 
 - e'lucidate (v)
-Frampt: I wish to elucidate (clarify) your fate.
-The full picture has not yet been elucidated.
+* Frampt: I wish to elucidate (clarify) your fate.
+* The full picture has not yet been elucidated.
 
 - unparalleled (adj)
 - ma'chete (cn)
-This unparalleled (bigger, better) weapon cuts like a Katana but is heavier than a Nata machete.
+* This unparalleled (bigger, better, or worse than anything else) weapon cuts like a Katana but is heavier than a Nata machete.
+* She had a beautiful figure which she used in subtle movements of unparalleled grace.
 
-- undulating
-This greatsword with an undulating blade is the choice weapon of the slithering serpent men of Sen's Fortress.
+- 'undulating (adj)
+* This greatsword with an undulating (curvy) blade is the choice weapon of the slithering serpent men of Sen's Fortress.
 
-- flay (vt)
-This weapon is designed to flay the skin and causes heavy bleeding.
+- 'flay (vt)
+1. to criticize someone very severely
+* Congressmen have flayed the President for neglecting domestic issues.
+* Words that flayed and scorched coming from her lips.
+2. to whip or beat someone very severely
+* He dragged on the reins and drew the buggy around, flaying the horse with his whip.
+3. to remove the skin from an animal or person
+* This weapon is designed to flay the skin and causes heavy bleeding.
+* None is decayed, but each has been carefully flayed.
 
 - be in a pickle
-I'm afraid I'm a bit too plump to be outrunning those things. So, here I sit, in quite a pickle (to be in a difficult situation).
+* I'm afraid I'm a bit too plump to be outrunning those things. So, here I sit, in quite a pickle (to be in a difficult situation).
 
-- impunity (n)
-This blessed talisman blocks Undead recovery, allowing the knights to fight with impunity (with no punishment).
+- im'punity (n) [do something with impunity]
+* This blessed talisman blocks Undead recovery, allowing the knights to fight with impunity (with no risk of being punished).
+* It's astonishing that these criminals are free to walk the streets with impunity.
 
-- lucid (adj)
-Mm, you seem quite lucid (sane). A rare thing in these times.
+- 'lucid (adj)
+1. expressed in a clear and easy-to-understand way
+* You must write in a clear and lucid style.
+2. sane
+* Mm, you seem quite lucid. A rare thing in these times.
+* In her more lucid moments, the old lady would talk about her past.
 
-- fried (adj)
-Coco Bandicoot: Crash, Crash, my battery is fried (exhausted), make yourself useful big brother and bring an extra battery for me.
+- 'fried (adj)
+* Coco Bandicoot: Crash, Crash, my battery is fried (exhausted), make yourself useful big brother and bring an extra battery for me.
 
-- invigorating (adj)
-You really are very diligent. I quite understand. Study is invigorating (making you feel healthy).
+- in'vigorating (adj)
+* You really are very diligent. I quite understand. Study is invigorating (making you feel healthy).
+* And what makes it such an invigorating saga is his ability to let his idiosyncratic Broadway denizens talk for themselves.
 
 **CHAPTER 11**
 
 - blow off steam (v)
-You know how good you feel once you blow off steam?
+* You know how good you feel once you blow off steam (to get rid of anger or energy by doing something)?
+* I went jogging to blow off some steam.
 
-- seethe (vi)
-And how much close you can become attached to someone once you directly and honestly vent your anger, resentment, or irritation instead of bottling it up and seething (feeling the emotion so strongly that you shake) in fury?
+- 'cellar (cn)
+* Finally, he had to hide her in a cellar (basement).
+
+- 'seethe (vi)
+1. to feel an emotion, especially anger, so strongly that you are almost shaking.
+* And how much close you can become attached to someone once you directly and honestly vent your anger, resentment, or irritation instead of bottling it up and seething in fury?
+2. if a place if seething with people, insects, etc., there are a lot of them all moving quickly in different directions.
+* The cellar was seething with spiders.
 
 - marti'net (cn)
-The woman in charge was a martinet who treated us like children.
+* The woman in charge was a martinet who treated us like children.
 
 - marti'netish (adj)
-He was an odd character in the episode, very martinetish as I recall.
+* He was an odd character in the episode, very martinetish as I recall.
 
 - marti'netism (un)
 Lyon jumped over formulas, over routine, over clumsy discipline and martinetism (the principles or practices of a martinet, rigid adherence to discipline), and saved St. Louis and Missouri.
@@ -2665,25 +2695,25 @@ The general was a genuine cavalryman and was too wise in his day and generation 
 - fig (cn)
 a soft sweet fruit with a lot of small seeds
 
-- beacon (cn)
-If not for me, what beacon would there be in this lost city?
+- 'beacon (cn)
+* If not for me, what beacon would there be in this lost city?
 
 - be'stow (vt)
-Special magic crown bestowed (to give someone something of great value) upon Dusk, Princess of Oolacile, upon her birth.
-There may be some musical magic which only practice can bestow.
+* Special magic crown bestowed (to give someone something of great value) upon Dusk, Princess of Oolacile, upon her birth.
+* There may be some musical magic which only practice can bestow.
 
 - 'vanity (un)
-Sabrina had none of the vanity (too much pride in yourself) so often associated with beautiful women.
+* Sabrina had none of the vanity (too much pride in yourself) so often associated with beautiful women.
 
 - 'toady (vi)
-You toady to rich or influential people, catering to their vanity, flattering their ego.
+* You toady to rich or influential people, catering to their vanity, flattering their ego.
 
 - ward heeler (cn)
-You are the personification of the traditional ward heeler.
+* You are the personification of the traditional ward heeler.
 
 - yes-man (cn)
-You out-yes the Hollywood yes-men (someone who always agrees with and obeys their employer, leader, etc. in order to gain some advantage).
-It's no good applying for a job with him unless you're happy being a yes-man.
+* You out-yes the Hollywood yes-men (someone who always agrees with and obeys their employer, leader, etc. in order to gain some advantage).
+* It's no good applying for a job with him unless you're happy being a yes-man.
 
 - 'hypocrite (cn)
 The story tells of respectable Ben who turns out to be a cheat and a hypocrite
@@ -2722,7 +2752,7 @@ Most war movies come off as voyeuristic or dilettantish (superficial, unprofessi
 - dile'ttantism (un)
 The logic employed in the piece is precisely the sort of weekend-warrior dilettantism you'd expect.
 
-- tyro (cn)
+- 'tyro (cn)
 I would, and do, recommend this as the best book (Browning: A Private Life) for the tyro (a beginner), the student, the general reader, and even, in a revisionary context, for the expert.
 
 - li'bretto (cn)
@@ -3027,6 +3057,7 @@ He famously failed to defend the infanticidal Minnie Dean, the first and last wo
 genos (race, kind) + cide (to kill)
 
 - geno'cidal (adj)
+* Gootecks: Rolento is a genocidal maniac.
 
 - 'parricide (un)
 Lizzie Borden was not convicted of parricide.
@@ -3477,13 +3508,13 @@ lassus (tired) [Latin]
 The candidates have been trying to lift voters out of their lassitude (tiredness, lack of energy and interest).
 
 - bon vi'vant (cn)
-He created a skirt-chasing bon vivant persona for himself.
+* He created a skirt-chasing bon vivant (someone who enjoys good food and wine, and being with people) persona for himself.
 
 - gour'met (adj)
-Now gourmets can treat their palates to real Turkish food.
+* Now gourmets can treat their palates to real Turkish food.
 
 - connois'seur (cn)
-Lord Burlington was a great collector and connoisseur of paintings.
+* Lord Burlington was a great collector and connoisseur of paintings.
 
 - 'gourmand (cn)
 In addition, the festival brings tourists and gourmands (like gourmet, but less of a compliment) to the island.
@@ -3561,8 +3592,8 @@ In 1868, R. J. Lechmere Guppy, president of the Scientific Association of Trinid
 Not surprisingly, male guppies are never yellow.
 
 - 'nicotine (un)
-Four hundred years ago, Jean Nicot, a French ambassador, bought some tobacco seeds from a Flemish trader. Nicot's successful efforts to popularize the plant in Europe brought him linguistic immortality.
-The room is fill of smoke. Nicotine has become the ambient atmosphere.
+* Four hundred years ago, Jean Nicot, a French ambassador, bought some tobacco seeds from a Flemish trader. Nicot's successful efforts to popularize the plant in Europe brought him linguistic immortality.
+* The room is fill of smoke. Nicotine has become the ambient atmosphere.
 
 **PLACES THAT MADE OUR LANGUAGE**
 
@@ -3826,6 +3857,7 @@ platys (broad, flat) = a flat statement
 * His excuse was the platitude (trite remark) "boys will be boys."
 
 - plati'tudinous (adj)
+platys (broad, flat)
 * What a platitudinous (flat, trite) remark.
 
 - be a far cry from something
@@ -3835,14 +3867,18 @@ platys (broad, flat) = a flat statement
 * He promised to tackle the workaday (ordinary, not interesting) matters affecting people's daily lives.
 
 - pla'teau (flat land)
+platys (broad, flat)
 * The plateau was a far cry from the workaday cottages by the harbour.
 
 - plate (n)
+platys (broad, flat)
 
 - 'platter (cn)
+platys (broad, flat)
 * Use one half to extend the other log and place on a serving platter.
 
-- 'platypus (flat foot)
+- 'platypus (cn)
+platys (broad, flat)
 * The platypus, along with its cousins, the echidnas, is an egg-laying mammal yet suckles its young on milk!
 
 - a'llay (vt)
@@ -4035,6 +4071,19 @@ clam (secretly) [Lain]
 
 - 'eminent (adj)
 * A politician, however eminent (famous, important, respected) or popular, who lacks that base will not reach or survive at the top.
+
+- 'vain (adj)
+* Vain and prone to violence, Caravaggio could not handle success.
+
+- 'eminence (un)
+* The more his eminence as an artist increased, the more tumultuous his life became.
+
+- tu'multuous (adj)
+1. full of activity, confusion, or violence
+* Backstage was satisfyingly mysterious and full of a tumultuous, different kind of life.
+* The prisoners were brought in by train to tumultuous shouts of revenge.
+2. loud because people are happy and excited
+* He received a tumultuous welcome.
 
 - 'personage (cn)
 * In the light, Smith saw two personages (a famous or important person), dazzling him with their brightness as they stood in the air.
@@ -4669,3 +4718,234 @@ in (not) + doleo (to suffer or grieve) [Latin] = not suffering (idle, lazy)
 - ab'struse (adj)
 * Maths is a mix of abstruse (unnecessarily complicated and difficult to understand) theory and detailed calculations.
 * In every fiend, from the simplest to the most abstruse, there are several books written for the average, untrained lay reader that will give you both a good grasp of the subject and at the same time add immeasurably to your vocabulary.
+
+################################## THE END ##################################
+
+- 'prose (un)
+* Brown's prose (written language in its usual form, as opposed to poetry) is simple and direct.
+* There is not a great deal of readable prose in the field.
+* Thus, I believe that a modern reader cannot know the associations that a line of ancient Roman poetry or prose had for any particular educated sixteenth-century reader.
+
+- peri'odical (cn)
+* In addition, lessons of wider interest will be published in the appropriate management periodicals.
+
+- 'ethos (singular)
+* In the late '60s, thousands of people lived according to an ethos (the set of ideas and moral attitudes that are typical of a particular group) of sharing and caring.
+* Reviving the practice of using elements of popular music in classical composition, an approach that had been in hibernation in the United States during the 1960s, composer Philip Glass (born 1937) embraced the ethos of popular music in his compositions.
+
+- be steeped in history/tradition/politics/etc. (vt)
+* Craving a meal steeped in tradition (to have a lot of a particular quality)?
+* In fact, this was 1956. I was steeped in developing short story writing and interests that went with that.
+* His music is not a version of popular music packaged to attract classical listeners; it is high art for listeners steeped in rock rather than the classics.
+
+- imper'ceptible (adj)
+* Such changes are imperceptible (almost impossible to see or notice) to even the best-trained eye.
+* The daylight faded almost imperceptibly into night.
+* In parts of the Arctic, the land grades into the landfast ice so imperceptibly that you can walk off the coast and not know you are over the hidden sea.
+
+- 'grade (vi)
+* The sky graded (to pass gradually from one level, especially a shade of color into another) from blue at the top of the shot to white on the horizon.
+
+- fi'xated (adj)
+* Sasuke: Why me? Why are you so fixated on (always thinking or talking about one particular thing) me?
+* If you find some word that is similar to what you are expecting but cannot find a second one, do not become fixated on your interpretation.
+
+- e'xacerbate (vt)
+* The recession has exacerbated this problem.
+* I don't want to exacerbate the situation.
+* It was her view that the country's problems had been exacerbated (worsened), so that to ask for such assistance again would be counterproductive.
+
+- 'ragwort (un)
+* One story is told of a man who saw a leprechaun bury a purse of gold in a field of ragwort.
+* Ragwort was accidentally introduced to New Zealand in the late nineteenth century and, like so many invading foreign species, quickly became a pest.
+
+- 'rampant (adj)
+* Pickpocketing is rampant (speading quickly and difficult to control) in the downtown area.
+* It wasn't military action but rampant disease that finally caused the population to surrender.
+* By the 1920s, the weed was rampant.
+
+- prolife'ration (un)
+* Shortening product life cycles and rapid product proliferation mean that investment in innovation is critical in global competition.
+
+- coin'cide (vi)
+1. to happen at the same time by chance
+* His entry to the party coincided with his marriage.
+* When our vacations coincided, we often holidayed together.
+2. if two people's ideas, opinions, etc. coincide, they are the same
+* The interests of the US and those of the islanders may not coincide.
+
+- 'sweeping (adj)
+1. affecting many things, or making an important difference to something
+* They want to make sweeping changes to education policies.
+2. including a lot of information about something. [only before noun]
+* It was Gerald Kaufman, shadow foreign secretary, who did that for him, in a speech of vast sweeping grasp.
+
+- a battery of something
+* Ragwort contains a battery (a group of many things of the same type) of toxic and resilient alkaloids. Even honey made from its flowers contains the poison in dilute form.
+* Out of ninety-nine people screened for the study, sixteen were diagnosed as caffeine dependent after undergoing a battery of evaluations.
+
+- 'graze (vi)
+* Groups of cattle were grazing on the rich grass.
+
+- 'pasture (n)
+* As Balfour talked, the men casually watched the infested pasture.
+
+- 'livestock (plural, un)
+* Livestock (cattle) generally avoid grazing where ragwort is growing, but they will do so once it displaces grass and clover in their pasture.
+
+- sup'plant (vt)
+* Barker was soon supplanted (to take the place of a person or thing) as party leader.
+* Ragwort can supplant the plants normally eaten by cattle.
+
+- 'stringent (adj)
+* There are now stringent (strict) controls on pollution from all power stations.
+* Despite the fact that the health-inspection procedures for catering establishments are more stringent than those for ordinary restaurants, more of the cases of food poisoning reported to the city health department were brought on by banquets served by catering services than were brought on by restaurant meals.
+
+- bring down on/upon somebody (phrasal verb)
+* His recklessness brought down (to make something bad happen to someone, especially to yourself or to people connected with you) disaster on the whole family.
+
+- premise (n)
+1. premises (plural), the buildings and land that a shop, restaurant, company, etc. use
+* Schools may earn extra money by renting out their premises.
+* The number of reported food-poisoning cases at catered banquets is unrelated to whether the meal is served on the caterer's or the client's premises.
+2. a statement or idea that you accept as true or use as a base for developing other ideas
+* The idea that there is life on other planets is the central premise of the novel.
+
+- 'speculative (adj)
+1. based on guessing, not on information or facts
+* Descriptions of how this ancient tribe lived are speculative at best.
+* In a plausible but speculative scenario, oceanographer Douglas Martinson suggests that temperature increases caused by global warming would not significantly affect the stability of the Antarctic environment, where sea ice forms on the periphery of the continent in the autumn and winter and mostly disappears in the summer.
+2. bought or done in hope of making a profit later
+* speculative investments
+
+- anti'thetical (adj)
+* This violence is completely antithetical (exactly opposite to something) to the teaching of the church.
+* Combofiend hates option selects. He cannot stand option selects. To them, they're almost antithetical to fighting games.
+
+- 'syncopated (adj)
+* And there you see right there that was that syncopated little low strong not as a meaty when he gets up but waits until he gets up and then low strong just in case they do reversal uppercut.
+
+- meteo'rology (un)
+* Perhaps, the most important impact of the Coriolis effect is in the large-scale dynamics of the oceans and the atmosphere. In meteorology and oceanography, it is convenient to postulate a rotating frame of reference wherein the Earth is stationary.
+
+- meteo'rologist (un)
+* The storms have baffled meteorologists in the United States.
+
+- meteoro'logical (adj)
+
+- delibe'ration (n)
+careful consideration or discussion of something.
+* After much deliberation, first prize was awarded to Derek Murray.
+* The council concluded its deliberations on Monday.
+
+- con'temporary (cn)
+* Oswald was much admired by his contemporaries at the Academy.
+* While the best sixteenth-century Renaissance scholars mastered the classics of ancient Roman literature in the original Latin and understood them in their original historical context, most of the scholars' educated contemporaries knew the classics only from school lessons selected Latin texts.
+
+- 'pagan (adj)
+* Within a generation or two, aristocratic Christians were pursuing the same interests as their pagan ancestors.
+* These were chosen by Renaissance teachers after much deliberation, for works written by and for the sophisticated adults of pagan Rome were not always considered suitable for the Renaissance young.
+
+- ve'stigial (adj)
+1. a vestigial part of the body has never developed completely or has almost disappeared.
+* The legs of snakes are vestigial or absent altogether.
+* In humans, the pilomotor reflex leads to the response commonly known as goose bumpbs, and this response is widely considered to be vestigial.
+2. remaining as a sign that something existed after most of it has gone
+* They were no longer men, just the vestigial remains of what had once been human beings.
+
+- fo'llicle (cn)
+* They are the openings to the hair follicles (one of the small holes in the skin that hairs grow from).
+* It occurs when the tiny muscle at the base of a hair follicle contracts, pulling the hair upright.
+
+- 'puny (adj)
+* But human hair is too puny (small) to serve these functions.
+
+- a'bolish (vt)
+* Slavery was abolished in the US in the 19th century.
+
+- roman'ticism (un)
+* When I was an undergraduate student studying sociology, we were all warned of the dangers of romanticism.
+
+- indi'vidualism (un)
+* Capitalism encourages competition and individualism.
+
+- 'humanism (un)
+* This context is essential to the understanding of humanism (the belief that human problems can be solved through science rather than religion), one of the fundametal aspects of Western thought.
+
+- ammu'nition (un)
+* His mistakes provided political opponents with even more ammunition.
+
+- 'pluralism (un)
+* On the Internet, modernityand pluralism (when people of many different races, religions, and political beliefs live together in the same society) go hand in hand.
+
+- egali'tarian (adj)
+* Clearly, the egalitarian (based on the belief that everyone is equal and should have equal rights) society remains a dream.
+
+- egali'tarianism (un)
+
+- e'spouse (vt)
+* He espoused (to support an idea, belief, etc., especially a political one) a variety of scientific, social, and political causes.
+
+- e'spousal (singular, un)
+* While Martin stresses Douglass' antiracist egalitarianism, he does not adequately eplain how this espect of Douglass' thought fits in with his espousal (support) of the liberal Victorian attitudes that many present-day intellectuals consider to be naive and outdated.
+
+- Vic'torian (adj)
+morally strict in a way that was typical in the time of Queen Victoria
+* It may be a Victorian attitude, but we live off income, not capital.
+
+- rhe'torical (adj)
+* She delivered her speech with her usual rhetorical (using speech or writing in special ways in order to persuade people or to produce an impressive effect) fire.
+* At one level, this statement is clearly metaphorical and rhetorical.
+* His favorite rhetorical strategy was to expose the hypocrisy of those who, while professing adherence to the ideals of democracy and equality of opportunity, condoned slavery and racial discrimination.
+
+- hy'pocrisy (un)
+when someone pretends to have certain beliefs or opinions that they do not really have
+* It would be sheer hypocrisy to pray for success, since I've never believed in God.
+
+- e'mancipate (vt)
+* Slaves were emancipated in 1834.
+
+- re'buttal (n)
+* His firm rebuttal of the accusations.
+* These points may seem obvious, but had Martin given them more attention, his analysis might have constituted a more convincing rebuttal to those critics who dismiss Douglass' ideology as a relic of the past.
+
+- 'pollinate (vt)
+* Bees help pollinate more than 100 crop plants in the United States.
+* It had long been thought that hummingbirds, which forage by day, pollinate its red flowers and that hawkmoths, which forage at night, pollinate its white flowers.
+
+- 'forage (vi)
+* People are being forced to forage for food and fuel.
+
+- 'court (vt)
+* His campaign team have assiduously courted the media.
+* This composer has never court popularity: her rugged modernism seems to defy rather than to woo the audience.
+
+- 'rugged (adj)
+* rugged individualism
+* There you will meet a tall, rugged stranger taking his car engine to bits with no hope of reassembling it.
+
+- 'woo (vt)
+* Colleges have been aggressively wooing the top African-American and Hispanic students.
+
+- 'commonplace (adj)
+* The sight of a single actor portraying several characters in the same scene is no longer a shock to the average moviegoer, such special-effects trickery having become so commonplace.
+
+- irksome (adj)
+* The figure-skating pair's convincing victory last week was particularly irksome (annoying) to their rivals, who were in peak form and complained privately about the judging. That the pair won when their rivals were terrific too is also impressive.
+
+- 'pivotal (adj)
+* The Bank of English has a pivotal (key) role in the London money market.
+* The talks are pivotal to the success of the country.
+
+- playwright (cn)
+* Campbell had been a fairly well-known playwright at one time.
+
+- predi'lection (cn)
+* Those who knew of his predilections often wondered why he had not become a botanist, an entomologist, a biologist.
+
+- 'morbid (adj)
+1. unusual, unhealthy, unpleasant
+* The trip was made all the worse by Frankie's morbid fear of flying.
+2. relating to or caused by a disease
+* In his initial works, the playwright made physical disease a pivotal factor in the action; from this, his early critics inferred that he had a predilection for focusing on morbid subject matter.
+
