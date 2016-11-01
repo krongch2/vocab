@@ -6,16 +6,16 @@ with open('vocab.txt', 'r', encoding='utf-8') as f:
 
 n = len(chunks)
 print(n)
-
+last_nwords = 20
+deck = chunks[-last_nwords:]
 while True:
     print('\n')
-    random_idx = random.randint(0, n - 1)
-    chunk = chunks[random_idx]
-    for line in chunk.split('\n'):
+    card = random.choice(deck)
+    for line in card.split('\n'):
         if line.startswith('-'):
-            print(line)
+            print(line, end='')
     input()
-    for line in chunk.split('\n'):
+    for line in card.split('\n'):
         if not line.startswith('-'):
             print(line)
     input()

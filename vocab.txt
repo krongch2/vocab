@@ -75,8 +75,12 @@ Kakachi: I guess it's time to finally pass the torch. He's surpassed me.
 
 Naruto to Yamato: Ok. don't stop now. Let's keep working on it while it's fresh in my mind.
 
-- 'venture
-Rinji to Kabuto: I even venture to say that I have more power than you.
+- 'venture (v)
+* Rinji to Kabuto: I even venture to say that I have more power than you.
+
+- 'venture (cn)
+a new business activity that involves taking risks.
+* Ford has invested $125 million in a joint venture to build engines in China.
 
 - 'utterly (adv)
 - de'plorable (adj)
@@ -185,9 +189,10 @@ You [an introvert] have an aptitude in creative work and are uncomfortable engag
 
 - in'hibit (vt)
 1. to prevent something from growing or developing well
-An unhappy family life may inhibit children's learning.
+* An unhappy family life may inhibit children's learning.
+* Clouds tend to keep the days cooler by reflecting sunlight, and the nights warmer by inhibiting loss of heat from Earth's surface.
 2. to make someone feel embarassed or nervous so that they cannot do or say what they want
-Recording the meeting may inhibit people from expressing their real views.
+* Recording the meeting may inhibit people from expressing their real views.
 
 - unin'hibited (adj)
 Her acting is completely spontaneous and uninhibited (confident or relaxed enough to do or say what you want to).
@@ -508,7 +513,7 @@ As in the case of the charitable-looking dowager (a woman from a high social cla
 Most people spend part of every workday at some gainful employment, honest or otherwise, and in so doing often contribute their little mite (small amount) to the progress of the world.
 
 - well-ad'justed (adj)
-For the first five months of his life, Christopher was happy, well-adjusted, and a trifle fat.
+For the first five months of his life, Christopher was happy, well-adjusted, and a trifle (slightly) fat.
 
 - 'inmate (cn)
 More than half the inmates were there from some sort of violent crime.
@@ -974,7 +979,7 @@ Being an inveterate (deeply-habituated) gambler, the fourth son was only too gla
 The three have a lot in common with each other in their inveterate hatred of that ethnic group.
 
 - in'veteracy (un)
-The inveteracy (firmness produced by long use or continuance, the state of being inveterate) of her pursuit is unfathomable for she is completely deprived of pity and compassion.
+* The inveteracy (firmness produced by long use or continuance, the state of being inveterate) of her pursuit is unfathomable, for she is completely deprived of pity and compassion.
 
 - 'veteran (cn, adj)
 A veteran at swimming, tennis, police work, diplomacy
@@ -1126,8 +1131,6 @@ An antipathetic reaction to an authority figure.
 - empa'thetic, em'pathic (adj)
 Stronger than sympathy
 Empathy = understand. Sympathy = feel sorry.
-
-- pa'thetic (adj)
 
 - te'lepathy (un)
 - tele'pathic (adj)
@@ -1594,7 +1597,8 @@ com (together) + dono (give, as in donor, donate, donation)
 Orton's plays transgress (to do something that is against the rule sof social behavior or against a moral principle) accepted social norms.
 
 - trans'gression (n)
-If your answers are in the affirmative, how are you reacting to such legal or ethical transgressions? You condone them (to accept or forgive morally wrong behavior).
+* If your answers are in the affirmative, how are you reacting to such legal or ethical transgressions? You condone them (to accept or forgive morally wrong behavior).
+* At their best, adverse book reviews are written in defense of value and in the tacit hope that the author, having had his or her transgressions pointed out, might secretly agree that the book could be improved.
 
 - s'crupulous (adj)
 You may condone cheating on one's income tax, shoplifting from a big impersonal supermarket, or exceeding the speed limit, though you personally observe the law with scrupulousness (careful, honest, and fair).
@@ -2114,9 +2118,14 @@ Storni addresses this woman, upon whom the burden of stoicism (uncomplaining att
 - 'stoic (cn)
 He accepted our fate like a stoic (one who controls his emotions) and refused to make a fuss.
 
-- pithy (adj)
-- curt (adj), curtness (un)
-It is from the name Laconia that we derive our word laconic: pithy (concisely and intelligently stated), concise, economical in the use of words almost to the point of curtness (using very few words in a way that seem rude); precisely the opposite of verbose.
+- 'pithy (adj)
+* Press releases must be short and pithy (concisely and intelligently stated).
+
+- 'curt (adj)
+* With a curt nod, he turned away and sat down (using very few words in a way that seem rude).
+
+- 'curtness (un)
+* It is from the name Laconia that we derive our word laconic: pithy, concise, economical in the use of words almost to the point of curtness; precisely the opposite of verbose.
 
 - lush (cn)
 Or like the woman who was watching a lush (an alcoholic) imbibing dry martinis at a Third Avenue bar in New York City.
@@ -2613,7 +2622,8 @@ Sora: Don't lump me in with him!
 Yo that whiff punish on the focus at 0:55 [in the video] was absolutely raunchy (sexy).
 
 - 'feign (vt)
-* Feigning (to pretend to have a particular feeling or to be ill, asleep, etc.) a headache, I went upstairs to my room.
+to pretend to have a particular feeling or to be ill, asleep, etc.
+* Feigning a headache, I went upstairs to my room.
 * Now I roam these parts feigning ablution and pretending to seek answers.
 
 - im'part (vt)
@@ -3148,7 +3158,7 @@ The sang with with real ardor (passion)
 
 - megalo'mania (un)
 megas (great, big, large) [Greek]
-Jokes accusing the heads of governments of megalomania (morbid delusions of grandeur, power, importance, godliness) are common.
+* Jokes accusing the heads of governments of megalomania (morbid delusions of grandeur, power, importance, godliness) are common.
 
 - 'megaphone (cn)
 
@@ -3643,6 +3653,7 @@ Smokies are made of coarsely ground beef and pork. They are similar to frankfurt
 * You praise her in such excessive terms that she appears devoid (to be completely lacking in something) of all human frailty (weakness). You adulate her.
 * His face was devoid of any warmth or humour.
 * There are those people who are forced (often through no fault of their own) to pursue an existence not only devoid of such luxuries as radios, television sets, sunken bathtubs, electric orange-juice squeezers, automobiles, Jacuzzis, private swimming pools, etc., but lacking also in many of the pure necessities of living: sufficient food, heated homes, hot water, vermin- and rodent-free surroundings, decent clothing, etc.
+* The notion of a single boundary is just devoid of serious content. In what way is an extinction rate 10 times the background rate acceptable?
 
 - 'penury (un)
 penuria (need, neediness) [Latin]
@@ -3757,6 +3768,9 @@ ephemera (dayfly) [Greek]
 ex (out) + vanesco (to vanish) + esce, escent (begin to)
 * Talk is evanescent (fleeting), but writing leaves footprints.
 
+- 'fleeting (adj)
+* Instant celebrity is often a fleeting asset because if there is no real achievement to interest the public: no stage or screen triumphs, no interesting books, no heroic exploits, people quickly become bored.
+
 - eva'nescence (un)
 * The home we knew has disappeared, and its evanescence (impermanence) only heightens our desire for it.
 
@@ -3814,6 +3828,9 @@ eu (good) [Greek] + logos (word, speech)
 
 - eu'phoric (adj)
 * I left reeling and euphoric (feeling tiptop, excellent) after what felt like an hour-long conversation.
+
+- 'tiptop (adj)
+* I sat on a brownie accidentally. It's still in tiptop (excellent) shape.
 
 - eutha'nasia (un)
 eu (good) [Greek] + thanatos (death) [Greek]
@@ -4059,9 +4076,12 @@ clam (secretly) [Lain]
 * The atmosphere at the school was oppressively puritanical.
 
 - 'ludicrous (adj)
-* It is ludicrous (completely unreasonable, stupid, or wrong) to suggest that I was driving under the influence of alcohol.
+completely unreasonable, stupid, or wrong
+* It is ludicrous to suggest that I was driving under the influence of alcohol.
 * The court granted him the ludicrous sum of £100 in damages.
 * How completely stuck we are is illustrated by a somewhat ludicrous event that goes back to 1906, and that cost philanthropist Andrew Carnegie $75,000.
+* Even if you want to do something as ludicrous as just a random tatsu...
+
 
 - 'semblance (n)
 * She was trying to get her thoughts back into some semblance (a situation, condition, etc. that is close to a particular one, usually a good one) of order.
@@ -4109,6 +4129,7 @@ clam (secretly) [Lain]
 - notwith'standing (prep, adv)
 * Fame and fortune notwithstanding (in spite of something), Donna never forgot her hometown
 * Notwithstanding, it [English spelling] is here to stay.
+* Notwithstanding, only about 20 percent of the country's original vegetation is thought to remain intact.
 
 - uku'lele (cn)
 
@@ -4274,7 +4295,9 @@ Indeed, the play of dissimulation (pretense, concealment of one's thoughts, feel
 * Sycophants are great dissimulators. They may feel contempt but show admiration. They may feel negative, but express absolutely positive agreement.
 
 - dis'semble (v)
-* She had, as far as he knew, no reason to be curious, and therefore no reason to dissemble (pretend, to hide your true feelings, thoughts, etc.) her curiosity.
+pretend, to hide your true feelings, thoughts, etc.
+* She had, as far as he knew, no reason to be curious, and therefore no reason to dissemble her curiosity.
+* Researchers have observed chimpanzees feigning injury in order to influence other members of the group, thus showing that the capacity to dissemble is not uniquely human.
 
 - dis'semblance (n)
 * His dissemblance (pretense) of a moderate was misleading and devious.
@@ -4516,10 +4539,11 @@ strepo (to make a noise) [Latin]
 * Some children placed on the drug became more subdued, less obstreperous (unmanageable).
 
 - impe'cunious (adj)
-pecus (cattle) [Latin]
+in (not) + pecus (cattle) [Latin] = short of funds, having very little money, especially over a long period
 * At one time in human history, a person's wealth was measured not by stocks and bonds but by stocks of domestic animals, which was a lot more logical, since you get milk and leather and meat from cattle, true wealth, and all you get from the stock market is a headache.
 * This word is not a synonym of indigent, destitute, or poverty-stricken. It does not necessarily imply living in reduced circumstances or want, but quite simply being short of cash, habitually.
-* He came from a respectable if impecunious (short of funds, having very little money, especially over a long period) family.
+* He came from a respectable if impecunious family.
+* When she first came to France from Bulgaria, she was hardly the impecunious student she later made herself out to be, since she had access to considerable family wealth.
 
 - pe'cuniary (adj)
 pecus (cattle) [Latin]
@@ -4716,7 +4740,8 @@ in (not) + doleo (to suffer or grieve) [Latin] = not suffering (idle, lazy)
 * Colin Powell was asked to give the commencement address.
 
 - ab'struse (adj)
-* Maths is a mix of abstruse (unnecessarily complicated and difficult to understand) theory and detailed calculations.
+unnecessarily complicated and difficult to understand
+* Maths is a mix of abstruse theory and detailed calculations.
 * In every fiend, from the simplest to the most abstruse, there are several books written for the average, untrained lay reader that will give you both a good grasp of the subject and at the same time add immeasurably to your vocabulary.
 
 ################################## THE END ##################################
@@ -4789,6 +4814,7 @@ in (not) + doleo (to suffer or grieve) [Latin] = not suffering (idle, lazy)
 
 - 'pasture (n)
 * As Balfour talked, the men casually watched the infested pasture.
+* In some areas woodland, waste or upland pasture was cleared and developed and new settlements established.
 
 - 'livestock (plural, un)
 * Livestock (cattle) generally avoid grazing where ragwort is growing, but they will do so once it displaces grass and clover in their pasture.
@@ -4894,7 +4920,8 @@ morally strict in a way that was typical in the time of Queen Victoria
 * It may be a Victorian attitude, but we live off income, not capital.
 
 - rhe'torical (adj)
-* She delivered her speech with her usual rhetorical (using speech or writing in special ways in order to persuade people or to produce an impressive effect) fire.
+using speech or writing in special ways in order to persuade people or to produce an impressive effect
+* She delivered her speech with her usual rhetorical fire.
 * At one level, this statement is clearly metaphorical and rhetorical.
 * His favorite rhetorical strategy was to expose the hypocrisy of those who, while professing adherence to the ideals of democracy and equality of opportunity, condoned slavery and racial discrimination.
 
@@ -4921,7 +4948,7 @@ when someone pretends to have certain beliefs or opinions that they do not reall
 * This composer has never court popularity: her rugged modernism seems to defy rather than to woo the audience.
 
 - 'rugged (adj)
-* rugged individualism
+* Post-World War I, rugged individualism appealed to fiscal conservatives who were dismayed by the regulatory bureaucracy built up by the Wilson administration.
 * There you will meet a tall, rugged stranger taking his car engine to bits with no hope of reassembling it.
 
 - 'woo (vt)
@@ -4930,8 +4957,9 @@ when someone pretends to have certain beliefs or opinions that they do not reall
 - 'commonplace (adj)
 * The sight of a single actor portraying several characters in the same scene is no longer a shock to the average moviegoer, such special-effects trickery having become so commonplace.
 
-- irksome (adj)
-* The figure-skating pair's convincing victory last week was particularly irksome (annoying) to their rivals, who were in peak form and complained privately about the judging. That the pair won when their rivals were terrific too is also impressive.
+- 'irksome (adj)
+* The presentation is intriguing, the text mostly irksome (annoying).
+* The figure-skating pair's convincing victory last week was particularly irksome to their rivals, who were in peak form and complained privately about the judging. That the pair won when their rivals were terrific too is also impressive.
 
 - 'pivotal (adj)
 * The Bank of English has a pivotal (key) role in the London money market.
@@ -4949,3 +4977,168 @@ when someone pretends to have certain beliefs or opinions that they do not reall
 2. relating to or caused by a disease
 * In his initial works, the playwright made physical disease a pivotal factor in the action; from this, his early critics inferred that he had a predilection for focusing on morbid subject matter.
 
+- inebri'ation (un)
+* Dude this is not Infiltration. He's evolved into Inebriation.
+* They were in an advanced state of inebriation.
+
+- im'pediment (cn)
+* War is one of the greatest impediments to human progress.
+
+- un'do (vt)
+* In her startlingly original writing, she went further than any other twentieth-century author in English (perhaps in any language) in reinventing literary language and form, undoing stylistic conventions, and introducing a rich and diverse structure of meaning.
+
+- 'cow (vt, usually passive)
+* The protesters had been cowed (forced) into submission by the police.
+
+- 'feckless (adj)
+lacking determination and not achieving anything in your life
+* Doubtless, some are feckless individuals who could do better but simply don't trouble.
+
+- 'fecklessness (un)
+ineffectiveness
+* The media once portrayed the governor as anything but ineffective; they now, however, make her out to be the epitome of fecklessness.
+
+- 'dynamism (un)
+energy and determination to succeed.
+* The liberal pluralist model of complex interdependence is useful but fails to capture the dynamism of integration as a process.
+
+- 'luminary (cn)
+* Among the guests are many luminaries of Parisian society who might balk at that sort of food.
+
+- ve'racious (adj)
+* It is disheartening for a veracious researcher to debunk this Caspian megalomania.
+
+- pa'thetic (adj)
+useless, unsuccessful, weak
+* For most of the first half of the nineteenth century, science at the university was in a pathetic state, despite the presence of numerous luminaries.
+
+- efflo'rescence (un)
+* There was an efflorescence of scientific publication in the period 1645-1660.
+* In a recent history of the Renaissance, by showing how the artistic efflorescence of that era was intimately linked to its commercial vitality, Jardine demonstrated that the spirit of acquisitiveness may be inseparable from that of cultural creativity.
+
+- e'xact (vt)
+to have a negative effect
+* The setting in which the concert took place exacted a toll: the group's performance was elegant and polished, but the sound, which seeped across the cold, unresonant high school auditorium, was oddly tepid, given the energy the players seemed to be putting into it.
+
+- seep (vi + adverb/preposition)
+move, spread
+* Blood seeped down his leg.
+* His tension was seeping away.
+
+- 'tepid (adj)
+* He soaked a handkerchief in some tepid water and wiped her forehead.
+* Keizer could only offer tepid praise for Hanshaw's work.
+* The soup was disgusting, greasy, tepid, and watery.
+
+- 'excise (vt)
+to remove
+* The tumour was excised.
+
+- e'rode (v)
+1.
+* The cliffs are being constantly eroded by heavy seas.
+* The rocks have gradually eroded away.
+2. to gradually reduce something such as someone's power or confidence.
+* Our personal freedom is being gradually eroded away.
+* Repeated exam failure had eroded her confidence.
+* That's been the unifying aim of all her seemingly disconnected ventures since entering public life: a determination to erode, and eventually end, the media's hold on political communication.
+
+- in'dict (v)
+* He was indicted for vvehicular homicide in 1987.
+
+- in'dictment (n)
+a charge of wrongdoing
+* It is a sad but just indictment of some high school history textbooks that they frequently report as factual claims that historians hotly debate or that are even completely contradicted by reliable primary sources.
+
+- 'normative (adj)
+escribing or establishing a set of rules or standards of behavior.
+* Christians may hold very different positions as to how far it is normative.
+* Determining a safe distance involves normative judgments of how societies choose to deal with risk and uncertainty.
+
+- 'dictate (v)
+to establish
+* In searching for norms in the sense of authoritative standards of what ought to be, rather than in the sense of what is average and thus can be considered normal, normative ethics aims to dictate.
+
+- 'ethics (n)
+moral rules of principles of behavior for deciding what is right and wrong
+* It was my introduction to the ethics of science.
+
+- 'trifling (adj)
+unimportant or of little value
+* They themselves face no more than a trifling penalty if caught.
+* The gaps in existing accounts of the playwright's life are not trifling, since much of the documentary evidence on which historians have relied is incomplete.
+
+- 'extant (adj)
+still existing in spite of being very old
+* Few of the manuscripts are still extant.
+
+- di'vorced (adj)
+separated from and not connected in any way to an idea, subject, etc.
+* His ideas are completely divorced from reality.
+* In our own time, America's musical high culture has degenerated into a formulaic entertainment divorced from the contemporary moment.
+
+- 'heyday (cn, usually singular)
+* Classical music was in its American heyday, centrally embedded in the culture at large.
+
+- at large
+in general
+* There has been a loss of community values in society at large.
+
+- 'penchant (n)
+* Although it is now academically respectable to analyze popular culture, the fact that many intellectuals feel compelled to rationalize their own penchant for action movies or mass-market fiction reveals, perhaps unwittingly, their continued investment in the old hierarchy of high and low culture.
+
+- bar'rage (cn, usually singular)
+the continuous firing of guns, dropping of bombs, etc.
+* How do I beat this low forward, sonic boom barrage when I'm trying to get in right now?
+
+- do somebody/something a disservice
+to do something that gives other people a bad opinion of someone of something
+* The fans have done the game a great disservice.
+* Trying to break this whole thing down to the scientific thing about Attack Vectors and all that stuff kind of doing a disservice sometimes to players.
+
+- re'liance (un, singular)
+* It is difficult to reverse half a century of total reliance on the car.
+* Now, largely because of a rapidly growing reliance on fossil fuels and industrialized forms of agriculture, human activities have reached a level that could damage the systems that keep Earth in the desirable Holocene state.
+
+- mon'soon (cn)
+the season, from about April to October, when it rains a lot in southern Asian countries.
+* If these thresholds are crossed, then important subsystems, such as a monsoon sysmte, could shift into a new state, often with deleterious or potentially even disastrous consequences for humans.
+
+- run-up (n)
+the period of time just before an important event
+* In the run-up to the November 1992 presidential elections, education was seen as a key issue.
+
+- anthropo'genic (adj)
+* Anthropogenic climate change is now beyond dispute, and in the run-up to the climate negotiations in Copenhagen this December, the international discussions on targets for climate mitigation have intensified.
+
+- via'bility (un)
+ability to continue to live or to develop
+* This would threaten the ecological life-support systems that have develope in the late Quaternary environment, and would severely challenge the viability of contemporary human societies.
+
+- per'vasive (adj)
+existing everywhere
+* Biodiversity loss occurs at the local to regional level, but it can have pervasive effects on how the Earth system functions, and it interacts with several other planetary boundaries.
+
+- 'underpin (vt)
+* Although it is now accepted that a rich mix of species underpins the resilience of ecosystems, little is known quantitaively about how much and what kinds of biodiversity can be lost before this resilience is eroded.
+
+- le'guminous (adj)
+* Human processes, primarily the manufacture of fertilizer for food production and the cultivation of leguminous crops, convert around 120 million tonnes
+of N2 from the atmosphere per year into reactive forms, which is more than the combined effects from all Earth's terrestrial processes.
+
+- a'noxic (adj)
+having no oxygen
+* Records of Earth history show that large-scale ocean anoxic events occur when critical thresholds of phosphorus inflow to the oceans are crossed.
+
+- 'estuary (cn)
+the wide part of a river where it goes into the sea
+* We estimate that this boundary level will allow humanity to safely steer away from the risk of ocean anoxic events for more than 1,000 years, acknowledging that current levels already exceed critical thresholds for many estuaries and freshwater systems.
+
+- admo'nition (n)
+* Given our admonition to be careful about write \delta Q rather than dQ, the abuse of notation \partial Q may seem strange, but it is a common one.
+
+- 'Velcro (un)
+* Therapists used separating Cabbage Patch Dolls, joined by Velcro, to accustom the twins to the idea of being parted.
+
+- 'poach (v)
+* Deer have been poache here for years.
