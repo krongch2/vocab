@@ -950,9 +950,10 @@ A notorious philanderer/criminal
 - the acme ('ækmi) of something
 - con'summateness, con'summacy
 - the acme of something
-Your ability is top-drawer (of the highest quality). Rarely does anyone lie as convincingly or as artistically as you do.
+* Your ability is top-drawer (of the highest quality). Rarely does anyone lie as convincingly or as artistically as you do.
 Consummate artistry at the keyboard
 A person reaches the acme (the highest level of something) of perfection as an actress or actor. (a consummate performer)
+* But Infiltration, such a consummate professional player, really as well prepares so many matchups, so many answers.
 
 - 'consummate (vt)
 - consum'mation (un)
@@ -2662,6 +2663,7 @@ to pretend to have a particular feeling or to be ill, asleep, etc.
 - im'punity (n) [do something with impunity]
 * This blessed talisman blocks Undead recovery, allowing the knights to fight with impunity (with no risk of being punished).
 * It's astonishing that these criminals are free to walk the streets with impunity.
+* Logan Sama: Daigo looking to be able to jump with impunity now.
 
 - 'lucid (adj)
 1. expressed in a clear and easy-to-understand way
@@ -3384,7 +3386,7 @@ There is not, as the hackneyed phrase has it, a cowardly bone in their bodies. T
 
 - in'trepid (adj)
 in (not) + trepido (to tremble)
-Intrepid (fearless) pioneers came to California by wagon train.
+* Intrepid (fearless) pioneers came to California by wagon train.
 
 - intre'pidity (un)
 There are occasions, however, when we can hardly brook the intrepidity (fearlessness) of intruders.
@@ -4776,9 +4778,10 @@ unnecessarily complicated and difficult to understand
 * If you find some word that is similar to what you are expecting but cannot find a second one, do not become fixated on your interpretation.
 
 - e'xacerbate (vt)
-* The recession has exacerbated this problem.
+* The recession has exacerbated (worsened) this problem.
 * I don't want to exacerbate the situation.
-* It was her view that the country's problems had been exacerbated (worsened), so that to ask for such assistance again would be counterproductive.
+* It was her view that the country's problems had been exacerbated, so that to ask for such assistance again would be counterproductive.
+*  Since Bangkok city is expected to continue to grow within the next 10 years, the problems of water supply and contamination of both surface and ground waters would also exacerbate.
 
 - 'ragwort (un)
 * One story is told of a man who saw a leprechaun bury a purse of gold in a field of ragwort.
@@ -5141,4 +5144,15 @@ the wide part of a river where it goes into the sea
 * Therapists used separating Cabbage Patch Dolls, joined by Velcro, to accustom the twins to the idea of being parted.
 
 - 'poach (v)
-* Deer have been poache here for years.
+* Deer have been poached here for years.
+
+- 'tacky (adj)
+* I have completely stopped viewing my gaming feed because of this. It's so tacky (having a bad taste).
+
+- 'purge (vt)
+* This place will purge you of all evil hatched within your bowels.
+
+- butter (vt)
+* You don't have to butter me up really.
+* Don't think you can butter me up that easily.
+
