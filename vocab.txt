@@ -91,8 +91,6 @@ Count Bleck: Spare Count Bleck your theatrics (emotional and dramatic behavior t
 The jurors laughed at McKittrick's theatrics, but the judge did not find them so amusing.
 Audinces like to see a bit of theatrics here and there.
 
-################################################################################### PART ONE ########################################################################################
-
 - ramifi'cation (plural)
 The ramifications behind this and the guide should be self-explanatory.
 Next a clear, detailed paragraph or more will analyze the idea in all its ramifications.
@@ -1375,8 +1373,6 @@ Dr. Neo Cortex: This time I shall reign triumphant.
 - stow (vt)
 Dangerous daggers are stowed beneath their cloaks.
 
-################################################## PART TWO ################################################################################################################
-
 **CHAPTER 9**
 
 - in'calculable (adj)
@@ -2104,8 +2100,9 @@ In ancient Sparta, orginally known as Laconia, the citizens were long-suffering,
 - to wit = namely
 Centuries ago, in ancient Greece, the philosopher Zeno lectured on a topic that still piques the human mind, to wit: "How to Live a Happy Life."
 
-- porch (cn)
-Zeno would stand on a porch (the Greek word for which is "stoa") and hold forth somewhat as follows: people should free themselves from intense emotion, be unmoved by both joy and sorrow, and submit without complaint to unavoidable necessity.
+- 'porch (cn)
+* Zeno would stand on a porch (the Greek word for which is "stoa") and hold forth somewhat as follows: people should free themselves from intense emotion, be unmoved by both joy and sorrow, and submit without complaint to unavoidable necessity.
+* The house had a square front door made of dark wood, with several columns marking the front porch.
 
 - expound (v)
 Today, psychologists suggest pretty much the exact opposite, let your emotions flow freely, express your love or animosity, don't bottle up your feelings. But in the fourth century B.C., when Zeno was expounding (to explain or talk about something in detail) his credo, his philosophy of control of the passions fell on receptive ears.
@@ -3471,7 +3468,7 @@ Two hundred and four warriors formed the vanguard of the army.
 - com'mend (vt)
 This knight of Catarina hereby commends you!
 
-- vi'vacious (adj)f
+- vi'vacious (adj)
 She was under five feet five inches tall, but strikingly good-looking, with dark hair and eyes and vivacious (peppy, has a lot of energy and a happy attractive manner) manner.
 
 - vi'vaciousness (un)
@@ -3565,8 +3562,6 @@ Of course, the young man reveals himself as a boor (a man who behaves in a very 
 - 'boorish (adj)
 Is urbanity a characteristic of boorish people?
 
-**PEOPLE WHO MADE OUR LANGUAGE**
-
 - 'bloomers (plural)
 Mrs. Elizabeth Smith Miller invented them in 1849, and showed a working model to a famous women's rights advocate, Amelia J. Bloomer. Amelia was fascinated by the idea of garments that were both modest (they they reached right down to the ankles) and convenient and promptly sponsored them.
 He parodied my groping stumble across the stage to the podium and gathered up the skirt to reveal hairy legs and bloomers (underwear that women wore in the past).
@@ -3607,8 +3602,6 @@ Not surprisingly, male guppies are never yellow.
 * Four hundred years ago, Jean Nicot, a French ambassador, bought some tobacco seeds from a Flemish trader. Nicot's successful efforts to popularize the plant in Europe brought him linguistic immortality.
 * The room is fill of smoke. Nicotine has become the ambient atmosphere.
 
-**PLACES THAT MADE OUR LANGUAGE**
-
 - bayo'net (cn)
 Bayonne, France, where first was manufactured the daggerlike weapon that fits over the muzzle end of a rifle.
 Hearing noises downstars, he got out of bed, picked up his bayonet (a long knife that is fixed to the end of a rifle) and went to investigate.
@@ -3642,10 +3635,6 @@ Her curly hair had a cute red satin (a type of cloth that is very smooth and shi
 - frankfurter, frank (cn)
 Frankfurt, Germany, where the burghers once greatly enjoyed their smoked beef and pork sausages, which we now ask for in delicatessen stores and supermarkets by the name of frankfurters, franks, or hot dogs.
 Smokies are made of coarsely ground beef and pork. They are similar to frankfurters (a long reddish smoked sausage) but are more heavily smoked.
-
-################################### PART THREE ####################################################################################################################################
-
-**CHAPTER 14**
 
 - 'frailty (n)
 * Since comedy ridicules the frailties (weakness) of man, it professes a moral aim.
@@ -5126,8 +5115,7 @@ existing everywhere
 * Although it is now accepted that a rich mix of species underpins the resilience of ecosystems, little is known quantitaively about how much and what kinds of biodiversity can be lost before this resilience is eroded.
 
 - le'guminous (adj)
-* Human processes, primarily the manufacture of fertilizer for food production and the cultivation of leguminous crops, convert around 120 million tonnes
-of N2 from the atmosphere per year into reactive forms, which is more than the combined effects from all Earth's terrestrial processes.
+* Human processes, primarily the manufacture of fertilizer for food production and the cultivation of leguminous crops, convert around 120 million tonnes of N2 from the atmosphere per year into reactive forms, which is more than the combined effects from all Earth's terrestrial processes.
 
 - a'noxic (adj)
 having no oxygen
@@ -5156,3 +5144,42 @@ the wide part of a river where it goes into the sea
 * You don't have to butter me up really.
 * Don't think you can butter me up that easily.
 
+- well-meaning (adj)
+intending to be helpful, but not succeeding
+* many websites have confusing postings by well-meaning people trying to make use of the switches.
+
+- un'nerving (vt)
+to upset or frighten someone so that they lose their confidence or their ability to think clearly
+* He was unnerved by the way Sylvia kept staring at him.
+* The Grim River contains unnerving fish.
+
+- take the cake (phrasal verb)
+to be worsen than anything else than you can imagine
+* I've heard some pretty dumb ideas, and that takes the cake!
+* Of all the people in the world who have miserable lives, the Baudelaire youngsters take the cake.
+
+- 'scraggly (adj)
+growing in a way that looks uneven and in bad condition
+* Violet, Klaus, and Sunny still had nightmares about Count Olaf's shiny, shiny eyes, and about his one sraggly eyebrow, and most of all about the tattoo of an eye he had on his ankle.
+
+- 'dim-witted (adj)
+* Occasionally, people thought that because the orphans were unfortunate, they were also dim-witted.
+
+- 'driveway (cn)
+a short road leading from a public road to a house or garage
+*  Oh, here's the driveway. We've arrived.
+
+- 'burgundy (adj)
+dark red
+* They [Baudelaire siblings] saw a dark burgundy carpet that lay on the floor.
+
+- 'hedge (cn)
+* Each hedge was a different kind of serpent, some long, some short, some with their tongues out and some with their mouths open, showing green, fearsome teeth.
+* Mr. Poe, who led the way, didn't seem to notice the hedges at all, possibly because he was busy coaching the children on how to behave.
+
+- beatitudes
+* When finally, he fully succeeded in making his dream a reality, he was immersed in beatitude.
+
+- wouldn't hear of it
+used to say that you refuse to agree with a suggestion or proposal
+* I said we should go back, but Dennis wouldn't hear of it.
