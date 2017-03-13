@@ -3446,16 +3446,17 @@ About 9 million of them live in the Chicago exurbia (the exurbs collectively) th
 rus, ruris (the country, farmland, fields) [Latin]
 
 - 'rustic (adj)
-The village has a certain rustic (simple, old-fashioned, and not spoiled by modern developments, in a way that is typical of the countryside) charm.
-He was considered a rustic (roughhewn, farmlike, unsophisticated, uncultured) by his classmates, all of whom came from cultured and wealthy backgrounds.
+* The village has a certain rustic (simple, old-fashioned, and not spoiled by modern developments, in a way that is typical of the countryside) charm.
+* He was considered a rustic (roughhewn, farmlike, unsophisticated, uncultured) by his classmates, all of whom came from cultured and wealthy backgrounds.
 
 - rus'ticity (un)
+* The green rusticity of Whittier's farm and village life imparted a bucolic charm to such lyrics.
 
 - 'rusticate (v)
-After rusticating (to spend time in the country, away from the turmoil and tensions of big-city life) in Kigezi from 1978 to 1981, he migrated to Nairobi for professional reasons.
+* After rusticating (to spend time in the country, away from the turmoil and tensions of big-city life) in Kigezi from 1978 to 1981, he migrated to Nairobi for professional reasons.
 
 - enervated (adj)
-He seems at first laconic and enervated (tired), loathe to put a sentence together aloud.
+* He seems at first laconic and enervated (tired), loathe to put a sentence together aloud.
 
 - 'vanguard (n)
 1. in the most advanced position of development
@@ -4998,6 +4999,7 @@ energy and determination to succeed.
 * Among the guests are many luminaries of Parisian society who might balk at that sort of food.
 
 - ve'racious (adj)
+speaking the truth
 * It is disheartening for a veracious researcher to debunk this Caspian megalomania.
 
 - pa'thetic (adj)

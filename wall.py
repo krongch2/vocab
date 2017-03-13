@@ -17,7 +17,7 @@ with open('vocab.txt', encoding='utf-8') as f:
     chunks = text.split('\n\n')
 
 sl = []
-for chunk in random.sample(chunks, 4):
+for chunk in random.sample(chunks, 3):
     if 'CHAPTER' in chunk:
         continue
     chunks_m = []
@@ -35,13 +35,13 @@ s = '\n\n'.join(sl)
 print(len(s))
 n = len(s)
 if n < 700:
-    fs = 34
+    fs = 36
 elif 700 <= n < 1000:
-    fs = 30
+    fs = 32
 elif 1000 <= n < 1300:
-    fs = 26
+    fs = 28
 else:
-    fs = 22
+    fs = 24
 
 im = Image.open('ds.jpg')
 draw = ImageDraw.Draw(im)
