@@ -878,8 +878,9 @@ That one act epitomizes her philosophy of life.
 - phi'lanthropist
 - philan'thropic
 
-- phi'lander (v)
 - phi'landerer (cn)
+
+- phi'lander (v)
 To have sex with many women
 
 - phi'losophy (un)
@@ -890,8 +891,10 @@ philos (love) + adelphos (brother) = the City of Brotherly Love
 
 - philhar'monic
 
-- philter
+- philter (cn)
 A love potion
+* All my life I've been searching for that special scent, that mythical philtre, that would enable me to snare the woman of my dreams.
+* There's something purely foolish about attending any large gathering of men and women without benefit of some kind of philter or magic dust to blind you and weaken your critical faculties.
 
 - aphro'disiac (cn, adj)
 - aphrodi'siacal (adj)
@@ -1233,14 +1236,14 @@ It also usually leads to an avalanche of bans in order to be consistent with the
 
 - 'tacit (adj)
 taceo (to be silent)
-There seems to be a tacit (understood or implied without being stated) agreement amongst top players in Japan, a soft ban, on playing Old Sagat.
-Here is a man dying of cancer. He suspects what his disease is, and everyone else, of course, knows. Yet he never mentions the dread word, and no one who visits him ever breathes a syllable of it in his hearing. It is tacitly understood by all concerned that the word will remain forever unspoken.
+* There seems to be a tacit (understood or implied without being stated) agreement amongst top players in Japan, a soft ban, on playing Old Sagat.
+* Here is a man dying of cancer. He suspects what his disease is, and everyone else, of course, knows. Yet he never mentions the dread word, and no one who visits him ever breathes a syllable of it in his hearing. It is tacitly understood by all concerned that the word will remain forever unspoken.
 
 - 'tacitness (un)
 
 - de'corum (un)
-He was disciplined for breaching the Senate's rules of decorum (behavior that shows respect and is correct for a particular situation, especially a formal occasion).
-An executive is engaging in extracurricular activities with her secretary. Yet during office time they are as formal and distant as any two human beings can well be. Neither of them ever said to the other, "Now, look here, we may be lovers after five o'clock, but between nine and five we must preserve the utmost decorum, okay?" Such speech, such a verbal arrangement, is considered unnecessary. So we may say that the two have a tacit agreement (i.e., nothing was actually said) to maintain a complete employer-employee relationshiop during office hours.
+* He was disciplined for breaching the Senate's rules of decorum (behavior that shows respect and is correct for a particular situation, especially a formal occasion).
+* An executive is engaging in extracurricular activities with her secretary. Yet during office time they are as formal and distant as any two human beings can well be. Neither of them ever said to the other, "Now, look here, we may be lovers after five o'clock, but between nine and five we must preserve the utmost decorum, okay?" Such speech, such a verbal arrangement, is considered unnecessary. So we may say that the two have a tacit agreement (i.e., nothing was actually said) to maintain a complete employer-employee relationshiop during office hours.
 
 - 'gloat (vi)
 The fans are still gloating (show in an annoying way that you're proud of your own success) over Scotland's victory.
@@ -2008,19 +2011,19 @@ Words effortlessly roll off the voluble speaker's tongue.
 The meetings were voluble and at times fierce.
 
 - volu'bility (un)
-Her legendary volubility deserted her.
+* Her legendary volubility deserted her.
 
 - 'volubleness (un)
-In general there is a certain volubleness among the ministers, and forgetfulness to give the laymen a chance to speak.
+* In general there is a certain volubleness among the ministers, and forgetfulness to give the laymen a chance to speak.
 
 - 'cogent (adj)
-They put forward cogent arguments for British membership.
+* They put forward cogent arguments for British membership.
 
 - 'cogency (cn)
 cogo (to drive together, to compel force)
 "words that convince"
-A cogent argument compels acceptance because of its logic, persuasiveness, its appeal to one's sense of reason.
-If this post lacks my usual cogency and clarity, let me know.
+* A cogent argument compels acceptance because of its logic, persuasiveness, its appeal to one's sense of reason.
+* If this post lacks my usual cogency and clarity, let me know.
 
 - lo'quacious (adj)
 loquor (to speak)
@@ -2551,33 +2554,34 @@ What a humdrum (boring, tedious) lad you are.
 I've scoured (search) near and far but no sight of her.
 
 - 'stranded (adj)
-Maiden Thorolund and her followers recently arrived in this land, but she became stranded (stuck) deep below the Catacombs.
-Air travellers were left stranded because of icy conditions.
-There I was, stranded in Rome with no money.
+* Maiden Thorolund and her followers recently arrived in this land, but she became stranded (stuck) deep below the Catacombs.
+* Air travellers were left stranded because of icy conditions.
+* There I was, stranded in Rome with no money.
 
 - 'nubile (adj)
-A nubile cleric would be replete with humanity.
+* A nubile cleric would be replete with humanity.
 
 - 'lass (cn)
-The lass (a young woman) weeps in solitude.
+* The lass (a young woman) weeps in solitude.
 
 - 'purebred (adj)
-The poor little purebred is entirely helpless.
+* The poor little purebred is entirely helpless.
 
 - 'laudable (adj)
-Laudable (deserving praise, praiseworthy) is thy dedication to sin.
-Laudable though the aim might be, the results have been criticized.
+* Laudable (deserving praise, praiseworthy) is thy dedication to sin.
+* Laudable though the aim might be, the results have been criticized.
 
 - appa'rition (cn)
-He stared at the strange apparition (something that you imagine you can see, a ghost or ghostlike image of a person) before him.
-Long ago, I was told of a remedician who resides in New Londo. Does he really exist? Well, go and find out for yourself. But don't blame me if he's just an apparition.
+something that you imagine you can see, a ghost or ghostlike image of a person
+* He stared at the strange apparition before him.
+* Long ago, I was told of a remedician who resides in New Londo. Does he really exist? Well, go and find out for yourself. But don't blame me if he's just an apparition.
 
 - 'shackle (vt)
-This iron ring was used to shackle (chain) the guilty.
-The prisoners were shackled together and forced to walk 600 miles across country.
+* This iron ring was used to shackle (chain) the guilty.
+* The prisoners were shackled together and forced to walk 600 miles across country.
 
 - em'porium (cn)
-There was a pretty impressive set of video game emporiums (a large shop) in the local shopping district, Osu, that I used to visit a couple of times a week.
+* There was a pretty impressive set of video game emporiums (a large shop) in the local shopping district, Osu, that I used to visit a couple of times a week.
 
 - eon, aeon (cn)
 Excessive power eats away the life force of its caster, and like all dangerous spells, Power Within was kept secret for eons (extremely long period of time).
@@ -3378,8 +3382,9 @@ Few foods are as versatile as cheese.
 Our customers truly enjoy the tremendous degree of versatility of our line.
 
 - con'temptuous (adj)
-He was openly contemptuous (showing that you think someone or something deserves no respect) of his father.
-There is not, as the hackneyed phrase has it, a cowardly bone in their bodies. They are strangers to fear, they're audacious, dauntless, contemptuous of danger and hardship.
+* He was openly contemptuous (showing that you think someone or something deserves no respect) of his father.
+* There is not, as the hackneyed phrase has it, a cowardly bone in their bodies. They are strangers to fear, they're audacious, dauntless, contemptuous of danger and hardship.
+* There is sometimes a tendency to speak a bit contemptuously of the simple models.
 
 - in'trepid (adj)
 in (not) + trepido (to tremble)
@@ -5185,3 +5190,23 @@ dark red
 - wouldn't hear of it
 used to say that you refuse to agree with a suggestion or proposal
 * I said we should go back, but Dennis wouldn't hear of it.
+
+- un'wieldy (adj)
+* For many purposes a theory whose consequences are easily followed is preferable to one which is more fundamental but also more unwieldy.
+
+- con'solidate (v)
+* The goal of this second edition is to consolidate thousands of changes suggested by readers since the first was published, to improve presentation of several topics, and to add a small number of new ones.
+
+- com'modity (cn)
+* Commodity prices fell sharply.
+* Laptop computers were a rare luxury twelve years ago. Now they are a common commodity.
+
+- as'semblages (n)
+* Even should it eventually be proved that the lowest energy state of assemblages of atoms really is crystalline, it does not follow that perfect crystalline structures will always appear in nature or provide the greatest interest for study.
+
+- 'avid (adj)
+* I used to be an avid reader.
+
+- be subject to
+* Violators are subject to a $100 fine.
+* A vector space is a nonempty set V of objects, called vectors, on which are defined two operations, called addition and multiplication by scalars(real numbers), subject to the ten axioms (or rules) listed below.

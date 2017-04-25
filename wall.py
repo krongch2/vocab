@@ -10,6 +10,12 @@ def splitn(seq, n):
         yield seq[:n]
         seq = seq[n:]
 
+def pad(line):
+	if line.startswith('*'):
+		return line
+	else:
+		return '   ' + line
+
 os.chdir('D:\\vocab')
 
 with open('vocab.txt', encoding='utf-8') as f:
@@ -28,7 +34,7 @@ for chunk in random.sample(chunks, 3):
             lines_m = []
             for l in splitn(words, 9):
                 lines_m.append(' '.join(l))
-            chunk_m.append('\n'.join(lines_m))
+            chunk_m.append('\n'.join(map(pad, lines_m)))
         chunks_m.append('\n'.join(chunk_m))
     sl.append('\n'.join(chunks_m))
 s = '\n\n'.join(sl)
