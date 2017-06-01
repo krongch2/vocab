@@ -1,7 +1,5 @@
 You can outsmart your opponent rather than overpower. (Comboless Clown)
 
-Apply to schools that have multiple people you like. (Brian Busemeyer)
-
 Well either you try to make what you enjoy into a career, or you get a career which will allow you to live comfortably and do what you enjoy. (Martin from Steam)
 
 The fact that you care too much can be used against you. (Seth Killian)
@@ -128,8 +126,9 @@ The police lulled me into believing that they did not suspect us.
 Earthquakes here are rare and this has lulled people into a false sense of security.
 
 - in'satiable (adj)
-You were an eternal question box, for you had a constant and insatiable (always wanting more and more of something) desire to know and understand.
-This book helps you regain the intellectual atmosphere, the keen, insatiable curiosity, the powerful urge to learn of your childhood.
+always wanting more and more of something
+* You were an eternal question box, for you had a constant and insatiable desire to know and understand.
+* This book helps you regain the intellectual atmosphere, the keen, insatiable curiosity, the powerful urge to learn of your childhood.
 
 - com'pulsive (adj)
 Then, eventualy, at some point in your adult life, you gradually lost your compulsive (difficult to stop) drive to discover, to figure out, to understand, to know.
@@ -337,7 +336,7 @@ The next ten sentences are no cinch.
 You will be acquiting yourself creditably if you check the correct word five times out of ten.
 
 - in'credulous (adj)
-Don't sound so incredulous. What I am saying is absolutely true.
+* Don't sound so incredulous. What I am saying is absolutely true.
 
 
 **CHAPTER 4**
@@ -504,21 +503,23 @@ As in the case of the charitable-looking dowager (a woman from a high social cla
 * Infiltration has got so many characters at his disposal.
 
 - 'muse (vt, vi)
-* An ancient Greek mused (to thoughtfully say) about the meaning of life, and philosophy was born.
+to thoughtfully say
+* An ancient Greek mused about the meaning of life, and philosophy was born.
+* It would probably want to be paid and even rest, Lawrence mused.
 
 - 'gainful (adj)
 - 'mite (cn)
-Most people spend part of every workday at some gainful employment, honest or otherwise, and in so doing often contribute their little mite (small amount) to the progress of the world.
+* Most people spend part of every workday at some gainful employment, honest or otherwise, and in so doing often contribute their little mite (small amount) to the progress of the world.
 
 - well-ad'justed (adj)
-For the first five months of his life, Christopher was happy, well-adjusted, and a trifle (slightly) fat.
+* For the first five months of his life, Christopher was happy, well-adjusted, and a trifle (slightly) fat.
 
 - 'inmate (cn)
 More than half the inmates were there from some sort of violent crime.
 
 - con'tented (adj)
-They lapsed into a contented silence.
-Such a professional [psychologist] is often employed by indusries, schools, and institutions to devise means for keeping workers productive and happy, students well-adjusted, and inmates contented.
+* They lapsed into a contented silence.
+* Such a professional [psychologist] is often employed by indusries, schools, and institutions to devise means for keeping workers productive and happy, students well-adjusted, and inmates contented.
 
 - psycho'analyst (cn)
 - psychoa'nalysis (un)
@@ -636,21 +637,21 @@ All sphygmomanometers (blood-pressure apparatus) had calibrated mercury columns 
 These comparisons, like fortune-telling and chiromancy, or the interpretation of moral dispositions from the form of the hand, are to be classed among the aberrations of the human understanding.
 
 - 'chiromancer (cn)
-He claims that Thomas Becket consulted a chiromancer (palm reader) before setting out on an expedition against the inhabitants of North.
+* He claims that Thomas Becket consulted a chiromancer (palm reader) before setting out on an expedition against the inhabitants of North.
 
 - chiro'mantic (adj)
-During this chiromantic interlude, the dancing kept up, until finally, about three in the morning, the party ended.
+* During this chiromantic interlude, the dancing kept up, until finally, about three in the morning, the party ended.
 
 - advent ('ædvent) (un)
-For centuries before the advent (first coming) of printing, calligraphy, or 'penmanship as an artistic expression, was practiced by monks.
-After the advent of Fire, the ancient Lords found the three souls.
+* For centuries before the advent (first coming) of printing, calligraphy or penmanship as an artistic expression, was practiced by monks.
+* After the advent of Fire, the ancient Lords found the three souls.
 
 - a touch of something
-A calligrapher is called upon to design and write announcements, place cards, et., as a touch of (a small amount of) elegance.
+* A calligrapher is called upon to design and write announcements, place cards, et., as a touch of (a small amount of) elegance.
 
 - calli'pygian (adj)
-Tight slacks are best worn by those of callipygian (beauty + buttock) anatomy.
-I'm in search of a callipygian woman.
+* Tight slacks are best worn by those of callipygian (beauty + buttock) anatomy.
+* I'm in search of a callipygian woman.
 
 - pos'terior (cn)
 buttocks
@@ -689,24 +690,28 @@ Have I, with uncanny foresight, picked words which have suddenly and inexplicabl
 The same words occurred before and just as plentifully, but since they presented little communication to you, you reacted to them with an unseeing eye, with an ungrasping mind.
 
 - ca'price (n)
-As with many other puzzles, the caprices (tendency to change) of politics have reinforced the legacy of history.
-Correctness varies with the times and depends much more on geography, on social class, and on collective human caprice than on the restrictions found in textbooks.
+tendency to change
+* As with many other puzzles, the caprices of politics have reinforced the legacy of history.
+* Correctness varies with the times and depends much more on geography, on social class, and on collective human caprice than on the restrictions found in textbooks.
+* But whenever the harvest was poor, the villagers attributed it to my caprices, and it has only gotten worse in recent years.
 
 - sus'ceptible (adj)
 * In grammar, however, since the facts are highly susceptible (not immune) to change, we have to keep an eye peeled for trends.
 * Early studies often concluded that the public was susceptible to the propagandistic influence of mass communications, but one recent study indicates that, on the contrary, mass communications seldom produce marked changes in social attitudes or actions.
 
 - calis'thenics
-What is a safe substitude? Apparently none exists, so I suggest that you manage, by some linguistic calisthenics (gymnastic exercises to achieve bodily fitness and grace of movement), to avoid having to make a choice.
+gymnastic exercises to achieve bodily fitness and grace of movement
+* What is a safe substitude? Apparently none exists, so I suggest that you manage, by some linguistic calisthenics, to avoid having to make a choice.
 
 - long-felt need
-A problem facing a particular technical area that has gone unsolved for a prolonged period
+* A problem facing a particular technical area that has gone unsolved for a prolonged period
 
-- prissy (adj)
+- 'prissy (adj)
 "Am I not?" is too prissy for down-to-earth people.
 
 - catch on
-"Aren't I?", though popular in English, has never really caught on (become popular) in America.
+to become popular
+"Aren't I?", though popular in English, has never really caught on in America.
 
 - catching (adj) [not before noun]
 An illness that is easily passed to other people
@@ -723,17 +728,17 @@ pro (beforehand, ahead) [Greek] + phanai (to speak) [Greek] -> phet, phec, phes
 Do you prophesy another world war?
 
 - 'bugbear (cn)
-The cause of irritation
-We have here in case you're puzzled, an example of that notorious bugbear of academic grammar, the "split infinitive."
+the cause of irritation
+* We have here in case you're puzzled, an example of that notorious bugbear of academic grammar, the "split infinitive."
 
 - un'conscionable (adj)
-Benjamin Franklin, Washington Irving, Nathaniel Hawthorne, Theodore Roosevelt, and Woodrow Wilson, among many others, were unconscionable infinitive splitters.
+* Benjamin Franklin, Washington Irving, Nathaniel Hawthorne, Theodore Roosevelt, and Woodrow Wilson, among many others, were unconscionable infinitive splitters.
 
-- partial (adj)
-And modern writers are equally partial to the construction.
+- 'partial (adj)
+* And modern writers are equally partial to the construction.
 
 - 'ignorance (un)
-We have at last begun to fill in a few areas of ignorance.
+* We have at last begun to fill in a few areas of ignorance.
 
 - 'whither (adv)
 Used to ask what future of something will be or how it will develop.
@@ -753,10 +758,11 @@ Whither socialism?
 - astro'logical (adj)
 
 - 'denizen (cn + of)
-Plant or animal, flesh or vegetable, denizen (an inhabitant or occupant of a particular place) of water, earth, or air if it lives and grows, this scientist [biologist] wants to know more about it.
+an inhabitant or occupant of a particular place
+* Plant or animal, flesh or vegetable, denizen of water, earth, or air if it lives and grows, this scientist [biologist] wants to know more about it.
 
 - flora and fauna (un)
-The sheer variety of marine flora and fauna (plants and animals) is enough to floor visitors.
+* The sheer variety of marine flora and fauna (plants and animals) is enough to floor visitors.
 
 - ento'mologist (cn)
 - ento'mology (un)
@@ -1033,7 +1039,7 @@ I felt a twinge of pain in my back.
 He felt a sharp twinge of guilt for not taking the trouble to visit her.
 
 - un'scrupulous (adj)
-Totally unscrupulous (behaving in an unfair and dishonest way), you are a dangerous person to get mixed up with.
+* Totally unscrupulous (behaving in an unfair and dishonest way), you are a dangerous person to get mixed up with.
 
 - 'glib (adj)
 glib (slippery, smooth) [Old English]
@@ -1041,7 +1047,7 @@ I know this will sound glib (suspiciously fluent), but don't pretend you aren't 
 "Let me be perfectly frank with you" and then they promptly and glibly lie through their teeth.
 
 - 'glibness (un)
-It happens, of course, but the glibness (a kind of fluent easy superficiality) with which it's used to build up the character bothers me.
+* It happens, of course, but the glibness (a kind of fluent easy superficiality) with which it's used to build up the character bothers me.
 
 - e'gregious (adj)
 He is notorious for being an egregious (outstandingly vicious and hurtful) liar
@@ -1069,7 +1075,8 @@ An invading army kills, maims, and tortures without mercy, compunction, or regre
 Study of family trees
 
 - ges'tation (singular, un)
-So a congenital defect, deformity, condition, etc. occurs during the nine-month process (or period of gestation, to become technical).
+* So a congenital defect, deformity, condition, etc. occurs during the nine-month process (or period of gestation, to become technical).
+* The gestation period of a horse is about 11 months.
 
 - he'redity (un)
 Let us examine ten personality types that results from the way culture, growth, family background, and environment interact with heredity.
@@ -1743,13 +1750,13 @@ Fines can be levied for shouting and other vociferations, including abuse of bel
 Because he's singing love songs, he doesn't need to vociferate (to shout vehemently) or complain.
 
 - 'vehement (adj)
-Her voice was low but vehement (showing strong feelings or opinions).
+* Her voice was low but vehement (showing strong feelings or opinions).
 
 - 'vehemence (un)
-Even Bernhard was taken aback by the vehemence (intensity or forcefulness of expression) of the response.
+* Even Bernhard was taken aback by the vehemence (intensity or forcefulness of expression) of the response.
 
 - a'back (adv)
-For a moment, I was completely taken aback (very surprised or shocked by something) by her request.
+* For a moment, I was completely taken aback (very surprised or shocked by something) by her request.
 
 - des'cribe (v)
 de (down) + scribo, scriptus (to write) = "to write down" about
@@ -1916,7 +1923,7 @@ The tally (a record) of this use of as showed seventy-four for, only eight again
 
 - grunt (v)
 - 'affable (adj)
-I wonder how it would be if you just grunted affably (friendly).
+* I wonder how it would be if you just grunted affably (friendly).
 
 - a'bortive (adj)
 This use of whom [Whom would you like to be if you weren't yourself?] probably comes from an abortive (failed) attempt to sound elegant.
@@ -2046,8 +2053,10 @@ There are times when a peculiar social awkwardness seizes me and I detach from a
 * He waved as he pulled away (to start to drive away from a place where you had stopped).
 
 - 'sullen (adj)
-* Bill sat in sullen (angry and silent) silence and refused to eat his lunch.
+angry and silent, especially because you feel life has been unfair to you
+* Bill sat in sullen silence and refused to eat his lunch.
 * If you let your mind play over some of the taciturn people you know, you will realize that their abnormal disinclination to conversation makes them seem morose, sullen, and unfriendly.
+* "I'm Holo the Wisewolf and I have my pride," said Holo sullenly.
 
 - mo'roseness (un)
 I've progressively grown to abhor her habitual moroseness.
@@ -2496,8 +2505,10 @@ He must also save the last surviving member of an accursed royal family.
 * To the uninitiated, this will make little sense.
 
 - e'xasperating (adj)
-Marsha has this exasperating (annoying) way of talking to me like a child.
-You have this exasperating habit of never looking at me!
+extremely annoying
+* Marsha has this exasperating way of talking to me like a child.
+* You have this exasperating habit of never looking at me!
+* "If you would pretend to be strong, you might first hide your trembling hand!" Holo said, exasperated.
 
 - 'clump (cn)
 - af'flicted (adj)
@@ -3223,11 +3234,14 @@ pan (all) + theos (God)
 - 'pantheistic (adj)
 
 - the'ology (un)
+the study of religion and religious ideas and beliefs
+* He studied theology at college.
 
 - theo'logian (cn)
+* Clashes between natural philosophers and theologians in the city were far from rare.
 
 - theo'logical (adj)
-Now this is a theological issue of course, and it's not restricted to Judaism.
+* Now this is a theological issue of course, and it's not restricted to Judaism.
 
 **CHAPTER 12**
 
@@ -3275,7 +3289,7 @@ inexperienced, unsophisticated, trusting
 
 - 'credulous (adj)
 credo (to believe) [Latin]
-Quinn charmed hundreds of credulous (willing to believe, not suspicious or skeptical) investors out of millions of dollars.
+* Quinn charmed hundreds of credulous (willing to believe, not suspicious or skeptical) investors out of millions of dollars.
 
 - cre'dulity (un)
 Advertisers were accused of exploiting consumers' credulity (willingness or ability to believe that something is true).
@@ -3337,35 +3351,35 @@ Joe was always punctilious about repaying (very careful to behave correctly and 
 
 - 'pungent (adj)
 1. having a strong taste or smell
-Pungent diesel fumes poured from the back of the truck.
+* Pungent diesel fumes poured from the back of the truck.
 2. clever, strong, and direct (speech)
-He expressed some fairly pungent criticisms.
+* He expressed some fairly pungent criticisms.
 
 - 'pungence (un)
 - 'pungency (un)
 
 - 'prospect (un)
-What's the prospect for inflation, for world peace, for the domestic energy supply?
+* What's the prospect for inflation, for world peace, for the domestic energy supply?
 
 - pro'spective (adj)
-Your prospective mother-in-law is the one you can look forward to if you marry a certain person; similarly, your prospetive bride, groom, child, job, vacation, etc. is the person, thing, or activity in the future that you look forward to.
+* Your prospective mother-in-law is the one you can look forward to if you marry a certain person; similarly, your prospetive bride, groom, child, job, vacation, etc. is the person, thing, or activity in the future that you look forward to.
 
 - intro'spective (adj)
-He grew withdrawn and introspective (tending to think deeply about your own thoughts, feelings, and behavior, self-analytical).
+* He grew withdrawn and introspective (tending to think deeply about your own thoughts, feelings, and behavior, self-analytical).
 
 - intro'spect (v)
-We betrayed our allies and hurried home, to introspect.
+* We betrayed our allies and hurried home, to introspect.
 
 - intro'spectiveness (un)
 - intro'spection (un)
-Both sang with a great deal of quiet, agonising introspection.
+* Both sang with a great deal of quiet, agonising introspection.
 
 - 'circumspect (adj)
-The governor was usually circumspect (careful, cautious) when dealing with the media.
+* The governor was usually circumspect (careful, cautious) when dealing with the media.
 
 - circum'spection (un)
 - 'circumspectness (un)
-Circumspection (care, cautiousness) is required in the day-to-day exercise of administrative powers.
+* Circumspection (care, cautiousness) is required in the day-to-day exercise of administrative powers.
 
 - s'pecious (adj)
 A specious argument sounds plausible but in reality is based on an error, a fallacy, or an untruth.
@@ -3395,7 +3409,10 @@ There are occasions, however, when we can hardly brook the intrepidity (fearless
 
 - trepi'dation (un)
 trepido (to tremble)
-With some trepidation (a feeling of anxiety or fear about something that is going to happen), I opened the door.
+a feeling of anxiety or fear about something that is going to happen
+* With some trepidation, I opened the door.
+* "What, are you afraid?" said Holo at Lawrence's trepidation as she smiled ruefully.
+* Lawrence grinned ruefully and closed his eyes.
 
 - 'scintillating (adj)
 scintilla (a quick, bright spark) [Latin]
@@ -3523,7 +3540,9 @@ lassus (tired) [Latin]
 The candidates have been trying to lift voters out of their lassitude (tiredness, lack of energy and interest).
 
 - bon vi'vant (cn)
-* He created a skirt-chasing bon vivant (someone who enjoys good food and wine, and being with people) persona for himself.
+"person who lives well"
+someone who enjoys good food and wine, and being with people
+* He created a skirt-chasing bon vivant persona for himself.
 
 - gour'met (adj)
 * Now gourmets can treat their palates to real Turkish food.
@@ -3532,7 +3551,7 @@ The candidates have been trying to lift voters out of their lassitude (tiredness
 * Lord Burlington was a great collector and connoisseur of paintings.
 
 - 'gourmand (cn)
-In addition, the festival brings tourists and gourmands (like gourmet, but less of a compliment) to the island.
+* In addition, the festival brings tourists and gourmands (like gourmet, but less of a compliment) to the island.
 
 - gorman'dize (v)
 They were also, according to witnesses, gourmandizing (to stuff oneself like a pig) on the food stuffs kept by the clergy.
@@ -3642,6 +3661,8 @@ Her curly hair had a cute red satin (a type of cloth that is very smooth and shi
 Frankfurt, Germany, where the burghers once greatly enjoyed their smoked beef and pork sausages, which we now ask for in delicatessen stores and supermarkets by the name of frankfurters, franks, or hot dogs.
 Smokies are made of coarsely ground beef and pork. They are similar to frankfurters (a long reddish smoked sausage) but are more heavily smoked.
 
+- 'frail (adj)
+
 - 'frailty (n)
 * Since comedy ridicules the frailties (weakness) of man, it professes a moral aim.
 * The recent riots are evidence of the frailty of the peace agreement.
@@ -3716,7 +3737,9 @@ con (together) + fluo (to flow) [Latin]
 2. a situation in which two or more things combine or happen at the same time
 * The problem which confronted the Government arose out of the confluence of two streams of difficulty.
 
-- fluent (adj)
+- 'fluent (adj)
+fluo (to flow) [Latin]
+* He spoke in fluent Italian.
 
 - 'giddy (adj)
 1. dizzy, feeling slightly sick and unble to balance, because everything seems to be moving
@@ -3941,6 +3964,7 @@ foxlike
 - 'ursine (adj)
 ursus (bear) [Latin]
 bearlike
+* After all, according to the story, the town of Yoitsu had been destroyed by ursine monsters six hundred years ago.
 
 - 'lupine (adj)
 lupus (wolf) [Latin]
@@ -4135,8 +4159,11 @@ completely unreasonable, stupid, or wrong
 * Then, devise a personal mnemonic for each word you flunked.
 
 - irre'sistible (adj)
-* Men find Natalie irresistible (attractive, desirable).
-* I was overcome by an irresistible (too strong or powerful to be stopped or prevented)urge to cry.
+1. so attractive, desirable etc. that you cannot prevent yourself from wanting it
+* Tax-cutting proposals could prove irresistible to lawmakers.
+* Men find Natalie irresistible.
+2. too strong or powerful to be stopped or prevented
+* I was overcome by an irresistible urge to cry.
 
 - insistent (adj)
 * She was insistent (demanding firmly and repeatedly that something should happen) that they should all meet for dinner.
@@ -4450,9 +4477,15 @@ hit/strike paydirt = to make a valuable and useful discovery
 * Even in the most painstakingly edited of magazines, a silly little misspelling of a perfectly common word will occasionally appear.
 
 - in'dignant (adj)
-* Liz was indignant (angry and surprised because you feel insulted or unfairly treated) at the way her child had been treated.
+angry and surprised because you feel insulted or unfairly treated
+* Liz was indignant at the way her child had been treated.
 * "Of course, I didn't tell her!" Sasha said indignantly.
 * Practically every reader of the magazine spots it [silly mistake] at once and writes an indignant letter, beginning: "Didn't you ever go to school...?"
+
+- indig'nation (un)
+feelings of anger and surprise because you feel insulted or unfairly treated.
+* To his indignation, Charles found that his name was not on the list.
+* Lawrence was not so blind as to think she wasn't making a show of childish indignation, though.
 
 - corre'spondence (un)
 1. official letters
@@ -4560,7 +4593,9 @@ cheval (horse) [French]
 * The great cavalcade was on the move (a parade, a line of people on horses or in cars or carriages moving along as part of a ceremony).
 
 - 'haughty (adj)
-* Jessica turned away with a haughty (behaving in a proud unfriendly way) look on her face.
+behaving in a proud unfriendly way
+* Jessica turned away with a haughty look on her face.
+* "A merchant? There's no town in the direction you came from, merchant," said the knight haughtily.
 
 - off'hand (adj)
 * I didn't like his offhand (said or done without thinking or planning) manner.
@@ -4573,10 +4608,12 @@ cheval (horse) [French]
 * After her cavalier refusal, I'll never invite her to another party.
 
 - high-handed (adj)
-She resented his high-handed (using your authority in an unreasonable way) manner.
+using your authority in an unreasonable way
+* She resented his high-handed manner.
+* It was a strange way of speaking for someone (a low-rank knight) who'd summoned him (Lawrence) over so high-handedly earlier.
 
 - 'cavalry (plural, un)
-The Black Prince led a cavalry (mounted soldiers) charge against them.
+* The Black Prince led a cavalry (mounted soldiers) charge against them.
 
 - in'nocuous (adj)
 noceo (to injure) [Latin]
@@ -4788,7 +4825,13 @@ unnecessarily complicated and difficult to understand
 * By the 1920s, the weed was rampant.
 
 - prolife'ration (un)
+a sudden increase in the amount or number of something
 * Shortening product life cycles and rapid product proliferation mean that investment in innovation is critical in global competition.
+
+- pro'liferate (vi)
+if something proliferates, it increaes quickly and spreads to many different places
+* Computer courses continue to proliferate.
+* Indeed, the rumor was proliferating that not even the god of the Church existed.
 
 - coin'cide (vi)
 1. to happen at the same time by chance
@@ -4976,8 +5019,12 @@ when someone pretends to have certain beliefs or opinions that they do not reall
 * In his initial works, the playwright made physical disease a pivotal factor in the action; from this, his early critics inferred that he had a predilection for focusing on morbid subject matter.
 
 - inebri'ation (un)
-* Dude this is not Infiltration. He's evolved into Inebriation.
+* Dude, this is not Infiltration. He's evolved into Inebriation.
 * They were in an advanced state of inebriation.
+
+- i'nebriated (adj)
+drunk
+* However, she becomes inebriated from the meal and has to rest.
 
 - im'pediment (cn)
 * War is one of the greatest impediments to human progress.
@@ -5198,6 +5245,7 @@ used to say that you refuse to agree with a suggestion or proposal
 * The goal of this second edition is to consolidate thousands of changes suggested by readers since the first was published, to improve presentation of several topics, and to add a small number of new ones.
 
 - com'modity (cn)
+a product that is bought and sold
 * Commodity prices fell sharply.
 * Laptop computers were a rare luxury twelve years ago. Now they are a common commodity.
 
@@ -5210,3 +5258,615 @@ used to say that you refuse to agree with a suggestion or proposal
 - be subject to
 * Violators are subject to a $100 fine.
 * A vector space is a nonempty set V of objects, called vectors, on which are defined two operations, called addition and multiplication by scalars(real numbers), subject to the ten axioms (or rules) listed below.
+
+- ar'cane (adj)
+* Music students often view part writing and figured bass as arcane and antiquated activities.
+
+- 'trample (vi + abverb/prep, vt)
+to step heavily on something, so that you crush it with your feet
+* When the wind is too strong and the stalks are blown over, it is said that the wolf has trampled them.
+trample on/over/through
+* There was a small fence to stop people trampling on the flowers.
+
+- on the nose (AmE spoken)
+exactly
+* He gets up at 6 AM on the nose every morning.
+* Hmm, looks like seventy pelts, on the nose.
+
+- 'pelt (cn)
+pellis (skin) [Latin]
+* A prime beaver pelt was worth $6 to $8 a pound.
+
+- 'pleasantry (cn)
+things that you say to someone in order to be polite, but which are not very important
+* Stephen and Mr. Illing exchanged pleasantries.
+* As the usual pleasantries concluded, Lawrence managed to leave the village just around five o'clock.
+
+- 'doze (vi)
+dusa (to sleep slightly) [Old Norse]
+to sleep slightly for a short time
+* Grandad was dozing in his chair.
+* It was a perfect day for dozing in the wagon as he crossed the plains.
+
+- 'monastary (cn)
+monazein (to live alone)
+a place where monks live
+* At the very edge of his field of vision, he could see a monastery that had been built some years earlier.
+
+- 'cloister (cn)
+a covered passage that surrounds on side of a square garden in a church, monastery etc.
+* The cloisters are fine and have varied and original carved columns and capitals.
+
+- 'cloistered (adj)
+protected from the difficulties and demands of ordinary life
+* Academics lead a cloistered life.
+* He didn't know what young noble was cloistered in this remote location.
+
+- 'masonry (un)
+the bricks from which a building has been made, the skill of building with stone
+* The masonry of the building was magnificent.
+
+- clien'tele (singular)
+all the people who regularly use a shop, restaurant etc.
+* The restaurant attracts a young clientele.
+* When the monastery had first been built, Lawrence had anticipated fresh clientele.
+
+- 'till (vt)
+to prepare land for growing crops
+* Admittedly the monks lived simply, tilling their fields, so trade with them would not be especially profitable.
+
+- so'licit (v)
+to ask someone for money, help, or information
+* Morgan is accused of illegally soliciting campaign contributions
+* There was another problem in that they [monks] would probably solicit donations and leave their bills unpaid.
+
+- out-and-out (adj) [only before noun]
+used to emphasize that someone is definitely a particular kind of person or thing
+* He's an out-and-out (complete) liar.
+* As far as simple trade went, they [monks] were worse partners than out-and-out thieves.
+
+- 'hassle (n)
+problem
+* His deliberate approach likely meant some hassle, but ignoring him could make matters worse later.
+
+- 'drape (vt)
+to cover, hang loosely, or decorate something with a cloth
+* He took off his coat and draped it over a chair.
+* Jack emerged with a towel draped around him.
+* The soldiers' coffins were draped with American flags.
+
+- 'mantle (cn)
+a loose piece of outer clothing without sleeves, worn especially in former times
+* But the mantle draped over his shoulders was gray, indicating a knight of low rank.
+
+- 'tarp (n)
+* "Look," said Lawrence, turning around and removing the tarp that covered his load, revealing a bundle of magnificent marten pelts.
+
+- 'paltry (adj)
+trivial, a paltry amunt of something is too small to be useful or important
+* He received only a paltry £25 a day.
+* A year's salary of the knight before him was paltry compared with its worth.
+
+- 'sheaf (cn)
+several pieces, bunch
+* He laid a sheaf of documents of the desk.
+* The sheaf of wheat in the corner of the mountain of furs had been harvested in the village where Lawrence had traded his salt.
+* She was picking a grain of wheat from the sheaf in the corner of the wagon.
+
+- 'occasion (vt)
+to cause something
+* Your behavior has occasioned us a great deal of anxiety.
+* So, what occasions your post here, sir knight?
+
+- 'furrow (v)
+to make the skin on your face form deep lines or folds, especially because you are worried or thinking hard
+* Quin's brow furrowed in concentration.
+
+- conster'nation (un)
+alarm, a feeling of worry, shock, or fear
+* He looked at her in consternation.
+The knight's brow knitted in consternation at the question and furrowed still deeper as he glanced at the bag of honey drops.
+
+- 'cobbler (cn)
+someone who makes and repairs shoes
+* Most of a knight's money went to equipment and lodging; even an apprentice cobbler lived a better life.
+
+- 'inkling (cn usually singular)
+a slight idea bout something
+* I had an inkling that she was pregnant
+* Lawrence had an inkling of what the knight was talking about
+
+- all the more reason why
+used to say that what has just been mentioned is an additional reason for doing what you have suggested
+* But surely that's all the more reason to act quickly.
+
+- goings-on (plural)
+activities or events that are strange or interesting, and often illegal
+* She was shocked by some of the goings-on at the school.
+* The Church had long been unable to keep control over the area, which undoubtedly made it all the more nervous about goings-on.
+
+- 'heathen (cn)
+pegan, someone who is not connected with any of the large established religious
+* Indeed, the Church had been eager to hold inquisitions and convert heathens, and clashes between natural philosophers and theologians in the city were far from rare.
+
+- 'populace (singular + plural verb)
+the people who live in the country
+* A large group of the American populace attends church regularly.
+* The time when the Church could command the populace's unconditional submission was vanishing.
+
+- 'tithe (cn)
+a tax paid to the church in the past
+* In fact, the pope had recently had to petition the monarchs of several nations for funds when tithes had come in below expectations.
+* Unlike the monaster, the church survived on tithes from travelers and pilgrims who would stay the night and pray for a safe journey.
+
+- pre'posterous (adj)
+completely unreasonable, silly, absurd
+* The whole idea sounds absolutely preposterous!
+* Such a tale would have been preposterous even ten years before.
+
+- 'rueful (adj)
+feeling or showing that you wish you had not done something
+* Celia and Brassard, who had overheard everything from the outer office, exchanged rueful glances.
+* "Business everywhere will suffer," said Lawrence with a rueful smile, popping another honey drop into his month.
+
+- 'expanese (cn)
+a very large area of water, sky, land etc.
+* We traveled across a broad expanse of desert.
+* Before Lawrence lay the expanses of the village of Pasloe's fertile wheat fields.
+
+- 'yonder (adv)
+* Oh, Yarei'll be over yonder.
+
+- 'guileless (adj)
+behaving in an honest way, without trying to hide anything or deceive people
+* It was the kind of guileless smile a merchant could never manage.
+* "My apologies! I had forgotten," said the girl with a smile - a completely guileless and charming smile.
+
+- 'ridicule (un)
+unkind laughter or remarks that are intended to make someone or something seem stupid
+* The government's proposals were held up to ridicule (suffered ridicule) by opposition ministers.
+* He had become an object of ridicule among the other teachers.
+
+- make sport of somebody
+to joke about someone in a way that makes them seem stupid
+* They seemed to be making sport of the few who were still working the field, but it wasn't ridicule at their lateness.
+* "Why, then?" Lawrence asked, putting more strength into his voice, feeling that he was being made sport of.
+* Lawrence was now fully aware that he had been made sport of.
+
+- 'jeering (adj) [only before noun]
+a jeering remark or sound is unkind of shows that you do not respect someone
+* His jeering remarks had hidden barbs, and just went to prove how little he cared either way.
+* The jeering was part of the festival.
+
+- 'heft (vt)
+to life something
+* He hefted his bag into the car.
+* Quinn hefted the package in his hands.
+* His face was black with sweat and soil as he grinned and hefted the wheat high, threw his head back, and howled.
+
+- put no stock in
+to not pay any attention to something, to have or invest no faith or belief in something
+* Lawrence had traveled far and wide, so he put no stock in the teachings of the Church.
+
+- pre'cipitous (adj)
+very sudden
+* More telling are the precipitous cost increases at state universities, which account for four out of every give college diplomas.
+* Too many times had he crossed mountains only to arrive in towns and find the price of his goods dropping precipitously.
+
+- 'mettle (un)
+courage and determination to do something even when it is very difficult
+test/show/prove your mettle
+* A crisis will test the minister's mettle.
+* There were many places he had yet to visit, and he felt that the truetest of his mettle as a trader was yet to come.
+
+- 'haul (vt)
+to pull something heavy with a continuous steady movement
+* She hauled her backpack onto her back.
+* The steam locomotive hauled the train.
+* I hauled the door shut behind me.
+* Nevertheless, he hauled loads of goods across the countryside in order to pay his debts in a timely fashion.
+
+- 'wherewithal (n)
+the wherewithal to do something: the money, skill etc. that you need in order to do something
+* Does Cath have the creative wherewithal to make it as a solo act?
+* Even if he saw a good opportunity, he lacked the wherewithal to seize it.
+
+- make ends meet
+to have only just enough money to buy the things you need
+* When Mike lost his job, we could barely make ends meet.
+* He realized such sighs were more frequent lately, whether as a reaction to years of frantic trading simply to make ends meet, or because recently he'd gotten slightly ahead and was thinking more about the future.
+
+- 'yarn (n)
+1. (un) thick thread made of cotton or wool, which is used to knit things
+2. (cn) a story of adventures, travels etc, usually made more exciting and interesting by adding things that never really happened.
+* The old captain would often spin (=tell) us a yarn about life aboard ship.
+* Lawrence had since the beginning laughed off such yarns as ridiculous, but lately he wondered if they could be true.
+
+- 'heave (v)
+1. to pull or lift something very heavy with one great effort
+* Alan heaved his suitcase onto his bed.
+* Mary heaved herself out of bed.
+2. heave a sigh: to breathe in and then treathe out noisily and slowly once
+* Rebecca heaved a sigh of relief.
+* The horse heaved a sign, as if reading Lawrence's simple thought.
+
+- 'reins (plural)
+a long narrow band of leather that is fastened around a horse's head in order to control it
+* And the mare, as if finally understanding, begins to strain, tosses her head wildly, pull at the reins.
+* Lawrence pulled back on the reins, and the horse stopped at the signal, heaving two or three sighs as it realized its long-anticipated rest was here.
+
+- 'slurp (v)
+to drink a liquid while making a noisy sucking sound
+* As the horse happily slurped at the bucket, Lawrence drank some of the water he'd gotten from the village.
+
+- 'hempen (adj)
+made from hemp fiber
+* Normally he slept in the hempen tarp that covered the bed, but tonight he had a wagonload of marten pelts, so it would be a waste not to sleep in them.
+
+- 'hemp (cn)
+marijuana
+
+- 'whisk (vt + adverb/preposition)
+to take someone or something quickly away from a place
+whisk somebody/something away/off
+* The waitress whisked our coffee cups away before we'd had a chance to finish.
+* But jumping right into the pelts would crush the wheat sheaf, so in order to move them aside, he whisked the tarp off the wagon bed.
+
+- 'nestle (v)
+1. to move into a comfortable position, pressing your head or body against someone or something soft
+* Sarah lay there peacefully, the child nestling by her side.
+* He nestled his head against her shoulder.
+2. to be surrounded by something, especially hills or countryside
+* A tiny village nestles among the foothills of the French Alps
+
+- a'llure (singular, un)
+a mysterious, exciting, or desirable quality
+* At 50, she had lost none of her sexual allure.
+* She had a terrifying allure despite her obvious youth, nestled there in the furs and illumintaed by the moonlight.
+
+- 'obstinate (adj)
+stubborn, determined not to change your ideas, behavior, opinions etc. even when other people think you are being unreasonable
+* He was the most obstinate man I've ever met.
+* Don't be so obstinate!
+* Fed up with this girl who slept so obstinately, Lawrence grabbed the pelt that supported her head and jerked it out from under her.
+
+- 'squawk (v)
+1. if a bird squawks, it makes a loud sharp angry sound
+2. to complain loudly and angrily
+- 'squawk (cn)
+* The girl's head flopped into the gap left by the pelt, and finally he heard her irritated squawk.
+
+- 'quail (vi)
+to be afraid and show it by shaking a little bit or moving back slightly
+quail at
+* She quailed visibly at the sight of the prison walls.
+* He wasn't one to quail just because the girl in front of him happened to have the ears of an animal.
+
+- 'supple (adj)
+1. someone who is supple bends and moves easily and gracefully (OPP: stiff)
+* She exercises every day to keep herself supple.
+2. leather, skin, wood etc. that is supple is soft and bends easily
+* Her supple arms were so fine they seemed carved from ice.
+
+- aw'ry (adj)
+on + wry
+1. go awry: if something goes awry, it does not happen in the way that was planned
+* My carefully laid plans had already gone awry.
+* But such a fascinating spectacle could just as soon go awry.
+2. not in the correct position
+* He rushed out, hat awry.
+
+- un'seemly (adj)
+not polite or not suitable for a particular occasion
+* Ann thought it unseemly to kiss her husband in public.
+* But nevertheless Lawrence somehow felt that pointing a blade at a girl was an unseemly thing for a man to do.
+
+- 'reverie (n)
+a state of imagining or thinking about pleasant things, that is like dreaming
+* She was startled out of her reverie by a loud cash.
+* Ignoring Lawrence's confused reverie, Holo spoke as if she were even now relaxing in the hot water, then suddenly she sneezed.
+* Holo interrupted his reverie.
+
+- 'snuggle (vi + adverb/prep)
+to settle into a warm comfortable position
+* She snuggled up in Lea's lap to listen to the story.
+* There was something that still worried him, though, so he spoke to Holo as she snuggled into the fur pile.
+
+- 'pout (v)
+to push out your lower lip because you are annoyed or unhappy, or in order to look sexually attractive
+* "Why do you want me to?" she shot back, pouting.
+
+- 'wince (vi)
+to suddenly change the expression on your face as a reaction to something painful or upsetting
+* Sandra winced as the dentist started to drill.
+
+- re'tort (cn)
+a short angry or humorous reply
+* He was about to make a sharp retort.
+* Lawrence winced at her retort.
+
+- 'muster (vt)
+to get enough courage, confidence, support etc. to do something
+* Finally I mustered up the courage to ask her out.
+* Recovering from his stumble, Lawrence put as much confidence as he could muster into his voice, trying to regain the conversational initiative.
+
+- unhusk (v)
+to remove a husk or shell from a seed or fruit
+* The shell of the unhusked kernel was not edible.
+
+- 'douse (vt)
+1. to stop a fire from burning by pouring water on it
+2. [+ with/in] to cover something in water or other liquid
+* Unable to believe it, Lawrence finally took a skin of water and doused his face with it.
+
+- in'effable (adj)
+too great to be described in words
+* Besides the sheer size of the limb, it also gave off a certain ineffable sense of danger.
+
+- en'dearing (adj)
+making someone love or like you
+* Lawrence couldn't help stopping his hand short at her suddenly endearing manner.
+
+- 'sinew (n)
+a part of your body that connects a muscle to a bone
+* The sinews on his neck stood out like knotted string.
+* The beast-leg that thrust from Holo's shoulder had bone as thick and solid as a tree's limb, wrapped in sinew that would be the envy of any soldier.
+
+- e'xude (v)
+1. (vt) if you exude a particular quality, it is easy to see that you have a lot of it
+* She exudes self-confidence.
+* He exuded an air of wealth and power.
+* The aura that the beast-limb exuded was not something a mere animal could ever manage.
+2. (v) to flow out slowly and steadily, or to make something do this
+* The plant exudes a sticky liquid.
+
+- con'coct (vt)
+to invent a clever story, excuse, or plan, especially in order to deceive someone
+* John concocted an elaborate excuse for being late.
+* He concocted the pretense on the spot, but the more he thought about it, the truer it seemed.
+
+- the morrow (n)
+tomorrow, the future
+* They were to arrive on the morrow.
+* Take no thought for the morrow. (do not worry about the future)
+
+- 'ruminate (vi)
+to think carefully and deeply about something
+ruminate on/over
+* He sat alone, ruminating on the injustice of the world.
+- rumi'nation (n)
+* After a few moments, his ruminations ended.
+* He decided to go to sleep and leave further ruminations for the morrow.
+
+- 'stricken (adj)
+very badly affected by trouble, illness, unhappiness etc.
+* Fire broke out on the stricken ship.
+* Holo was looking at him as if stricken.
+
+- 'jest (vi)
+to say things that you do not really mean in order to amuse people
+* "Do I look as if I am jesting?" she asked, her face pale and tense.
+* "You... you're jesting, surely," she said.
+
+- 'mien (singular)
+a person's typical expression or appearance
+* His mien and his manners continually expressed his sense of himself as an important personage.
+* Her suddenly frail mien rocked the defenseless merchant.
+
+- appre'hensive (adj)
+worried or nervous about something that you are going to do, or about the future
+* "What's wrong?" I asked apprehensively.
+* Now she looked down, as apprehensive as any princess in an old knight tale.
+apprehensive about/of
+* We'd been a little apprehensive about their visit.
+apprehensive that
+* I was apprehensive that something would go wrong.
+* Some had apprehensive looks on their faces.
+
+- 'grimace (vi)
+to twist your face in an ugly way because you do not like something, because you are feeling pain, or because you are trying to be funny
+* Lawrence grimaced and put the question to himself: Should I return this girl to the village, even though she clearly does not want to go?
+grimace at
+* She grimaced at her reflection in the mirror.
+* She sipped the whisky and grimaced.
+
+- 'mull (vt)
+mull something over: to think about a problem, plan etc. for a long time before making a decision
+* He's mulling over the proposals before making any changes.
+* The company is mulling over a share offer.
+* He mulled the matter over in a cold sweat, the two questions battling in his mind.
+
+- be'seech (vt)
+to eagerly and anxiously ask someone for something (to beg)
+* He followed the look to its source and saw Holo gazing at him beseechingly.
+
+- pre'varicate (v)
+to try to hide the truth by not answering questions directly
+* "I'm not sure," he prevaricated.
+- pre'varication (n)
+* Lawrence readied himself to catch the prevarication he was sure would come, but come it didn't.
+
+- i'rate (adj)
+extremely angry, especially because you think you have been treated unfairly
+"The village's abundant harvests will continue without me," she spat, her voice surprisingly irate.
+
+- 'emanate (v)
+(vt) to produce a smell, light etc., or to show a particular quality
+* He emanates tranquility.
+(vi) emanate from something
+to come from or out of something
+* Wonderful smells were emanating from the kitchen.
+"Is that so?" asked Lawrence, overwhelmed by the piercing anger that emanated from Holo.
+
+- square your shoulders
+to stand straight and push your shoulders back, usually to show your determination
+* Holo nodded, squaring her shoulders.
+
+- 'stomach (vt, usually in negatives)
+to be able to accept something, especially something unpleasant
+* A 26% water rate increase is more than most residents can stomach.
+hard/difficult to stomach
+* Perhaps because she couldn't stomach it, she did not so much as look at Lawrence as she spoke.
+* Rob found Cathy's attitude hard to stomach.
+
+- be second to none
+to be the best
+* The quality of Britain's overseas aid program is second to none.
+* My knowledge of wheat, of things that grow in the ground, is second to none.
+
+- 'hamlet (cn)
+a very small village
+* It was not impossible that a countryside hamlet's harvest god had gotten wrapped up in such talk.
+
+- 'bluster (v)
+to speak in a loud angry way that is not really very impressive
+* "That's hardly the point," he blustered.
+
+- bra'vado (un)
+behavior that is deliberately intended to make other people believe you are brave and confident
+* However, when he looked back at Holo, her earlier bravado was entirely gone, now she looked down, as apprehensive as any princess in an old knight tale.
+* Perhaps this was ahow a real god acted: now full of bluster and bravado, now wielding a sharp wit, now showing a childish temper.
+
+- a'bashed (adj, not before noun)
+embarrassed or ashamed because you have done something wrong or stupid
+* She looked rather abashed.
+* She stopped, abashed, and muttered a quick "Sorry," before burying her head in the furs again.
+
+- 'prick (v)
+if an animal pricks up its ears, it raises them to listen to a sound
+* The rabbit stopped suddenly, pricking up its ears.
+* She did not answer immediately, but Lawrence saw her ears prick at his question, so he waited patiently.
+
+- 'cramped (adj)
+a cramped room, building etc does not have enough space for the people in it
+* The kitchen was small and cramped.
+* It was a poor and cramped place of which he had few good memories.
+
+- make off with something [phrasal verb] (not in passive)
+to steal something and take it away
+* Thieves broke into the school and made off ith computer equipment worth £40,00.
+* Althought he'd told her he couldn't make a quick decision, Lawrence had already decided that as long as Holo had not made off with his goods in the morning, he would travel with her.
+* He doubted that she was that sort of troublemaker, but if she was, he thought, she would surely make off with his entire load.
+
+- 'rummage (vi always + adverb/prep)
+to search for something by moving things around in a careless or hurried way
+rummage in/through
+* Looks like someone's been rummaging aroud in my desk.
+* However, when he opened his eyes to the morning mist, Holo was already up, sitting next to him, and rummaging through something.
+* Even if it wasn't actual theft, even a god shouldn't be rummaging around through other people's things.
+
+- 'chasten (vt usually passive)
+to make someone realize that their behavior was wrong or mistaken
+* Party workers have returned to their home towns, chastened by their overwhelming defeat.
+* Far from chastened, she seemed actually proud.
+
+- over'wrought (adj)
+very upset, nervous, and worried
+* Clara was tired and overwrought after all the problems of the last few days.
+* Seeing her like this made the uncertain, overwrought Holo of yesterday seem like something out of a dream.
+
+- contend with (phrasal verb)
+to have to deal with something difficult or unpleasant (cope with)
+* The rescue team also had bad weather conditions to contend with.
+* Indeed it seemed that the real Holo, the one he'd have to contend with from here on out, was this impudent, prancing thing.
+
+- 'impudent (adj)
+rude and showing no respect to other people
+* He was curious to remember where he'd seen that impudent young face before.
+- 'impudence (un)
+* He stared at me with a mixture of impudence and hostility.
+
+- off'hand (adj)
+said or done without thinking or planning
+* What did the inconvenience of an offhand reply really matter?
+* Then, as she verified the fit of the rest of the clothes, she spoke offhandedly.
+
+- self-deprecating (adj)
+trying to make your own abilities or achievements seem unimportant
+* The nice thing about him is his self-deprecating manner.
+* "Though this proud wolf made a bit of a spectacle of herself yesterday," she said self-deprecatingly, as if her flustered demeanor reflected her true feelings.
+
+- 'scamper (vi always + abverb/prep)
+to run with quick short steps, like a child or small animal
+* Children were scampering and wrestling in the playground.
+* Holo scampered on board the wagon.
+
+- ward something off (phrasal verb)
+to do something to try to protect yourself from something bad, such as illness, danger, attack
+* Don't forget insect repellent to ward off the mosquitoes.
+* But to ward off the chill, too small was just right.2
+
+- a'nathema (singular, un)
+something that is completely the opposite of what you believe in
+anathema to
+* His political views were anathema to me.
+* To the Church, all spirits besides the got it worshipped were anathema, tools of evil.
+
+- 'wring out (phrasal verb)
+to tightly twist a wet cloth in order to remove water
+* Sally wrung out the socks and hung them on the towel rack.
+* When Lawrence returned to the room after attending to his soaked wagonload, he found Holo, naked to the waist and wringing out her hair.
+* He finished wringing out his shirt and was about to do the same with his trousers when he remembered Holo's pressence;
+
+- lock (n)
+1. (cn) a small number of hairs on your head that grow and hang together
+* He gently pushed a lock of hair from her eyes.
+2. locks (plural) [literary]  someone's hair
+* Water fell in great, undignified drops from her beautiful brown locks.
+
+- in'different (adj)
+not at all interested in someone or something
+* Sarah was absolutely inifferent to him, and it hurt.
+* "Ha ha, the cool water soothes my burns, it does," said Holo, indifferent to Lawrence.
+
+- 'thresh (v)
+to separate grains of corn, wheat etc. from the rest of plant by beating it with a special tool of machine
+* I mean, shall we thresh it, or shall we leave it as it is? Assuming the talk of you residing in the wheat is true, that is.
+* I'll thresh it and put the grains in a pouch, then.
+
+- 'boon (cn usually singular)
+something that is very useful and makes your life a lot easier or better
+* The bus service is a real boon to people in the village.
+* That would be a boon. Still beter to hang it around my neck.
+
+- 'rustle (v)
+if leaves, papers, clothes etc. rustle, or if you rustle, they make a noise as they rub against each other.
+
+- con'trite (adj)
+feeling guilty and sorry for something bad that you have done
+* Lawrence frowned as his face was dampened by the flying drops, but Holo seemed not the least bit contrite.
+
+- un'charitable (adj)
+unkind or unfair in the way you judge people
+* You got us into this, was my uncharitable thought, now you hold the fort while we climb out of it.
+* Nonetheless he wondered uncharitably if she'd feel the same way if she were actually injured.
+
+- 'grizzled (adj)
+having grey or greyish hair
+* An inn might house poor travelers and grizzled meerchants, but chuches were different.
+
+- 'arduous (adj)
+involving a lot of strength and effort
+* Still, going all the way back to Yorenz, isn't that rather arduous?
+
+- 'canny (adj)
+clever, careful, and not easily deceived, especially in business or politics
+* That depends on how canny the merchant.
+
+- 'mercantile (adj, only before noun)
+concerned with trade
+* This system of barter had been invented by a mercantile nation in the south about a century earlier.
+
+- con'trivance (n)
+a plan or trick to make something happen or get something for yourself, or the practice of doing this
+* "I see... what a strange contrivance," he said, nodding.
+
+- 'plebeian (adj)
+relating to ordinary people and what they like, rather than to people from a high social class
+* It was seen as plebeian to give one's own name.
+
+- 'patchy (adj)
+happening or existing in some areas but not in others
+* Klaus, who was twelve, looked down at the forest floor, which was covered in brown, patchy moss.
+
+- smokestack (cn)
