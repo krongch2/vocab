@@ -49,11 +49,13 @@ elif 1000 <= n < 1300:
 else:
     fs = 24
 
-im = Image.open('ds.jpg')
+im = Image.open('wall/16.png')
 draw = ImageDraw.Draw(im)
 ft = ImageFont.truetype('times.ttf', fs)
-draw.text((180, 130), s, (255, 255, 255), font=ft)
-im.save('dsm.jpg')
+white = (255, 255, 255)
+black = (0, 0, 0)
+draw.text((180, 130), s, white, font=ft)
+im.save('out.jpg')
 
 SPI_SETDESKWALLPAPER = 20
-ctypes.windll.user32.SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0, 'D:\\vocab\\dsm.jpg', 3)
+ctypes.windll.user32.SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0, 'D:\\vocab\\out.jpg', 3)

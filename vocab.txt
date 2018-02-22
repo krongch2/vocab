@@ -1,6 +1,4 @@
-You can outsmart your opponent rather than overpower. (Comboless Clown)
-
-Well either you try to make what you enjoy into a career, or you get a career which will allow you to live comfortably and do what you enjoy. (Martin from Steam)
+Either you try to make what you enjoy into a career, or you get a career which will allow you to live comfortably and do what you enjoy. (Martin from Steam)
 
 The fact that you care too much can be used against you. (Seth Killian)
 
@@ -263,24 +261,36 @@ There was a small refrigerator which stuttered and hummed in the night, and some
 
 - 'sinister (adj)
 sinister (left-handed) [Latin]
-There was something sinister (making you feel that something evil, dangerous, or illegal is happening) about Mr. Scott's death.
+making you feel that something evil, dangerous, or illegal is happening
+* There was something sinister about Mr. Scott's death.
 
 - 'gauche (adj)
 gauche (left-handed) [French]
-Maybe it's gauche (social clumsiness rather than physical one) to ask somebody if they got contacts.
-How gauche I was to say what I thought and wanted!
+doing or saying wrong or impolite things, especially because you do not know the right way to behave
+* It would be gauche to mention the price.
+* Maybe it's gauche to ask somebody if they got contacts.
+* How gauche I was to say what I thought and wanted!
+
+- 'gaucheness (un)
+gauche (left-handed) [French]
+social clumsiness rather than physical one
+* He captures the gaucheness, but he's just too enthusiastic for my liking.
 
 - 'gaucherie (cn)
-I was ridiculed for my sartorial gaucherie (awkward way).
-She had long since got over gaucheries such as blushing.
+gauche (left-handed) [French]
+awkward way
+* I was ridiculed for my sartorial gaucherie.
+* She had long since got over gaucheries such as blushing.
 
 - 'tactless (adj)
-A gauche remark is tactless (likely to upset or embarrass someone without intending to).
-I thought it would be tactless to ask about her divorce.
+likely to upset or embarrass someone without intending to
+* A gauche remark is tactless.
+* I thought it would be tactless to ask about her divorce.
+* She's one of the most tactless people I've ever met.
 
 - fi'nesse (un)
-The gauche person is totally without finesse.
-Dario played the sonata with great finesse.
+* The gauche person is totally without finesse.
+* Dario played the sonata with great finesse.
 
 - a'droit (French, droit = right hand) (adj)
 He was adroit (clever and skilful) at tax avoidance.
@@ -381,8 +391,9 @@ I went to the oculist who blandly told me I would need glasses by the time I was
 - ortho'pedist (cn)
 "How are your bones?"
 orthos (straight, correct) [Greek] + paidos (child)
+the part of medicine that treats illnesses or injuries that affect people's bones or muscles
 The orthospedist, by etymology, straightens children. The term was cioned in 1741 by the author of a textbook on the prevention of childhood diseases. At that time, the correction of spinal curvature in children was a main concern of practitioners of orthopedics.
-After referral to a pediatric orthopedist, she was diagnosed with idiopathic juvenile osteoporosis.
+* After referral to a pediatric orthopedist, she was diagnosed with idiopathic juvenile osteoporosis.
 
 - ortho'pedics (un)
 Robotics are used in orthopaedics and cardiology.
@@ -487,16 +498,25 @@ The group estimates 36,000 geriatricians will be needed by 2030 to treat the gro
 What makes English grammar doubly confounding is that it is slowly but continually changing.
 
 - out'moded (adj)
-* The views of many of the senior professors reflect outmoded (no longer fashionable or useful, outdated) concepts and ideas.
+no longer fashionable or useful, outdated
+* The views of many of the senior professors reflect outmoded concepts and ideas.
 
 - 'stuffy (adj)
-* Their wedding was stuffy (too formal, old-fashioned) and formal.
+too formal, old-fashioned
+* Their wedding was stuffy and formal.
 * Following such outmoded principles, you may think you are speaking "perfect" English, and instead you may sound stuffy and pedantic.
 
 - 'dowager (cn)
+a woman from a high social class
+* Her acne hadn't cleared up, and she was trying to look like a dowager.
+
 - 'seedy (adj)
+a seedy person or place looks dirty or poor, and is often connected with illegal or immoral activities
+* We were staying in a seedy hotel in San Francisco close to the red light district.
+
 - 'handout (cn)
-As in the case of the charitable-looking dowager (a woman from a high social class) who was approached by a seedy (poor, dirty, illegal) character seeking a handout (money or food that are given to someone because they are poor).
+money or food that are given to someone because they are poor
+* The charitable-looking dowager was approached by a seedy character seeking a handout.
 
 - at sb's dis'posal
 * Tanner had a lot of cash at his disposal (available for someone to use).
@@ -611,10 +631,10 @@ That is, all knowledge is mediated via either typographic or chirographic words 
 
 - ca'lligraphy (un)
 kallos (beauty) + graphein (write) = the art of having a beautiful handwriting
-The inside message was written in red calligraphy by David's own hand.
+* The inside message was written in red calligraphy by David's own hand.
 
 - ca'lligrapher, ca'lligraphist (cn)
-They reflect the works of well known calligraphers.
+* They reflect the works of well known calligraphers.
 
 - calli'graphic (adj)
 In compiling these texts, he developed a new calligraphic script.
@@ -647,7 +667,11 @@ These comparisons, like fortune-telling and chiromancy, or the interpretation of
 * After the advent of Fire, the ancient Lords found the three souls.
 
 - a touch of something
-* A calligrapher is called upon to design and write announcements, place cards, et., as a touch of (a small amount of) elegance.
+a small amount of something
+* A calligrapher is called upon to design and write announcements, place cards, etc., as a touch of elegance.
+* Our furniture is guaranteed to add a touch of class to your bedroom.
+* Add a lace top for a touch of glamour.
+* "What?" asked Hazel, with a touch of irritation.
 
 - calli'pygian (adj)
 * Tight slacks are best worn by those of callipygian (beauty + buttock) anatomy.
@@ -814,19 +838,19 @@ Galicia is an autonomous region of Spain.
 
 - 'biopsy (cn)
 bio (life) + opsis (vision) = medical examination
-The biopsies were immediately frozen at -70 degrees celsius.
+* The biopsies were immediately frozen at -70 degrees celsius.
 
 - zo'ologist (cn)
-Knowing an opportunity to make a quick buck, he takes the thing to a zoologist who just happens to be visiting the area.
+* Knowing an opportunity to make a quick buck, he takes the thing to a zoologist who just happens to be visiting the area.
 
 - zo'ology (un)
-But the desire for a deeper understanding of the forest and its creatures led him back to Moscow to study zoology.
+* But the desire for a deeper understanding of the forest and its creatures led him back to Moscow to study zoology.
 
 - zoo'logical (adj)
-The four phyla discussed here have not found their established positions in the zoological system.
+* The four phyla discussed here have not found their established positions in the zoological system.
 
 - 'zodiac (n)
-The planets are evenly dispersed around the zodiac.
+* The planets are evenly dispersed around the zodiac.
 
 - zo'diacal (adj)
 I didn't have the heart to point out the zodiacal error, that Leo is usually depicted as a lion.
@@ -1027,10 +1051,10 @@ This case involves so many kinds of pathology that several different specialists
 - pa'thologist (cn)
 A pathologist carried out a post-mortem (autopsy) examination.
 
-- unconscionable (adj)
-The war caused an unconscionable (much more than is reasonable or acceptable) amount of suffering.
-No matter what misery your fabrications may cause your innocent victims, you never feel the slightest twinge of guilt. You're an unconscionable (without pangs of conscience, no regret) liar
-Moreover the fundamental principle that equity is concerned to prevent unconscionable conduct permeates all the elements of the doctrine.
+- un'conscionable (adj)
+* The war caused an unconscionable (much more than is reasonable or acceptable) amount of suffering.
+* No matter what misery your fabrications may cause your innocent victims, you never feel the slightest twinge of guilt. You're an unconscionable (without pangs of conscience, no regret) liar.
+* Moreover the fundamental principle that equity is concerned to prevent unconscionable conduct permeates all the elements of the doctrine.
 
 - 'twinge (cn)
 1. a sudden feeling of slight pain
@@ -1062,8 +1086,9 @@ Landmines still kill or maim (to kill or injure someone permanently) about 300 p
 Perhaps, its former wearer was maimed to prevent escape.
 
 - com'punction (un)
-He had no compunction (guilt) about interfering in her private affairs.
-An invading army kills, maims, and tortures without mercy, compunction, or regret.
+guilt, a feeling that you should not do something because it is bad or wrong
+* He had no compunction about interfering in her private affairs.
+* An invading army kills, maims, and tortures without mercy, compunction, or regret.
 
 - ge'neticist (cn)
 - ge'netics (un)
@@ -1180,19 +1205,25 @@ I hereby administer the death penalty to this insubordinate man, who sullied the
 * Normally, it wouldn't be unusual for you to be slain for insolence.
 
 - axio'matic (adj)
-* Footsies 101 begins with three universal concepts axiomatic (not needed to be proved, self-evident) to all Street Fighter games, and the fighting genre in general.
+something that is axiomatic does not need to be proved because you can easily see that it is true, self-evident
+* Footsies 101 begins with three universal concepts axiomatic to all Street Fighter games, and the fighting genre in general.
 * This law has been axiomatic in the evolution of sciences.
 
 - fore'knowledge (un)
-- sovereign (cn) (ruler)
-What enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge.
+knowledge that soething is going to happen before it actually does
+* Awareness that he possesses foreknowledge of events dawns on him, and he faints.
 
-- e'licit (vt) (to succeed in getting information)
-This foreknowledge cannot be elicited from spirits.
-Doing one move or sequence over and over and over is a tactic close to my heart that often elicits the call of the scrub.
+- sovereign (cn)
+a king, queen, or ruler
+* What enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge.
+
+- e'licit (vt)
+to succeed in getting information
+* This foreknowledge cannot be elicited from spirits.
+* Doing one move or sequence over and over and over is a tactic close to my heart that often elicits the call of the scrub.
 
 - dispo'sition (n)
-The dispositions of the enemy are ascertainable through spies and spies alone.
+* The dispositions of the enemy are ascertainable through spies and spies alone.
 
 - 'chasm (cn)
 They got stuck in a chasm at the mountain's base, a land of scrubdom.
@@ -1201,7 +1232,8 @@ They got stuck in a chasm at the mountain's base, a land of scrubdom.
 Competitive games require military virtues: immediacy (when something is important and urgent), emergency tactics, and the end (winning) justifies the means (as long as it's through moves the game defines as legal).
 
 - weasel out of (v)
-There's no weaseling out of (to avoid doing something you should do by using clever or dishonest excuses) defeat by redefining what the game is.
+to avoid doing something you should do by using clever or dishonest excuses
+* There's no weaseling out of defeat by redefining what the game is.
 
 - con'servatism (un)
 Debate involves deception and boldness, risk-taking and conservatism (dislike of change and new ideas).
@@ -1254,7 +1286,7 @@ taceo (to be silent)
 
 - 'gloat (vi)
 The fans are still gloating (show in an annoying way that you're proud of your own success) over Scotland's victory.
-There is always the tendency to gloat, but being polite and reserved is the way to positively influence other people.
+* There is always the tendency to gloat, but being polite and reserved is the way to positively influence other people.
 
 - 'leeway (un)
 There is usually leeway (freedom to do things the way you want) in a tournament to be physically intimidating and say mean and scary things just short of actually violating any rules.
@@ -1327,16 +1359,18 @@ an omnibus law contains several different laws collected together.
 * an omnibus civil rights bill
 
 - 'prescient (adj)
-In the wake of the Los Angeles riots, it would be foolish to ignore Galbraith's prescient (knowing about events before they occur) warnings.
+knowing about events before they occur
+* In the wake of the Los Angeles riots, it would be foolish to ignore Galbraith's prescient warnings.
 
 - 'prescience (un)
-Some of them have occurred exactly as predicted and stand as proof of my prescience and insight.
+* Some of them have occurred exactly as predicted and stand as proof of my prescience and insight.
 
 - 'nescient (adj)
-I ventured into the new Korean restaurant with some equally nescient (lacking knowledge, ignorant) companions.
+lacking knowledge, ignorant
+* I ventured into the new Korean restaurant with some equally nescient companions.
 
 - 'nescience (un)
-The narrator strives to distinguish himself from those who exhibit nescience in relation to the attack.
+* The narrator strives to distinguish himself from those who exhibit nescience in relation to the attack.
 
 - gre'garious (adj)
 1. sociable, friendly
@@ -1488,18 +1522,19 @@ militis (soldier, fighting man)
 - 'militant (adj, cn)
 A militant reformer is one who fights for reforms.
 A militant campaign is one waged aggressively and with determination.
-Sally is a militant in the Women's Liberation movement.
+* Sally is a militant in the Women's Liberation movement.
 
 - 'militancy (un)
-There are signs of growing militancy (the use of confrontational or violent methods in support of a political or social cause) among workers.
+the use of confrontational or violent methods in support of a political or social cause
+* There are signs of growing militancy among workers.
 
 - 'closet (adj)
 * Harry? He's a closet alcoholic. (he doesn't want to admit he's an alcoholic)
 * He finally came out in 1998, after years as a closet homosexual.
 
 - em'bezzle (v)
-Bill? He's embezzling from his own company.
-Two managers were charged with embezzling $400,000.
+* Bill? He's embezzling from his own company.
+* Two managers were charged with embezzling $400,000.
 
 - mo'lest (vt)
 Her father had molested (sexually abuse, attack or physically harm someone) her and her sisters when they were children.
@@ -1790,31 +1825,34 @@ tri (three) + via (ways) = three roads intersect, a fairly public place, so you'
 
 - be'nign, be'nignant (adj)
 1. kind and gentle
-He had a warm, benign nature and offered himself to you as a friend and ally.
-The expression of his face was kind and benignant, and denoted goodness of heart.
+* He had a warm, benign nature and offered himself to you as a friend and ally.
+* The expression of his face was kind and benignant, and denoted goodness of heart.
 2. tumour
-In the brain, both malignant and benign tumours can be harmful because they increase pressure in the skull.
+* In the brain, both malignant and benign tumours can be harmful because they increase pressure in the skull.
 
 - be'nignity, be'nignancy (un)
-There was a wonderful air of benignity and patronage in his manner.
+* There was a wonderful air of benignity and patronage in his manner.
 
 - 'scoundrel (cn)
-Why let yourself be led away with that kind of scoundrel (a bad or dishonest man)?
+a bad or dishonest man
+* Why let yourself be led away with that kind of scoundrel?
 
 - bene'diction (n)
-I give these children my benediction.
+a Christian prayer that asks God to protect and help someone
+* I give these children my benediction.
 
 - bene'dictory (adj)
-Our thanks, yet again, to Shirley for arranging another highly successful outing, and to Richard for rounding off the day with such a benedictory and appropriate poetry recital.
+* Our thanks, yet again, to Shirley for arranging another highly successful outing, and to Richard for rounding off the day with such a benedictory and appropriate poetry recital.
 
 - be'neficent (adj)
-Many beneficent projects have to be foregone (to not do or have something pleasant or enjoyable) if sufficient funds are lacking.
+* Many beneficent projects have to be foregone (to not do or have something pleasant or enjoyable) if sufficient funds are lacking.
 
 - be'neficence (un)
-Victims live in fear while repeat violators enjoy the benefits of parole under the beneficence (doing good) of liberal magistrates.
+* Victims live in fear while repeat violators enjoy the benefits of parole under the beneficence of liberal magistrates.
 
 - 'benefactor (cn)
-An anonymous benefactor (donor) donated $2 million.
+donor
+* An anonymous benefactor donated $2 million.
 
 - 'benefactress (cn)
 They may never through life hear her name, but she is not the less their benefactress (a female benefactor).
@@ -1835,10 +1873,9 @@ A benevolent (well-disposed, kind, or generous) uncle paid for her to have music
 As Confucius saw long ago, benevolence (kindness) or concern for humanity is the indispensable root of it all.
 
 - 'bona fide (adj)
-bonus (good) + fides (faith, trust) = in good faith, real, true, and not intended to deceive anyone.
-a bona fide offer
-a bona fide effort to negotiate differences
-Only bona fide members are allowed to use the club pool.
+bonus (good) + fides (faith, trust) = in good faith, real, true, and not intended to deceive anyone (legit).
+* Only bona fide members are allowed to use the club pool.
+* Failure on the free shot is not recorded and does not count against the student, but a pass is a bona fide pass.
 
 - fi'delity (un)
 1. being loyal to your husband, wife
@@ -1987,8 +2024,8 @@ Her inarticulateness made us believe we were eloquent.
 "talk much, little sense"
 garrio (to chatter)
 Miss Bates, a character in Emma, a novel by Jane Austen
-A garrulous talker chatters away like a monkey.
-Having a topic of conversation banned must be a particular strain for someone as garrulous as him.
+* A garrulous talker chatters away like a monkey.
+* Having a topic of conversation banned must be a particular strain for someone as garrulous as him.
 
 - gar'rulity, 'garrulousness (un)
 Their garrulousness surprised him, although he thought that this, too, could have a certain pathological quality.
@@ -2206,9 +2243,11 @@ a tycoon
 
 - mag'nificent (adj)
 magnus (large) + facio, factus (to do)
-It was a beautiful warm and calm day, and the view of mountains and lakes were magnificent.
+* It was a beautiful warm and calm day, and the view of mountains and lakes were magnificent.
 
-- 'magitude (n)
+- 'magnitude (n)
+magnus (large)
+* They didn't seem to appreciate the magnitude of the problem.
 
 - 'magnum (cn)
 1. a bottle of 1.5 liters of wine
@@ -2281,14 +2320,16 @@ For example, if your focus is on a particular first-person shooter game, you mig
 He dabbled in left-wing politics
 
 - 'coddle (vt)
-I know that taking the first step can be the hardest part of the journey, so I wanted to coddle you a little just to get you going.
+to treat someone in a way that is too kind and gentle and that protects them from pain or difficulty
+* I know that taking the first step can be the hardest part of the journey, so I wanted to coddle you a little just to get you going.
 
 - ventral (adj)
 venter, ventris (belly)
-The nervous system consists of a lobed dorsal brain and ventral (relating to belly) nerve cord with fused paired ganglia.
+* The nervous system consists of a lobed dorsal brain and ventral nerve cord with fused paired ganglia.
 
 - ventricle (cn)
-As the impulse travels down the bundles, the ventricles (one of the two lower chambers of the heart that receive from the auricles) contract and the cycle repeats itself.
+one of the two lower chambers of the heart that receive from the auricles
+As the impulse travels down the bundles, the ventricles contract and the cycle repeats itself.
 
 - ventricular (adj)
 In addition, the right coronary artery occasionally supplies a sizeable portion of left ventricular myocardium.
@@ -2378,7 +2419,7 @@ somnus (sleep) + fic (to make)
 He should not stigmatize the world for being sleepy, when he himself has given a somnific (someniferous, soporific) influence to all his readers.
 
 - fre'netic (adj)
-She rushes from job to job at a frenetic pace.
+* She rushes from job to job at a frenetic pace.
 
 - 'somnolent (adj)
 1. sleepy
@@ -2387,17 +2428,18 @@ It would be frenetic in the day, somnolent at night.
 By her somnolent expression he could see she was still tired.
 
 - 'somnolence, 'somnolency (un)
-He must anticipate the sun in rising, or be whipped severely for his somnolency.
+* He must anticipate the sun in rising, or be whipped severely for his somnolency.
 
 - in'somnia (un)
-He suffered from insomnia and was taking sleeping pills each night.
+* He suffered from insomnia and was taking sleeping pills each night.
 
 - in'somniac (adj), (cn)
-The unfortunate victim of this ability is insomniac.
-I'm an incurable insomniac, so I get a lot of my work done while the world sleeps.
+* The unfortunate victim of this ability is insomniac.
+* I'm an incurable insomniac, so I get a lot of my work done while the world sleeps.
 
 - in'somnious (adj)
-Nurses lull to sleep an insomnious (unable to fall asleep) child by swinging him about in their arms.
+unable to fall asleep
+* Nurses lull to sleep an insomnious child by swinging him about in their arms.
 
 - som'nambulism (un)
 somnus (sleep) + ambulo (to walk)
@@ -2525,14 +2567,17 @@ Seath the Scaleless, one of the dragons, born without scales and therefore morta
 After that, things start to get murky (dark and difficult to see, shady, obscure).
 
 - 'annals (plural)
-The annals of the police courts and headlines in the newspapers tell a rather different story.
+the whole history of something
+* The annals of the police courts and headlines in the newspapers tell a rather different story.
 
 - ex'punge (vt)
-The symbol represents Lord Gwyns' firstborn, who lost his deity status and was expunged (to remove a name from a list) from the annals (official records).
+to remove a name from a list, piece of information, or book
+* The symbol represents Lord Gwyns' firstborn, who lost his deity status and was expunged from the annals.
 
 - un'kempt (adj)
-She used to dress so neatly, but now her hair and cloths had become unkempt and dirty (untidy, disordered).
-Ah, go down along the side to reach the depths of the Undead Burg, only unkempt crooks and liars to be found there.
+unkempt hair or plants have not been cut or kept neat (untidy, disordered)
+* She used to dress so neatly, but now her hair and cloths had become unkempt and dirty.
+* Ah, go down along the side to reach the depths of the Undead Burg, only unkempt crooks and liars to be found there.
 
 - 'surrogate (cn)
 The Purging Stone does not dispel curses, but receives them as a surrogate (substitute).
@@ -2573,13 +2618,15 @@ I've scoured (search) near and far but no sight of her.
 * A nubile cleric would be replete with humanity.
 
 - 'lass (cn)
-* The lass (a young woman) weeps in solitude.
+a young woman
+* The lass weeps in solitude.
 
 - 'purebred (adj)
 * The poor little purebred is entirely helpless.
 
 - 'laudable (adj)
-* Laudable (deserving praise, praiseworthy) is thy dedication to sin.
+deserving priase, even if not completely successful (praiseworthy)
+* Laudable is thy dedication to sin.
 * Laudable though the aim might be, the results have been criticized.
 
 - appa'rition (cn)
@@ -2602,24 +2649,29 @@ Minute after minute, aeon after aeon, nothing lets up or develops.
 A dragon is inseparable from its scales, and the transcendent apostles (strong believer), who seek the perpetuity of the ancient dragons, have crossed the very end of the earth to seek this invaluable treasure.
 
 - part and parcel of something
-The living are lured by flame, and this relationship is part and parcel (to be a necessary feature of something) to the art of pyromancy.
-Working irregular hours is all part and parcel of being a journalist.
+to be a necessary feature of something
+* The living are lured by flame, and this relationship is part and parcel to the art of pyromancy.
+* Working irregular hours is all part and parcel of being a journalist.
 
 - 'rascal (cn)
-In your world he was called Salaman the Master Pyromancer. The little rascal (a child who behaves badly, a dishonest man) really made something of himself.
+a child who behaves badly, a dishonest man
+* In your world he was called Salaman the Master Pyromancer. The little rascal really made something of himself.
 
 - 'scrumptious (adj)
 Prisoner: I know a place where we can go visit an old friend of mine. There you can taste cuisine that's even more scrumptious (delicious) than this.
 
 - en'snare (vt)
-Kurenai: Do you think that's enough to ensnare (trap) me?
+* Kurenai: Do you think that's enough to ensnare (trap) me?
 
 - crawl/come out of the woodwork
-Kakachi: I see. So they're finally coming out of the woodwork (suddenly and unexpectedly appear in order to take advantage of a situation).
-Maybe the next Hootie, or preferably the next Alanis, will pop out of the woodwork as well.
+suddenly and unexpectedly appear in order to take advantage of a situation, express their opinion, etc.
+* Kakachi: I see. So they're finally coming out of the woodwork.
+* Maybe the next Hootie, or preferably the next Alanis, will pop out of the woodwork as well.
+* Sooner or later he would emerge from the woodwork and proceed to make a bearable situation unbearable.
 
 - 'fidgety (adj)
-Kiba to Hinata: Nah, you don't seem that different to me. For instance, you still do that nervous fidgety (unable to stay still because of being nervous) thing with your fingers.
+unable to stay still because of being nervous
+* Kiba to Hinata: Nah, you don't seem that different to me. For instance, you still do that nervous fidgety thing with your fingers.
 
 - be cut from the same cloth
 Asuma: I mean, for starters, Naruto doesn't really think before he acts, and Sora's cut from the same cloth.
@@ -2688,10 +2740,9 @@ to pretend to have a particular feeling or to be ill, asleep, etc.
 * Coco Bandicoot: Crash, Crash, my battery is fried (exhausted), make yourself useful big brother and bring an extra battery for me.
 
 - in'vigorating (adj)
-* You really are very diligent. I quite understand. Study is invigorating (making you feel healthy).
+making you feel healthy and giving you a lot of energy
+* You really are very diligent. I quite understand. Study is invigorating.
 * And what makes it such an invigorating saga is his ability to let his idiosyncratic Broadway denizens talk for themselves.
-
-**CHAPTER 11**
 
 - blow off steam (v)
 * You know how good you feel once you blow off steam (to get rid of anger or energy by doing something)?
@@ -2767,17 +2818,21 @@ He's got bootlickers telling him what a big star he's going to be.
 
 - dilet'tante (cn)
 dilettare (to delight)
-You do this largely for your own amusement and not to achieve any professional competence; nor are you at all interested in monetary rewards. Your artistic efforts are simply a means of passing time pleasantly. You are a dilettante (dabbler).
-As we discussed earlier, I'm a dilettante at best when it comes to dance, so I'm just going to be open about my ignorance.
+someone who is not serious about what they are doing or does not study a subject thoroughly
+* You do this largely for your own amusement and not to achieve any professional competence; nor are you at all interested in monetary rewards. Your artistic efforts are simply a means of passing time pleasantly. You are a dilettante (dabbler).
+* As we discussed earlier, I'm a dilettante at best when it comes to dance, so I'm just going to be open about my ignorance.
 
 - dile'ttantish (adj)
-Most war movies come off as voyeuristic or dilettantish (superficial, unprofessional), but there are three [Fires on the Plain (1959), Beau Travail (1999), The Red and the White (1967)]that come to mind which don't seem altogether frivolous.
+superficial, unprofessional
+* Most war movies come off as voyeuristic or dilettantish, but there are three [Fires on the Plain (1959), Beau Travail (1999), The Red and the White (1967)] that come to mind which don't seem altogether frivolous.
 
 - dile'ttantism (un)
-The logic employed in the piece is precisely the sort of weekend-warrior dilettantism you'd expect.
+the practice, method, quality, or character of a dilettante
+* The logic employed in the piece is precisely the sort of weekend-warrior dilettantism you'd expect.
 
 - 'tyro (cn)
-I would, and do, recommend this as the best book (Browning: A Private Life) for the tyro (a beginner), the student, the general reader, and even, in a revisionary context, for the expert.
+beginner
+I would, and do, recommend this as the best book (Browning: A Private Life) for the tyro, the student, the general reader, and even, in a revisionary context, for the expert.
 
 - li'bretto (cn)
 It is also a very good recording including a sumptuous libretto and extensive historical notes.
@@ -2930,10 +2985,12 @@ Perhaps tensions, insecurities, or a need for attention is taking the form of si
 - hypochon'driacal (adj)
 
 - self-effacing (adj)
-Jack faced this minor crisis with typical self-effacing (not wanting to attract attention to yourself, modest) humor.
+not wanting to attract attention to yourself, modest
+* Jack faced this minor crisis with typical self-effacing humor.
 
 - scoff (v)
-Officials scoffed (to laugh at a person or idea and talk about them in a way that you think they are stupid) at the idea.
+to laugh at a person or idea and talk about them in a way that you think they are stupid
+* Officials scoffed at the idea.
 
 - 'patrimony (singular, un)
 pater, patris (father) [Latin] + Juno Moneta (money)
@@ -2994,20 +3051,22 @@ She has suspected Maerose of planning patricide for some time now.
 But the current younger generation, at least as it is on view here, doesn't have any of the patricidal or matricidal tendencies that young artists used to have.
 
 - 'matriarch (cn)
-I learned my sense of guilty and performance from my grandmother, the matriarch of the family.
+* I learned my sense of guilty and performance from my grandmother, the matriarch of the family.
 
 - 'matriarchy (un)
-During the reign of Queen Elizabeth or Queen Victoria, England was a matriarchy.
-He found no evidence that a matriarchy had ever existed or is in any way emerging today.
+* During the reign of Queen Elizabeth or Queen Victoria, England was a matriarchy.
+* He found no evidence that a matriarchy had ever existed or is in any way emerging today.
 
 - matri'archal (adj)
-Whether or not she was cooking, she regularly donned an apron as a symbolically matriarchal gesture that she was in charge of domestic arrangements.
+* Whether or not she was cooking, she regularly donned an apron as a symbolically matriarchal gesture that she was in charge of domestic arrangements.
 
 - ma'ternity (adj)
-Maternity (relating to a woman who is pregnant or who has just had a baby) clothes are more stylish than they used to be.
+relating to a woman who is pregnant or who has just had a baby
+* Maternity clothes are more stylish than they used to be.
 
 - ma'ternity (un)
-But also the whole agenda of maternity (the state of being a mother) and child welfare and its subsequent implementation was promoted by the guild.
+the state of being a mother
+* But also the whole agenda of maternity and child welfare and its subsequent implementation was promoted by the guild.
 
 - ma'ternal (adj)
 1. typical of the way a good mother behaves or feels
@@ -3206,12 +3265,15 @@ If could well be that you have agoraphobia (morbid dread of open space, the reve
 
 - acro'phobia (un)
 akros (highest) [Greek]
-If you have acrophobia (morbid dread of high places), I'd recommend keeping your eyes shut.
+* If you have acrophobia (morbid dread of high places), I'd recommend keeping your eyes shut.
 
 - acro'phobic (adj)
+akros (highest) [Greek]
 
 - 'acrophobe (cn)
-Trite, perhaps, and certainly nothing new to your average acrophobe (a person who suffers from acrophobia), but I suddenly realize the utterly bizarre reality that multiple tons of steel, clothing and human flesh have managed to reach an altitude most birds could never hope to reach.
+akros (highest) [Greek]
+a person who suffers from acrophobia
+* Trite, perhaps, and certainly nothing new to your average acrophobe, but I suddenly realize the utterly bizarre reality that multiple tons of steel, clothing and human flesh have managed to reach an altitude most birds could never hope to reach.
 
 - 'monotheism (un)
 
@@ -3228,10 +3290,17 @@ In many circles of the Qawwal, tribute is paid to the mystic in words that entai
 
 - 'pantheism (un)
 pan (all) + theos (God)
+a doctrine that identifies God with the universe, or regards the universe as a manifestation of God
+* It is the same Kook who refused to term Judaism a monotheistic religion, believing as he did that strains of purified pagan pantheism were essential to the essence of Hebrew religion.
+* This is not a plea for New Age pantheism by the back door.
 
 - 'pantheist (cn)
+pan (all) + theos (God)
+* Because of his ecstatic effusions on nature, Shelley is sometimes labeled a pantheist.
 
 - 'pantheistic (adj)
+pan (all) + theos (God)
+* In pantheistic systems there is no source for the moral standards that karma enforces.
 
 - the'ology (un)
 the study of religion and religious ideas and beliefs
@@ -3243,20 +3312,19 @@ the study of religion and religious ideas and beliefs
 - theo'logical (adj)
 * Now this is a theological issue of course, and it's not restricted to Judaism.
 
-**CHAPTER 12**
-
 - 'genial (adj)
-They're sociable, genial, cordial, affable.
+friendly and happy
+* They're sociable, genial, cordial, affable.
 
 - con'vivial (adj)
 vivo (to live)
 vita (life)
 convivo (to live together)
 convivium (a feast or banquet)
-Pubs are good places for a drink and some convivial (friendly, congenial) conversation.
+* Pubs are good places for a drink and some convivial (friendly, congenial) conversation.
 
 - convivi'ality (un)
-I'm hoping to hook up with friends for dinner and conviviality.
+* I'm hoping to hook up with friends for dinner and conviviality.
 
 - inde'fatigable (adj)
 She won because of her indefatigable (tireless) energy and willpower, mobilizing women in state after state where the Amendment was contested.
@@ -3582,10 +3650,11 @@ pejor (worse) [Latin]
 For hard-line Republicans, the word "liberal" had become a pejorative (word with negative or derogatory connotation, describing such a word or words) term.
 
 - 'boor (cn)
-Of course, the young man reveals himself as a boor (a man who behaves in a very rude way), and pays rather messily for it.
+a man who behaves in a very rude way
+* Of course, the young man reveals himself as a boor, and pays rather messily for it.
 
 - 'boorish (adj)
-Is urbanity a characteristic of boorish people?
+* Is urbanity a characteristic of boorish people?
 
 - 'bloomers (plural)
 Mrs. Elizabeth Smith Miller invented them in 1849, and showed a working model to a famous women's rights advocate, Amelia J. Bloomer. Amelia was fascinated by the idea of garments that were both modest (they they reached right down to the ankles) and convenient and promptly sponsored them.
@@ -3854,6 +3923,7 @@ eu (good) [Greek] + logos (word, speech)
 
 - eutha'nasia (un)
 eu (good) [Greek] + thanatos (death) [Greek]
+the deliberate killing of a person who is very ill and going to die, in order to stop them suffering
 * In the Netherlands, euthanasia has already been legalized.
 
 - badi'nage (un)
@@ -4169,10 +4239,9 @@ completely unreasonable, stupid, or wrong
 * She was insistent (demanding firmly and repeatedly that something should happen) that they should all meet for dinner.
 * The bell rang again insistently (making a continuous pattern of sounds that is difficult to ignore).
 
-**CHAPTER 15**
-
 - 'while (v)
-* The evenings were whiled (to spend time in a pleasant and lazy way) away in endless games of cards.
+while away the hours/evening/days etc: to spend time in a pleasant and lazy way
+* The evenings were whiled away in endless games of cards.
 * You have stayed up all night. And what were you doing? Playing pokwer, a very pleasant way of whiling away time? No.
 
 - 'vigil (n)
@@ -4686,6 +4755,7 @@ con (together) + doleo (to suffer or grieve) [Latin]
 * The priest came to condole (commiserate) with Madeleine.
 
 - con'dolence (plural, un)
+a sympathy for someone who had something bad happen to them, especially when someone has died
 * Let me offer you my condolences.
 
 - 'second
@@ -5447,6 +5517,7 @@ to life something
 - put no stock in
 to not pay any attention to something, to have or invest no faith or belief in something
 * Lawrence had traveled far and wide, so he put no stock in the teachings of the Church.
+* This is mainly because so many players put so much stock into them that they forget to really explore the game and characters true potential in the right hands.
 
 - pre'cipitous (adj)
 very sudden
@@ -5870,3 +5941,10 @@ happening or existing in some areas but not in others
 * Klaus, who was twelve, looked down at the forest floor, which was covered in brown, patchy moss.
 
 - smokestack (cn)
+a tall chimney at a factory or on a ship
+* The smokestacks from a power generating station rise over the horizon.
+* They always look back to the old smokestack industries.
+
+- noncha'lant (adj)
+behaving calmly and not seeming interested in anything or worried about anything
+* "Has he got a girlfriend?" Jill asked, trying to sound nonchalant.
